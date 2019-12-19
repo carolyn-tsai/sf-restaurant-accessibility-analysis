@@ -1,0 +1,1001 @@
+category,name,latitude,longitude,is_closed,rating,image_url,review_count,transactions,region
+seafood,Fog Harbor Fish House,37.809041,-122.410233,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/Lv7tIRX3Bim9bKqtWifmNg/o.jpg,5871,['restaurant_reservation'],region
+ramen,Marufuku Ramen SF,37.785155,-122.432075,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/2lUFO5HWD7_RLDWlT5Nvuw/o.jpg,2757,[],region
+thai,Farmhouse Kitchen Thai Cuisine,37.7602179,-122.4110749,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/woO06sua7uMQNBf0wnjf8w/o.jpg,2279,"['pickup', 'delivery', 'restaurant_reservation']",region
+korean,um.ma,37.7655,-122.46608,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/9ILbI4cYVyeuVnTi4kGzjA/o.jpg,231,['restaurant_reservation'],region
+newamerican,MaMo,37.80384,-122.43366,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/O507g56iRMksc_6K7avpww/o.jpg,86,['restaurant_reservation'],region
+cajun,Voodoo Love,37.7717904,-122.416668876,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/U4WIkb6PmIDztoOWUoQqWg/o.jpg,44,"['pickup', 'delivery', 'restaurant_reservation']",region
+bars,Liholiho Yacht Club,37.78818,-122.41458,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/FK2X98w6z5naJyiQjsGTNA/o.jpg,2339,['restaurant_reservation'],region
+korean,Daeho Kalbijjim & Beef Soup,37.78601,-122.42858,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/LaFYy38ZDs39NsqIm6Wz4g/o.jpg,617,[],region
+peruvian,Limón Rotisserie,37.7570514,-122.416461,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/wvbMWakjpf0c-0QeucFl9Q/o.jpg,3160,"['pickup', 'restaurant_reservation']",region
+dimsum,Dumpling House,37.763552,-122.432762,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/MoFIRGwljosSEWWQi_JFHg/o.jpg,117,[],region
+chickenshop,The Bird,37.78724,-122.39995,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/swsVh8zitzh6gipKB4zaUA/o.jpg,1672,[],region
+mediterranean,Noosh,37.7880771447147,-122.43393894285,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/htZmQ5FmRZjYRujcb2T_WA/o.jpg,287,[],region
+burmese,Burma Superstar,37.782787322998,-122.462539672852,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/CQljYYJrIWarCxsz02s-7A/o.jpg,6705,[],region
+dimsum,Dumpling Time,37.7697533,-122.4022546,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/LpVJS1JQ5thyPRCT99mMCQ/o.jpg,1731,"['pickup', 'delivery']",region
+mexican,Tacorea,37.7897794,-122.410717,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/xJUH-UAXBuIEub6HbxPKFQ/o.jpg,1630,[],region
+seafood,Scoma's Restaurant,37.808944,-122.418462,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/5ZqAdIz1IhUDlmK6qP3WvA/o.jpg,3703,['restaurant_reservation'],region
+breweries,Barrel Head Brewhouse,37.7757521780078,-122.446032238623,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/2ANEMUaKPlN3b35N2bDeVg/o.jpg,542,['restaurant_reservation'],region
+ramen,Hinodeya Ramen Bar,37.7861574638014,-122.430057115853,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/rs6UpqUf1oycGk0NuLQXlQ/o.jpg,1007,[],region
+breakfast_brunch,Plain Jane,37.75497,-122.4235,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/NzlG2mWHb4vnOGmQ8vUW9A/o.jpg,175,['restaurant_reservation'],region
+newamerican,Gary Danko,37.80587,-122.42058,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/CAprIoeKQAYV9oUw9xBbmA/o.jpg,5492,[],region
+mediterranean,Souvla,37.7745092706543,-122.437982037663,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/kzOK8tthxodXt9_oSMlSnA/o.jpg,434,[],region
+newamerican,Lark,37.761243,-122.434248,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/BiDUDWE3pDcZnRRvDk7ruA/o.jpg,284,['restaurant_reservation'],region
+sandwiches,Limoncello,37.7873184067081,-122.423591369312,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/GNMz7gMIMgmBZr4WAYUQsw/o.jpg,808,"['pickup', 'delivery']",region
+korean,Surisan,37.80678,-122.41756,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/CQjUMLXrjMLPOhRgDmGyGw/o.jpg,1773,"['pickup', 'restaurant_reservation']",region
+soulfood,Old Skool Cafe,37.734266,-122.390515,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/xk3xQ1bloHuotiF_N-yqzQ/o.jpg,548,['restaurant_reservation'],region
+greek,Souvla,37.77643,-122.425,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/C5rrtsOHAEDZnKWQ_AfWeA/o.jpg,1338,[],region
+caribbean,Cha Cha Cha,37.7691434,-122.4520399,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/rTRFT63eDRgi59LPQyYXcg/o.jpg,3208,['delivery'],region
+tradamerican,The Dorian,37.80065,-122.4365,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/QnVZPmkzjXOnkCzULOisnw/o.jpg,549,['restaurant_reservation'],region
+japanese,Marugame Udon,37.72856,-122.47688,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/0pK937Q42JLCIYqJztL0OA/o.jpg,1601,[],region
+korean,Purple Rice,37.771917,-122.430753,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/lQKbAprZcyqGb4MNDM8qfg/o.jpg,57,[],region
+seafood,Hook Fish,37.7623772,-122.5065697,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/f1t0l-gKYDwLPjM9x0YgmQ/o.jpg,468,[],region
+caribbean,Palm House,37.797772,-122.432887,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/WEhiaYvvbCOpoGPH6rybtQ/o.jpg,829,"['pickup', 'delivery', 'restaurant_reservation']",region
+japanese,Nara Restaurant & Sake Bar,37.7721665317965,-122.430675700307,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/7zzlpJKaC9bndjuo2UIr6g/o.jpg,1008,['restaurant_reservation'],region
+arabian,Beit Rima,37.76872,-122.42943,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/BfaG5TQ_92HpQuHqiLl9VQ/o.jpg,271,[],region
+vegetarian,Wildseed,37.797643,-122.432446,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/u08PO92_L37rJy1bVvCrpA/o.jpg,151,['restaurant_reservation'],region
+southern,Rusty's Southern,37.7844,-122.41855,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/PePiC0SuSSlZBafPdJklvg/o.jpg,982,['restaurant_reservation'],region
+hawaiian,Pa'ina Lounge & Restaurant,37.785115,-122.432376,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/FF7NuQ0CTghoz5p36_2e_g/o.jpg,579,"['pickup', 'delivery', 'restaurant_reservation']",region
+italian,The Italian Homemade Company,37.801752,-122.411851,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/tpeTNMLfiseXeQ1AhE4_eQ/o.jpg,1444,"['pickup', 'delivery']",region
+gastropubs,Myriad Gastropub,37.757248,-122.418733,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/wvTCIBwYUix2zPx4NOTydA/o.jpg,601,"['pickup', 'delivery', 'restaurant_reservation']",region
+greek,Kitchen Istanbul,37.782849,-122.46321,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/YAjeBu1fTdR4tyT7-DPdWQ/o.jpg,472,['delivery'],region
+cocktailbars,Rooftop 25,37.77851,-122.39432,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/wTnsap_XlLTsqglyfH-eDg/o.jpg,143,['restaurant_reservation'],region
+mediterranean,Troya,37.7893743915288,-122.434076070785,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/MLHVzACARD-Q6H9DbnTG7Q/o.jpg,560,"['pickup', 'delivery', 'restaurant_reservation']",region
+mexican,Padrecito,37.7656775,-122.4500746,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/BkdlyO05_0w0fhA-gkq78A/o.jpg,903,['restaurant_reservation'],region
+dimsum,Dragon Beaux,37.780504,-122.480709,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/fmX3U2vlg_u60aRNVHNIqw/o.jpg,1512,"['pickup', 'delivery', 'restaurant_reservation']",region
+moroccan,Khamsa,37.76654,-122.41798,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/bAfERDz9bPwVKgpEWTmSrQ/o.jpg,200,"['pickup', 'restaurant_reservation']",region
+gastropubs,Hogwash,37.7891754,-122.4099292,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/_NOkpA8lzI6pohNf_MBlag/o.jpg,1041,[],region
+breakfast_brunch,Wooden Spoon,37.7666182758937,-122.430262778253,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/krLFlTtQS7fnm1hHNqoQ0w/o.jpg,330,[],region
+italian,InoVino,37.7658664,-122.4502686,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/BdaPAQ1vu2WbiteNsh37Sg/o.jpg,148,['restaurant_reservation'],region
+korean,Manna,37.76384,-122.46708,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/Xlwqdh2X0l5giKL9cUYykA/o.jpg,1047,[],region
+indpak,Bhoga,37.76139,-122.43541,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/iY6s1ycmoEu_E3yBl7wlgQ/o.jpg,37,"['pickup', 'delivery']",region
+cocktailbars,Tropisueno,37.7853008468227,-122.403918653727,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/hUZgDmue1VRfvIXai6I0wg/o.jpg,4391,['restaurant_reservation'],region
+spanish,Coqueta,37.7984671979957,-122.396616339684,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/mk0iWboSkesnrneGqklt9A/o.jpg,2055,['pickup'],region
+lounges,The View Lounge,37.7853662725987,-122.404355941664,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/pfRrawoQTszGUue7H07w-A/o.jpg,1734,[],region
+seafood,Skool,37.7685096967036,-122.402136325836,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/47i057bRXAm_sIvA2obD5A/o.jpg,1737,"['restaurant_reservation', 'pickup']",region
+himalayan,Cuisine of Nepal,37.74097,-122.42318,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/Ps6UvrXCnzj3UJT1f1372w/o.jpg,544,"['restaurant_reservation', 'pickup', 'delivery']",region
+newamerican,Causwells,37.8001342713833,-122.441983893514,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/TVoM-20ZGYrdFou2SqcuiQ/o.jpg,740,['restaurant_reservation'],region
+italian,The Italian Homemade Company,37.79742,-122.43097,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/2yk0U7vH-dukWQppke4z_w/o.jpg,885,"['pickup', 'delivery']",region
+mediterranean,Lokma,37.78215,-122.47867,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/KbrbFMe9gT3dK6vRCUCwyg/o.jpg,251,['delivery'],region
+himalayan,Dancing Yak,37.76852,-122.42259,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/dMq56bG4r9cUFMs65_uG0g/o.jpg,395,"['restaurant_reservation', 'pickup', 'delivery']",region
+bbq,Jang Soo BBQ,37.780196,-122.487262,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/HHdKsjKTAZHW2RBI0VETaA/o.jpg,547,"['restaurant_reservation', 'pickup', 'delivery']",region
+burmese,Inle Burmese Cuisine,37.7504635620095,-122.427493333333,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/HbF9S9qzBePdtK_zvs8LAg/o.jpg,54,"['pickup', 'delivery']",region
+thai,What The Cluck,37.7695304,-122.4515775,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/KFFQSL2OFfVy3yyUHAL5dA/o.jpg,151,"['pickup', 'delivery']",region
+seafood,Betty Lou's Seafood & Grill,37.798272477416,-122.407057508826,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/HokxeoQQh2wxZgjVT5CViQ/o.jpg,717,[],region
+cocktailbars,The Snug,37.79094,-122.43443,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/a-wxpvrLKUQWAvpWp9BFFQ/o.jpg,179,[],region
+seafood,Woodhouse Fish,37.7676615910331,-122.42844209075,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/FhBdF-5-CpxSVGeUwNrUcg/o.jpg,1645,"['pickup', 'delivery']",region
+cocktailbars,Dear Inga,37.76183,-122.42292,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/MGfwiVBhfKvAYRZ37nuHLQ/o.jpg,37,[],region
+tradamerican,House Of Prime Rib,37.79338,-122.4225,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/HLrjaMoAgYSac0vx71YpCA/o.jpg,7065,[],region
+sushi,KUSAKABE,37.7957017702111,-122.402884835582,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/iXZ1Ts45fAl83jO9XhOELQ/o.jpg,879,['restaurant_reservation'],region
+japanese,Gozu,37.79123,-122.391975,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/9PEIR2uNA9duxlyAh9bT0g/o.jpg,25,[],region
+cafes,Pearl 6101,37.7838344,-122.4830463,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/Iy2vlDWe-Xa70zbbPdgZHg/o.jpg,215,[],region
+mexican,Nopalito,37.77343530099,-122.438993048014,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/wriEq0CDS2qaelNrHOICxg/o.jpg,1854,[],region
+burmese,Burma Love,37.76961,-122.42205,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/ZVQpzimaoghKbc0gWr36lg/o.jpg,1155,"['pickup', 'delivery']",region
+german,Leopold's,37.79892,-122.42207,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/KieulF5MOZ3rUS7WpeRJ_A/o.jpg,1043,"['pickup', 'delivery']",region
+korean,Zazang Korean Noodles,37.7831089496613,-122.441855818033,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/KFTieLgFq4tgSx9-fpugGQ/o.jpg,493,['restaurant_reservation'],region
+thai,Kin Khao,37.7852278803726,-122.409348137336,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/zHz6-HG5XuXSZJq2FvNmsQ/o.jpg,2068,[],region
+wine_bars,Scopo Divino,37.78829,-122.44078,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/8yHXVQCsi8SCv5ZMwBQUKg/o.jpg,237,['restaurant_reservation'],region
+bars,Cockscomb,37.77865,-122.39733,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/O7zkt9UtmenwMF3_fsjt3w/o.jpg,1232,['restaurant_reservation'],region
+steak,Lolinda,37.7566615,-122.4190868,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/M8J3ehcOIRRI8ys1Q0hxtw/o.jpg,1938,[],region
+vietnamese,Bac Lieu Restaurant,37.745267,-122.420402,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/fMAY-waUPruz5d31hPz0Yw/o.jpg,123,['delivery'],region
+laotian,Lao Table,37.7875137329102,-122.398719787598,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/qFWubMqgdB8nX9evmFlz1g/o.jpg,1009,"['restaurant_reservation', 'pickup', 'delivery']",region
+chinese,Mr Szechuan,37.74331,-122.47544,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/lFs0UWLYhefpDnmKRWTOAQ/o.jpg,201,"['restaurant_reservation', 'pickup', 'delivery']",region
+sushi,Shizen Vegan Sushi Bar & Izakaya,37.768314,-122.421642,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/-1BWnyjrsDmTmXH_3wZl_w/o.jpg,1566,['restaurant_reservation'],region
+german,Willkommen,37.7662780850621,-122.430849708617,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/KCHuryc8oFJCGZsC7v3Iwg/o.jpg,74,[],region
+mexican,Nick's Crispy Tacos,37.79607,-122.42196,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/b_TX66NjtzYZRL5Fvtt5KQ/o.jpg,3315,"['restaurant_reservation', 'pickup', 'delivery']",region
+korean,JIJIME,37.7806549278456,-122.478949574806,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/4oowWGAzNmFLEx4vDtBAlg/o.jpg,281,"['pickup', 'delivery']",region
+hotpot,Mokuku,37.78317,-122.4629,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/b-Ll1mHD_U0juFwHS23jng/o.jpg,112,[],region
+tapas,RM 212,37.7937299,-122.40437,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/o76YJZOa2qPUjxL7TlzWsA/o.jpg,395,['restaurant_reservation'],region
+korean,Barnzu,37.7863649,-122.4150261,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/FeYdC454rRRcwV87nohKMw/o.jpg,215,['restaurant_reservation'],region
+fondue,Fondue Cowboy,37.7776832580566,-122.407096862793,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/C7q-8d1pwPmJJwYzxrBySA/o.jpg,605,['restaurant_reservation'],region
+taiwanese,HoDaLa,37.7800054050483,-122.481684274971,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/lA6mWTsxRKE2i2uzwKnklA/o.jpg,460,"['pickup', 'delivery']",region
+tapasmallplates,barvale,37.77574,-122.43829,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/MgG77CTS-AOlSv6GLB-k-Q/o.jpg,319,[],region
+thai,Gai Chicken Rice,37.7642,-122.42998,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/h6IElvBKWnv8Loy-Gz1Lig/o.jpg,197,"['pickup', 'delivery']",region
+ramen,Orenchi Beyond,37.770339531576,-122.422793101852,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/w2L26DF5hO4z4-pSWZC5xw/o.jpg,637,['restaurant_reservation'],region
+mediterranean,Barcha,37.7909966558218,-122.397482693195,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/olP9gX_tBKHXRjG4PJznbg/o.jpg,432,[],region
+seafood,PPQ Dungeness Island,37.78233,-122.484454,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/jDCULB0yrZuQRmwrJ5slqQ/o.jpg,3026,"['restaurant_reservation', 'pickup', 'delivery']",region
+dimsum,Good Luck Dim Sum,37.7830772399902,-122.46720123291,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/fvlcCminph3RPWunB_U3XA/o.jpg,1576,[],region
+cajun,Supreme Crab,37.8079827736506,-122.416533181117,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/Pc3FUe8Q7GL6HVL-slQTig/o.jpg,321,"['restaurant_reservation', 'pickup', 'delivery']",region
+ramen,Oji,37.786171,-122.429681,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/mphYvNuvCDsz1V79p3eGfQ/o.jpg,56,"['pickup', 'delivery']",region
+korean,HRD,37.7811065758548,-122.395329724426,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/PyFG7Chlw7mH5IX7WZDVcA/o.jpg,2480,['delivery'],region
+latin,The Castro Republic,37.76443,-122.43241,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/CaejdCER3OCpNI3khc_3cg/o.jpg,298,[],region
+filipino,Señor Sisig - Restaurant,37.757154,-122.421326,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/qrZldAEcP1TfTTUYpwXXdA/o.jpg,36,[],region
+thai,Marnee Thai,37.76513,-122.46671,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/gdeX343-yYSVXbH1za3E-A/o.jpg,1633,"['restaurant_reservation', 'delivery', 'pickup']",region
+mediterranean,NOVY Restaurant,37.75153,-122.43212,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/HicD0VTPTH7Jo6BNHDwneQ/o.jpg,409,"['delivery', 'pickup']",region
+tradamerican,Golden State Grill,37.72657,-122.43373,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/UEI-HwnXWrTklLn-klgFag/o.jpg,87,[],region
+pizza,Square Pie Guys,37.779479,-122.4103136,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/usNRsp7QJryycWl3n5GZgQ/o.jpg,162,"['delivery', 'pickup']",region
+korean,Saucy Asian,37.7627051739464,-122.430875517226,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/8p9cw2vuU8J_W0IzbAmJSQ/o.jpg,285,"['delivery', 'pickup']",region
+mediterranean,Berber,37.79604,-122.42214,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/nL6kgSzEbconRqr9XeAwlQ/o.jpg,192,"['restaurant_reservation', 'delivery', 'pickup']",region
+soulfood,Hard Knox Cafe,37.75752,-122.38858,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/Ba55Wi04LOxSBP0d6rtHyw/o.jpg,2143,"['delivery', 'pickup']",region
+newamerican,Maven,37.7720561411384,-122.431929123925,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/r8KbGAaDBi4Hj45Tfm7wPQ/o.jpg,686,[],region
+indpak,Rose Indian Cuisine,37.762469,-122.465914,False,5.0,https://s3-media4.fl.yelpcdn.com/bphoto/NX-1oE9IU_dFwO83yDrVDw/o.jpg,33,"['delivery', 'pickup']",region
+bars,80 90 Friendship Restaurant & Bar,37.78224,-122.48543,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/mbgzaq8Z0aSCqWwu0MllQA/o.jpg,34,"['restaurant_reservation', 'delivery', 'pickup']",region
+italian,Roma Antica,37.79989,-122.4408,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/uPPwdSVkRw4hrRQTynvJBA/o.jpg,553,"['delivery', 'pickup']",region
+gastropubs,Fermentation Lab,37.77852,-122.41561,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/QeIATe-5SIU-bTrAjHfdDQ/o.jpg,276,[],region
+tacos,Tacos El Patron,37.748949,-122.416138,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/v7Xqo0fk-s0qmP8PaVtpIw/o.jpg,68,[],region
+newamerican,Cassava,37.7756431636201,-122.496476614988,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/-IcOnpauFRRTfrcoOvGqyw/o.jpg,857,"['delivery', 'pickup']",region
+dimsum,Palette Tea House,37.80585,-122.42292,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/PSCeFHxyhJvQMwS__a_QMg/o.jpg,440,"['restaurant_reservation', 'delivery', 'pickup']",region
+cocktailbars,Horsefeather,37.774501,-122.437355,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/WqrVfQgH7gJXSiYAUXcyrQ/o.jpg,255,[],region
+newamerican,Serpentine,37.758100271937,-122.38818876502,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/iJa_qwgzYIgzWVyeFbHm8Q/o.jpg,1516,[],region
+speakeasies,The Pawn Shop,37.78106,-122.40834,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/X0jMCkLRLsjz6Hw5lmEPmQ/o.jpg,205,[],region
+chickenshop,Rooster & Rice,37.7979011997338,-122.436055409297,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/I3KtXLlVpmq_Ugcv-PHj6Q/o.jpg,435,['pickup'],region
+turkish,Pera,37.762484,-122.397089,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/koZTf4DD-lDIpsbHoP--ug/o.jpg,576,"['restaurant_reservation', 'pickup']",region
+thai,Mangrove Kitchen,37.77251,-122.43696,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/bqfvFC466Qv42jv2V0GLtg/o.jpg,217,"['restaurant_reservation', 'delivery', 'pickup']",region
+mediterranean,Oasis Grill,37.7944464239893,-122.396736520868,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/Sg5cz9hi_p6G22TFja2xRA/o.jpg,1238,"['delivery', 'pickup']",region
+cafes,BOAVIDA,37.741965,-122.504468,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/5KL01DCrwma74n8rXRzhsQ/o.jpg,18,[],region
+malaysian,Azalina's,37.7766593586376,-122.417015906746,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/9I6FGKozYeVs04QBal0sKw/o.jpg,326,"['delivery', 'pickup']",region
+seafood,Golden Crab House,37.76368,-122.47777,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/GAaFyymuAjAXP8n7vIyMjA/o.jpg,183,"['restaurant_reservation', 'delivery', 'pickup']",region
+breakfast_brunch,Cracked & Battered,37.76266,-122.39719,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/yD4wbjvAS8G0yxnQ-C-JKA/o.jpg,589,"['delivery', 'pickup']",region
+korean,SSAL,37.79728333,-122.421945,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/aGtrK-5lWSq1SNgh5QUkuA/o.jpg,86,[],region
+pizza,Delarosa,37.7856178857509,-122.404516608598,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/UPdC4GWl7gqOLTgQcs14BA/o.jpg,1229,['restaurant_reservation'],region
+spanish,Bellota,37.772,-122.40526,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/z8T_YGVvNpZ1V12DBrq1NQ/o.jpg,604,[],region
+japanese,Goemon's,37.76393,-122.47438,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/KQWa0taBVFzPN4oY83wT1A/o.jpg,181,['restaurant_reservation'],region
+italian,Barzotto,37.7525211773737,-122.420917153358,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/x1PFIdDxNKrccGjAaKcvFg/o.jpg,611,"['delivery', 'pickup']",region
+korean,Go Go 7,37.724133,-122.4566716,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/YHuen2BAOpd1RGJBAGA7ew/o.jpg,205,[],region
+italian,Osteria Bella,37.78148,-122.46085,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/FKp7GNDf-9os_zR4Is1zqA/o.jpg,93,['restaurant_reservation'],region
+vietnamese,Perilla,37.76415,-122.46711,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/gEn6tWCzzZtCmhrjpfcUZA/o.jpg,1266,"['delivery', 'pickup']",region
+newamerican,Fifth Arrow,37.78756,-122.40959,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/-aguhVxZQPudtG9oIp7o8A/o.jpg,83,['restaurant_reservation'],region
+mexican,La Taqueria,37.75088,-122.41805,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/quJVkgOw_pf70_enWelldw/o.jpg,4001,[],region
+latin,Artesano,37.786534,-122.450035,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/KYcFQIPUWBBK7yNCkut_YQ/o.jpg,347,"['delivery', 'pickup']",region
+newamerican,Lazy Bear,37.76041,-122.41969,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/I3yhxGxciarZn4J8QJWBkw/o.jpg,591,[],region
+basque,Bask,37.7962703,-122.4041447,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/ndbgnKvkScdH0rxAjcB-yg/o.jpg,630,"['restaurant_reservation', 'pickup']",region
+mediterranean,Oren's Hummus,37.7866074,-122.4021922,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/Vk621yuP_J4Qp6_fgC0xCQ/o.jpg,549,"['restaurant_reservation', 'delivery', 'pickup']",region
+chickenshop,SF Chickenbox,37.77616,-122.40833,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/-EmDsappx3TzGUml4kMzJQ/o.jpg,42,[],region
+french,Chapeau!,37.78327,-122.46066,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/4C-8MFYXexkcdIWgsfiZXA/o.jpg,2687,"['delivery', 'pickup']",region
+tradamerican,Mersea,37.8225719347113,-122.375853886786,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/s1ZnewgGAg1HknHzvQ4yVA/o.jpg,572,[],region
+mexican,Papito Hayes,37.776635,-122.423396,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/hx8z0xJYGETvCrdD-RovJg/o.jpg,676,"['delivery', 'pickup']",region
+italian,Seven Hills,37.7981712,-122.4186984,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/ywOw-ze0h-nLAPlPZXcqVg/o.jpg,1015,[],region
+ramen,Hoshi Ramen & Rice,37.79975,-122.43894,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/QKQhCXHY-cYiFx8wS9fncg/o.jpg,52,"['delivery', 'pickup']",region
+mideastern,Taboun,37.76434,-122.45279,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/V1mqWUntqQzrNYrNXijKDQ/o.jpg,249,['pickup'],region
+ramen,Iza Ramen Lower Haight,37.7718144,-122.4305515,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/3cQJHU21td4qkIjyEw9Mpg/o.jpg,686,[],region
+burmese,Karaweik Burmese Cuisine,37.79991,-122.43804,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/tKWqMdboN41d347aqM16uw/o.jpg,93,"['delivery', 'pickup']",region
+portuguese,Uma Casa,37.74594,-122.42704,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/-5WxvhBrkfdwtbAvzx0xjw/o.jpg,271,['delivery'],region
+pizza,Zero Zero,37.78163,-122.40204,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/YEjUEmZ09305m2aM1WeXWg/o.jpg,3267,"['pickup', 'restaurant_reservation']",region
+cuban,Media Noche,37.76002,-122.42076,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/QvZ9gl3xap3Cc21E1d3bTw/o.jpg,357,[],region
+cambodian,Braised + Bread,37.7891276,-122.4029268,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/AGk4fg4PP6SW6T8_f7CEvg/o.jpg,101,[],region
+brasseries,Bluestem Brasserie,37.785985,-122.404921,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/xuhflx8gI6O3wIVeBV9rWQ/o.jpg,1698,"['pickup', 'restaurant_reservation', 'delivery']",region
+peruvian,Limón Rotisserie,37.7644157409668,-122.422134399414,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/0v5jXR1tXrOaP7aWvd8FHw/o.jpg,2503,['restaurant_reservation'],region
+japanese,KoJa Kitchen,37.7828700207607,-122.463096337593,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/kSv6wiFMyf4xfxwMpFoXNQ/o.jpg,608,['pickup'],region
+seafood,Mission Street Oyster Bar & Seafood Restaurant,37.76057,-122.41954,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/gvh5VKcpj4gwxNAs61pJtA/o.jpg,576,['restaurant_reservation'],region
+newamerican,Birdsong,37.7793175,-122.4105235,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/U5QMHDkquFoHFcIi6BTTyg/o.jpg,222,[],region
+chinese,New Fortune Restaurant,37.79335,-122.40801,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/YMXZZWVRlcczM85TPyk8aQ/o.jpg,77,[],region
+moroccan,Mourad Restaurant,37.78661,-122.4,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/brXQHzs0fTd2w-CkXpNRJg/o.jpg,1030,[],region
+wine_bars,Noeteca Wine Bar,37.74453,-122.42407,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/ivTtVXJF8gd7Q0Inv-X0Fg/o.jpg,464,"['pickup', 'restaurant_reservation', 'delivery']",region
+newamerican,Sorrel,37.7885614,-122.4461881,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/nzB0NEAa531w_K2bc29ZKQ/o.jpg,203,[],region
+greek,Souvla,37.7607842534781,-122.4215246737,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/FaGdDhPoTftD5Z882ZyDOA/o.jpg,347,[],region
+french,Isa Restaurant,37.8001099,-122.43749,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/fWR0Hlg7j0dr4EQrOmbK5g/o.jpg,2032,"['pickup', 'restaurant_reservation', 'delivery']",region
+cafes,Stonemill Matcha,37.76401,-122.4215,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/xm-Mrr5LU1kP0Z6uQNoWqA/o.jpg,777,[],region
+ethiopian,Tadu Ethiopian Kitchen,37.773497320774,-122.391527131952,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/RgIlnmz3VAo3nznAL_0tyQ/o.jpg,237,[],region
+italian,Original Joe's,37.80021,-122.40945,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/4quugw5FJrEENowfhzQxEg/o.jpg,1411,[],region
+chinese,Sam Wo Restaurant,37.7942543029785,-122.405113220215,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/DvRtrIbSljZLJ3ulyw9qIg/o.jpg,1038,"['pickup', 'delivery']",region
+japacurry,Volcano,37.78067,-122.47802,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/1QbFAnxKlHqDVIEE_OJuvQ/o.jpg,1132,"['pickup', 'delivery']",region
+chinese,Yuanbao Jiaozi,37.76356,-122.48067,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/sebyeRQVJ-z5o_Z_tEfxcg/o.jpg,290,[],region
+bars,The Alembic,37.769371,-122.451176,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/wapDPGGbJBMTzSG8PmCMPg/o.jpg,1674,[],region
+japanese,Akira Japanese Restaurant,37.7883057571854,-122.424391528591,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/yb_SCxOUqmWctL4Jv50KWA/o.jpg,339,[],region
+korean,Jin Mi Korean Cuisine,37.78162,-122.41682,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/Xbi2Xy0T6aTDPq51C2QZ2A/o.jpg,452,"['pickup', 'delivery']",region
+bars,Solstice,37.79776,-122.43191,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/WbWsdfNMYl0cuARGPPTNFA/o.jpg,10,['restaurant_reservation'],region
+asianfusion,Chubby Noodle,37.7997609,-122.4085676,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/ixYBBV08lxHIXHOgt17v_g/o.jpg,523,[],region
+korean,SF Honey Pig Korean BBQ,37.78069,-122.46462,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/8qenrxkcVeyVYzoF9SatYQ/o.jpg,9,[],region
+cocktailbars,Sunset Cantina,37.7608517013843,-122.498777322471,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/v9XDwCIzRaohksvFAb5TsA/o.jpg,48,[],region
+seafood,Luke's Lobster SoMa,37.7880152,-122.4000381,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/b9nfl_0GQkoAoGYRVuglaw/o.jpg,379,[],region
+italian,Emmy's Spaghetti Shack,37.7451515,-122.4205093,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/yu4zLVug9rprr5ECgzmzaA/o.jpg,526,"['pickup', 'restaurant_reservation']",region
+bakeries,Breadbelly,37.78275,-122.47439,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/UbkMJCuX-2sjolHzfagjpQ/o.jpg,170,[],region
+seafood,Tadich Grill,37.793431560349,-122.399468217791,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/8LAVB6uYldQfoQ2Qe3Eiww/o.jpg,2418,"['pickup', 'delivery']",region
+spanish,Abrazo,37.7994,-122.41888,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/vfo34oL9X0oJjX0xU2Q1aA/o.jpg,57,[],region
+mexican,Tacorgasmico,37.7632910125469,-122.433849088848,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/HkILZgXMdNx9TcdMzBBYzg/o.jpg,251,"['pickup', 'delivery']",region
+sushi,Kaiju Eats Ramen and Izakaya,37.781106,-122.455533,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/VkajzTtqh4Gg6rR3V-8fJQ/o.jpg,740,['pickup'],region
+latin,La Fusión,37.7916357455614,-122.403691572642,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/-_ZMKb1Aq-ZoMKLJZZaTJw/o.jpg,1106,['delivery'],region
+izakaya,Rintaro,37.76881,-122.41511,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/bKvtxu0ktDW83wwCJqKfZQ/o.jpg,599,[],region
+mideastern,Old Jerusalem Restaurant,37.7495007,-122.4184218,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/4hSqbh3r6OA1HfwUZFWQPw/o.jpg,1063,"['pickup', 'delivery']",region
+italian,Tratto,37.7867826774259,-122.411693133189,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/80-Scnr6oTo8xWWfXR4nsA/o.jpg,535,['pickup'],region
+burgers,Native Burger,37.7815791,-122.4561358,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/12HmrzSaBoDTXQQdfTUOzA/o.jpg,237,['delivery'],region
+japanese,Donburi Ya,37.78153,-122.39903,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/UIEd1zBYo9odpQdE58TJWw/o.jpg,46,[],region
+bbq,Kogi Gogi BBQ,37.763107,-122.466074,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/RnVVzDgjXwmuyUuAejIwbw/o.jpg,412,[],region
+japanese,Sushirrito,37.7902241805415,-122.403766215939,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/32yNKzjDXawK7XoIdQ74ug/o.jpg,1509,[],region
+tradamerican,Dottie's True Blue Cafe,37.7817050429594,-122.409839630127,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/pdoo7aWqUe2_Q5n_o-mGgw/o.jpg,4477,[],region
+mexican,Matador,37.78873,-122.41149,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/0iXpzQAzmGR246ZKOnQacg/o.jpg,566,"['pickup', 'delivery']",region
+salad,RT Rotisserie,37.7750432,-122.4211143,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/w_65qUp3BORbHdwVbF3eMg/o.jpg,403,[],region
+mediterranean,Sababa,37.7911832391356,-122.404289804399,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/ZJldXjthPCLVjeJi2H1YVg/o.jpg,329,"['pickup', 'delivery']",region
+korean,Namu Stonepot - Dolores Park,37.761566,-122.425898,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/Mxz_91QyRwat6ikBpGSvLg/o.jpg,29,[],region
+japanese,Nara,37.79083,-122.42097,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/c_AXdKoLM1lczz4H1wUbBw/o.jpg,212,['restaurant_reservation'],region
+newamerican,Eight AM,37.806251,-122.419204,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/IRxbVFXUG3Ngo_3Y7of0hA/o.jpg,1262,[],region
+vietnamese,Le Soleil,37.78297,-122.46074,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/qtGkScYgbI-A3iZseSf4Zw/o.jpg,522,"['pickup', 'delivery']",region
+gluten_free,Kitava,37.76483,-122.4193,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/JSNbvmtMzHYE_As7eqSBSQ/o.jpg,370,"['pickup', 'delivery']",region
+bubbletea,Stix,37.742616,-122.4809192,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/dqKv2rZbRcCsX_SV03ALig/o.jpg,18,[],region
+filipino,Pinoy Heritage,37.75957,-122.39387,False,5.0,https://s3-media4.fl.yelpcdn.com/bphoto/mpk_r_6hvWS3EQccTdCW-Q/o.jpg,13,[],region
+italian,Vixi,37.7861360012484,-122.453669942915,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/6h-gyL-OI4dSlRA_06Hpsw/o.jpg,193,['delivery'],region
+japanese,Kagawa-Ya Udon,37.7752315,-122.4175278,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/djoAzxBx2eQvurGNL4rveA/o.jpg,291,"['pickup', 'delivery']",region
+seafood,Crab House at Pier 39,37.8094268871436,-122.410365343094,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/rIcBBlcXL55megIYk-1yYA/o.jpg,2196,[],region
+steak,5A5 Steak Lounge,37.7969972,-122.4000609,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/wX47uFBFTQT1HxSukw8oSQ/o.jpg,2192,['restaurant_reservation'],region
+hawaiian,Trailblazer Tavern,37.79089,-122.39669,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/ywI02EoUAwaxkJPNfhKVTw/o.jpg,305,[],region
+cafes,Tastebuds,37.77715801324,-122.46266875416,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/EcfRvOXmPxCXyQQsIUTD6Q/o.jpg,102,[],region
+wine_bars,The Barrel Room,37.794261932373,-122.401649475098,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/u0z-qtTCB2B057r2HCNd-Q/o.jpg,309,['restaurant_reservation'],region
+newamerican,3rd Cousin,37.73907,-122.41366,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/cEmJHFrOeSFvKesqxei6ew/o.jpg,260,[],region
+filipino,Malasa,37.76336,-122.46593,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/Bqz-RWZQVAVohElZj1zRyg/o.jpg,151,[],region
+indpak,Spice of America,37.7732557,-122.4214596,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/rZXeGwMSTae3fg5epnItxA/o.jpg,225,"['pickup', 'restaurant_reservation', 'delivery']",region
+cajun,Queen's Louisiana Po-Boy Cafe,37.806957,-122.40576,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/1t5azljCRyzARi6ikFyHrQ/o.jpg,614,['pickup'],region
+spanish,Bota Tapas & Paella Bar,37.786985807903,-122.411396958251,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/8-dUzi7O6Bx98TeNrhe7og/o.jpg,270,['restaurant_reservation'],region
+japanese,Niku Steakhouse,37.7696671,-122.403567,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/wTT2MYTEfqN8k7jLPFvWKA/o.jpg,200,[],region
+bars,The Monk's Kettle,37.7647290879634,-122.42297490884,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/dH6xyaBjuIEIzPMAw4_27g/o.jpg,2169,"['pickup', 'delivery']",region
+seafood,Waterbar,37.7900429,-122.3886065,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/gtAwAYu1mJ2rZ_WgGavJEg/o.jpg,3012,[],region
+belgian,La Trappe,37.80198,-122.41309,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/mm3J167iyhjHGoyLMjViLQ/o.jpg,833,[],region
+seafood,Franciscan Crab Restaurant,37.8092604518138,-122.414643587598,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/spodGYUfCF_PCpzbXOEqmQ/o.jpg,1759,[],region
+breakfast_brunch,LaLe,37.763813,-122.465797,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/DZRNZNNfFadVDCeE6L28OA/o.jpg,447,"['pickup', 'delivery']",region
+indpak,Aditi Indian Cuisine,37.7552,-122.42078,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/OpoJtzk6mVbGKMB7POrC_w/o.jpg,71,"['pickup', 'restaurant_reservation', 'delivery']",region
+seafood,Ichido,37.740426,-122.403105,False,5.0,https://s3-media3.fl.yelpcdn.com/bphoto/E0iRmQXbk2mNfuYlJe0m_w/o.jpg,115,[],region
+izakaya,Izakaya Mayumi,37.78195,-122.48316,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/_IxWij_wtjQ0f4qfXj2qBA/o.jpg,22,['restaurant_reservation'],region
+coffee,Philz Coffee,37.754338,-122.39008,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/HiMWWzk5zOIr-9Ek4vw7VA/o.jpg,171,[],region
+newamerican,Prospect,37.7899526059628,-122.390913963318,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/BKTuxcPLlN3ml6fHALfU2Q/o.jpg,1557,[],region
+breweries,Bartlett Hall,37.7863779183055,-122.408723160625,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/Je6sl5pFUdkbqNkgjw3dBQ/o.jpg,854,"['pickup', 'restaurant_reservation', 'delivery']",region
+japanese,Kaisen DON,37.72539,-122.46325,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/MvKtCL60946YGpYWxwxCAg/o.jpg,315,"['pickup', 'restaurant_reservation', 'delivery']",region
+thai,Ben Thai Cafe,37.78924,-122.42065,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/BdYusRr5S4MEop5_N_46XQ/o.jpg,467,['pickup'],region
+newamerican,Fable,37.759958,-122.435089,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/HjnuWxd5l3cT_D57nDBU-Q/o.jpg,438,[],region
+newamerican,Urban Tavern,37.78564,-122.41041,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/a0p0L_5p6fI4rdSLzzoj2w/o.jpg,259,[],region
+sandwiches,Roli Roti Gourmet Rotisserie,37.795398235987,-122.392534017563,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/Bo-hvYMsAKRYxQg3BqTMjQ/o.jpg,1446,[],region
+korean,Lucky Pig,37.78509974066,-122.417556957263,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/l-SXZt206nN4ujSwGgxJgg/o.jpg,131,"['pickup', 'delivery']",region
+bars,The Spot Lounge,37.7421188354492,-122.491218566895,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/cvoqxFHRi-h15dE_FTvnkQ/o.jpg,564,"['pickup', 'restaurant_reservation', 'delivery']",region
+ramen,Ippudo San Francisco,37.785942,-122.404501,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/SE7nWXAFunjmSGNHVNyDFQ/o.jpg,912,[],region
+italian,a Mano,37.776963880538,-122.423868469312,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/ezG_zJwov2QNZwyK14EkwA/o.jpg,852,[],region
+pizza,Pink Onion,37.76871,-122.41482,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/8GtQUJi_GHlrng88Mv9TOQ/o.jpg,362,"['pickup', 'restaurant_reservation', 'delivery']",region
+sushi,Hinata,37.78324,-122.42048,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/RSF0VW1hWUK78MyloaiwmA/o.jpg,499,['restaurant_reservation'],region
+ramen,Fumi Japanese Curry & Ramen,37.74397,-122.42051,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/HmRu2lgBB89-Jo_uLe_4Dg/o.jpg,372,"['pickup', 'delivery']",region
+teppanyaki,Super Pan,37.780695,-122.4768301,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/jz5H62waT4mcED5CLw3aXA/o.jpg,358,"['pickup', 'delivery']",region
+mediterranean,Zaytoon Mediterranean,37.77515,-122.43804,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/_wssvo2zkbCRwaBMt0fnlg/o.jpg,86,"['pickup', 'delivery']",region
+newamerican,Twenty Five Lusk,37.778506,-122.394342,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/cJ1J9EpWIGG9pPys7LcafA/o.jpg,1421,['restaurant_reservation'],region
+falafel,Falafelland,37.78065,-122.40806,False,5.0,https://s3-media1.fl.yelpcdn.com/bphoto/vz4keZMfZMQww5EF0iOGXw/o.jpg,172,"['pickup', 'delivery']",region
+seafood,Pier 23 Cafe Restaurant & Bar,37.8033755766027,-122.400886416435,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/ry68twfq4umXydSYNZ7ngg/o.jpg,1720,[],region
+chinese,M.Y. China,37.784236,-122.406566,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/FMR0uScaqw2fkW51g9JJUg/o.jpg,1643,"['pickup', 'restaurant_reservation', 'delivery']",region
+tradamerican,1428 HAIGHT Patio Cafe & Crepery,37.7701485211239,-122.445868540619,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/VHf7PihAjQtfin0BEl-CZw/o.jpg,371,"['pickup', 'delivery']",region
+japanese,Hina Yakitori,37.77707,-122.43792,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/cQTYQF-nHTpX6pdvgym44w/o.jpg,24,[],region
+bbq,4505 Burgers & BBQ,37.7761896,-122.4382846,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/SvS0lGxQbZl2ZcwCk1IOFA/o.jpg,1549,[],region
+sushi,Okane,37.77039,-122.40269,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/bNZ55onVn4drNl3wYy2F-w/o.jpg,352,[],region
+newamerican,Sessions at the Presidio,37.7991516086122,-122.447998051837,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/hpKgnXqhjqIRbTKU6c-_UQ/o.jpg,497,[],region
+seafood,Pacific Cafe,37.77994,-122.49457,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/rkcdO_47sEOhO1MgYtGYng/o.jpg,738,[],region
+pizza,Little Star Pizza,37.77753,-122.43798,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/ireHQCJ683Z2N_ftjkB-CQ/o.jpg,2861,[],region
+thai,Rooster & Rice,37.785324,-122.395487,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/Je308fa44j0Xco3S99E3RA/o.jpg,362,['delivery'],region
+japanese,Sasa,37.78518,-122.4292,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/oIE6BN_OQhz0ewCKT_Ni2Q/o.jpg,184,['restaurant_reservation'],region
+indpak,North India Restaurant,37.787789124691,-122.399305736113,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/howYvOKNPXU9A5KUahEXLA/o.jpg,1646,"['pickup', 'restaurant_reservation', 'delivery']",region
+mediterranean,SF Kebab,37.767008,-122.3901191,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/7y4zh7kQC76F_e0EqFrOzw/o.jpg,282,['pickup'],region
+ethiopian,Tadu Ethiopian Kitchen,37.7848298,-122.4142271,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/pUg-HAc0dCxV4iORG8NJZA/o.jpg,659,"['pickup', 'delivery']",region
+hotpot,Nabe,37.7994842529297,-122.436813354492,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/tU7Bx8Yu_eqjIqd9ghtmCw/o.jpg,207,[],region
+falafel,The Flying Falafel,37.7812488,-122.411304,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/kmdmUh_44nGS_UIpjv4_Sg/o.jpg,893,"['pickup', 'delivery']",region
+vietnamese,The Slanted Door,37.7961824442073,-122.39369675517,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/1iA7wjzU0I-oncWesYJJtw/o.jpg,5632,[],region
+tradamerican,Sunset Reservoir Brewing Company,37.7538401497706,-122.482464055415,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/VxYiJwDd4FQgg9YvuCNNVQ/o.jpg,621,"['restaurant_reservation', 'pickup', 'delivery']",region
+mediterranean,Tuba Express Mediterranean Kebab & Gyro,37.79081,-122.42008,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/wIO_HYhkfzN19rTfcC3EIQ/o.jpg,176,"['restaurant_reservation', 'pickup', 'delivery']",region
+bars,Fly Bar,37.77675,-122.43785,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/51G-M4YWiqtvWH1W0IuDWw/o.jpg,748,"['pickup', 'delivery']",region
+tapasmallplates,Sugarhill Kitchen,37.80087,-122.42541,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/dFUdYPqdLKDluD_pPNIVqg/o.jpg,82,[],region
+lounges,Azucar Lounge,37.77392,-122.411618,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/19xr4p3lb4_JoDtNyIeNjQ/o.jpg,653,['restaurant_reservation'],region
+pizza,Mozzeria,37.76489,-122.42488,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/zxdvXGgc119-M7EBk_R2jg/o.jpg,789,"['pickup', 'restaurant_reservation', 'delivery']",region
+russian,Silk Road,37.727893,-122.476854,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/kC1PP5EUeao_CKzIdauzUA/o.jpg,124,[],region
+pizza,Montesacro Pinseria SF,37.7815976,-122.410121,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/VU6d7csGD1Blhb_fRC2ilA/o.jpg,668,['pickup'],region
+ramen,Hinodeya Downtown,37.79465,-122.40453,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/GS9cGpsoATTbfWqMwKotMw/o.jpg,111,[],region
+breakfast_brunch,Universal Cafe,37.76062,-122.41064,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/JTHfLU4rlLQ3Xz19ShtacA/o.jpg,1347,"['delivery', 'restaurant_reservation', 'pickup']",region
+italian,Credo,37.792134,-122.401989,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/ljtW2dCb60NTfuFRPT1y-g/o.jpg,862,"['pickup', 'restaurant_reservation']",region
+french,Absinthe Brasserie & Bar,37.77714,-122.42268,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/AE80i8mNAmawM9R3SJcelg/o.jpg,3242,[],region
+newamerican,The Rotunda,37.7874117371449,-122.40635645157,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/ycGCnJWayQAmAma2xOuJdQ/o.jpg,1644,[],region
+arcades,Outer Orbit,37.74517,-122.41972,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/HRGWzh55j1dJQA6_NRSoTg/o.jpg,75,"['pickup', 'delivery']",region
+mexican,Papito Potrero Hill,37.762331217976,-122.39734047586,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/TsCGZUMWq4d7eYWxpAoJ5g/o.jpg,681,"['pickup', 'delivery']",region
+latin,School Night,37.76152,-122.38896,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/HfU9IFI4yGt1eRrFG25iJg/o.jpg,89,['delivery'],region
+newamerican,Boulevard,37.79337,-122.39274,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/PrNMuBxtmrwfksK_uFvsSg/o.jpg,2649,[],region
+breakfast_brunch,The American Grilled Cheese Kitchen,37.782229,-122.392869,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/yK11qtes5O_GXgIvt6UNzg/o.jpg,1496,"['pickup', 'delivery']",region
+thai,Derm Restaurant,37.7818512,-122.4537064,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/weflTRWhCZimef6xIyZa6w/o.jpg,215,"['pickup', 'restaurant_reservation', 'delivery']",region
+szechuan,Village House,37.77603,-122.49492,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/gbkOURColflwPQsBpcSFWg/o.jpg,236,"['pickup', 'delivery']",region
+french,Monsieur Benjamin,37.77749,-122.42356,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/qKeCTosdhafWuvXlhGlHFg/o.jpg,913,[],region
+wine_bars,Birba,37.77787,-122.42421,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/XhelCtEK3UMgY31pTORy4Q/o.jpg,114,[],region
+hotpot,Boiling Hot Pot,37.7806682,-122.4786992,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/pjd_QmBovdQljI-oUyefIA/o.jpg,855,[],region
+german,Biergarten,37.7760757082896,-122.424053012078,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/_okkYJxRbb_o5_gFLFOHTA/o.jpg,538,[],region
+latin,Destino,37.7712546,-122.4237757,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/UcpA9mPHe4MYxIiQdTNDJQ/o.jpg,1180,"['pickup', 'delivery']",region
+indpak,ROOH,37.7813044077209,-122.392686848497,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/Aqx54zQGy-4usrESxqEfdA/o.jpg,714,['restaurant_reservation'],region
+breakfast_brunch,Aha Fresh,37.751351,-122.432183,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/EJ9p6FvfqvBIXSpRqhYa0Q/o.jpg,993,['pickup'],region
+korean,707 Sutter,37.7886616504901,-122.412151023746,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/H9hmOuK56dKrpbydya-Z0A/o.jpg,690,[],region
+newamerican,Sutro's at The Cliff House,37.77841,-122.51443,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/fSVG-ExB-TzHY-MNHhow2Q/o.jpg,1390,[],region
+latin,Alma Cocina,37.7523758,-122.4138638,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/SwaoiF215KNmnuwLbT8-jg/o.jpg,248,"['pickup', 'restaurant_reservation']",region
+acaibowls,Palmetto Superfoods,37.78333,-122.4614,False,5.0,https://s3-media4.fl.yelpcdn.com/bphoto/JCtt_KRCp2l8mnMy9wTNAA/o.jpg,52,"['pickup', 'delivery']",region
+ethiopian,Moya,37.776067,-122.414074,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/VWlxQMZqr8FV1bfnhYfHVg/o.jpg,370,"['pickup', 'delivery']",region
+izakaya,Izakaya Yoki,37.789884,-122.412317,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/D5d41uxYzjmKvSa4_cUALg/o.jpg,174,['restaurant_reservation'],region
+japanese,KAIYŌ,37.79801,-122.42967,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/Lkyv0Z48ip8WpBz2DdcXqA/o.jpg,259,['restaurant_reservation'],region
+tea,Samovar Tea - Yerba Buena Gardens,37.7841774486315,-122.402068620684,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/T_uEMIrpIxUZ5BL5dyKDoA/o.jpg,2396,"['pickup', 'restaurant_reservation', 'delivery']",region
+thai,Saap Ver Authentic Thai Cuisine,37.7698933,-122.4045964,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/37ferHIhZ4E0qSonz5EDZw/o.jpg,447,"['pickup', 'restaurant_reservation']",region
+korean,Muguboka Restaurant,37.77713,-122.46317,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/hdzHKxZdW0Ac4w2V45fb8g/o.jpg,762,[],region
+caribbean,Obispo,37.7524,-122.41779,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/jB86HphvnnfoCQygEFC1BQ/o.jpg,74,[],region
+cafes,Diamond Cafe,37.7512897856745,-122.43616884886,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/fVNOYJxJXTfZy-IdcHnt7Q/o.jpg,134,[],region
+mexican,El Buen Comer,37.7418033906311,-122.422228,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/Boih4zUzlpxbqIeUprWfGQ/o.jpg,306,"['pickup', 'restaurant_reservation']",region
+taiwanese,Tasty Pot,37.7827072888613,-122.468120008707,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/5VoWZFxnl1_GwNl1Vl4oyw/o.jpg,445,['pickup'],region
+pizza,Piccolo Forno,37.8013699308642,-122.411981038749,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/SgkcY-4OaGYiPlsHKABZ8Q/o.jpg,557,"['delivery', 'pickup']",region
+newamerican,Barbarossa Lounge,37.7960137277842,-122.403321862221,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/XSAK-bulUUsvjTmYoKOCCg/o.jpg,435,['restaurant_reservation'],region
+hotpot,My Pot,37.7473818,-122.4596398,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/QDVm9JV901sADIeqdetI5A/o.jpg,113,['restaurant_reservation'],region
+cocktailbars,Louie's Gen-Gen Room,37.78818,-122.41458,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/8tA-roKcyy7i0JimZ15VFQ/o.jpg,206,['restaurant_reservation'],region
+breakfast_brunch,Laguna Restaurant,37.7765676,-122.4264822,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/-yqA7rDwuSbpfe8s8DXlqQ/o.jpg,162,"['delivery', 'pickup', 'restaurant_reservation']",region
+cafes,Boba Guys,37.78365,-122.43247,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/4kq5IQZOZQMpWJdmHkOVUw/o.jpg,622,[],region
+italian,Great Gold,37.752349,-122.415498,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/nR1AtFhiBEQn9h7BxX2v4A/o.jpg,58,"['delivery', 'pickup']",region
+sandwiches,Pluto's,37.764082,-122.464775,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/9rt22Go7sopELJr8yIO9eQ/o.jpg,1185,"['delivery', 'pickup']",region
+cocktailbars,Lord George,37.7824636931654,-122.392651699483,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/UC-4l5SHdQXanQM_Cegcmw/o.jpg,265,[],region
+mediterranean,Fayala,37.78914,-122.3943,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/xZyjoL2NfQ17pn7JpcwSkQ/o.jpg,260,"['delivery', 'pickup']",region
+thai,Thep Eatery,37.771317,-122.430458,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/70dbMItpPs1MNUfWX7b9jg/o.jpg,26,['delivery'],region
+spanish,El Lopo,37.7890568,-122.4205053,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/SjI8ORlJ3uXJwaf59ZOrEw/o.jpg,47,[],region
+burmese,Beyond Burma,37.7796,-122.42023,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/EwtQgyXwCBZANlhLi3kTAw/o.jpg,50,[],region
+tacos,Chisme Cantina,37.78862,-122.41483,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/VLj4WylvSfoUB9ove5QoNA/o.jpg,395,"['delivery', 'pickup']",region
+mexican,Flores,37.7976161048577,-122.432580590249,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/6KfLP2B6Sd2yyjdAIPJJTA/o.jpg,478,[],region
+ramen,Tsuta Japanese Soba Noodles,37.7840695,-122.4034888,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/CLYxqbm2lIvNfv1CPmoYRw/o.jpg,176,[],region
+szechuan,Szechuan Cuisine,37.7636943071254,-122.478669355226,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/lfW-17RFuG62S-n6PZ99fA/o.jpg,327,"['delivery', 'pickup']",region
+senegalese,Little Baobab,37.76038,-122.41898,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/C4h_8raB7NqD_35hbPyQRg/o.jpg,558,"['delivery', 'pickup', 'restaurant_reservation']",region
+gastropubs,Trademark,37.77609,-122.40824,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/TmilNmk1HqMGLwkhOyag4w/o.jpg,241,['restaurant_reservation'],region
+newamerican,AL's Place,37.7490078521491,-122.42025397718,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/08UwRSRGvRIyYGRewbdcQg/o.jpg,760,[],region
+beerbar,The Brew Coop,37.75976,-122.42111,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/eQto6kNODtq0Lxj4Bhvlog/o.jpg,208,"['delivery', 'pickup']",region
+japanese,Sakesan Sushi & Bistro,37.7830954,-122.466049,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/ZGDmAxFMtHMFtbFTVcgj7Q/o.jpg,1046,"['delivery', 'pickup', 'restaurant_reservation']",region
+sandwiches,Chomp N' Swig,37.78024,-122.47526,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/McTgCJpkHA7GQhZx5Pqnvg/o.jpg,340,['pickup'],region
+breweries,Little Creatures Mission Bay,37.775227,-122.3902276,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/3xXKSqa8NGme_RRKQrJ3qw/o.jpg,81,[],region
+pizza,Ardiana,37.74235,-122.42634,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/fF3N0EHSiB_q6MzFb-I8bg/o.jpg,118,[],region
+southern,Hazel Southern Bar & Kitchen,37.7759435952097,-122.418609213492,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/XkqzgLNf8FOccPZG76QZqQ/o.jpg,414,[],region
+newamerican,Son's Addition,37.7527611898548,-122.411756327551,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/gmz7DW2gvrJ2tBjKaPQiAQ/o.jpg,227,[],region
+breakfast_brunch,Hollywood Cafe on Fillmore,37.78391,-122.43311,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/LHKrWc7ek6C4B8gCBPA-rw/o.jpg,76,"['delivery', 'pickup']",region
+seafood,The Old Clam House,37.743104492865,-122.404920842484,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/sjwbORwA_ozWa6aX93eSvA/o.jpg,825,[],region
+italian,Tortellino,37.77674,-122.41636,False,5.0,https://s3-media4.fl.yelpcdn.com/bphoto/zOGOTLC8FpkWMksI3lUtbg/o.jpg,14,"['delivery', 'pickup']",region
+sandwiches,Grubbin',37.7429221,-122.4812913,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/9TMMP7VB1iQ5XBzXCqAvRA/o.jpg,471,"['delivery', 'pickup']",region
+burmese,Burma Club,37.782948,-122.407991,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/J8a6g8_ED-8Nb65btnbCZw/o.jpg,92,[],region
+ethiopian,Oasis Cafe,37.7778538803103,-122.438572457672,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/4ox-rlhd2j0X164e3KTnog/o.jpg,241,[],region
+thai,House of Thai,37.7862824,-122.4183383,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/FuIU9gV4tj7ltXNJDATBPw/o.jpg,1348,"['delivery', 'pickup']",region
+italian,Fiorella -Clement,37.7819188861214,-122.484491206706,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/KfW1TdPwMEZ8OpSFHrPL-Q/o.jpg,430,[],region
+chinese,IPOT,37.7638799551144,-122.473210170865,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/wW-zVHVQ9j9fJkI0eey0fQ/o.jpg,991,[],region
+newamerican,Magnolia Dogpatch,37.7577823468635,-122.388138502442,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/ryAB6ZMv5tVodoDUfEmP7g/o.jpg,104,[],region
+indpak,Mela Tandoori Kitchen,37.7811951935291,-122.419438585639,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/Tq5oO_C3wH63DlDFQjEiTQ/o.jpg,573,"['pickup', 'restaurant_reservation']",region
+japanese,Sushi Hon,37.7559672710911,-122.41243198514,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/HySScnwsoAfXfDqvWUtVow/o.jpg,323,['restaurant_reservation'],region
+newamerican,Corridor Restaurant,37.7764980564565,-122.419301022754,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/nDRPz1S5bx9DXnifNZa7nA/o.jpg,373,[],region
+pubs,The Dark Horse Inn,37.715864,-122.440564,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/BuvWZonKHSzntPgkCXNaIg/o.jpg,310,"['delivery', 'pickup']",region
+vietnamese,OTD,37.7870707493052,-122.434144851548,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/B_f3qnfj3P4wxbyTOT1gSw/o.jpg,673,[],region
+beerbar,The Crafty Fox Ale House,37.76983,-122.42039,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/S_Q1fQikvBEoLE7YtYelsA/o.jpg,215,"['delivery', 'pickup']",region
+wine_bars,Indian Paradox,37.77152,-122.43688,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/FVTKbuft6BmgiCVzYFT-Nw/o.jpg,163,[],region
+sushi,Sushi Ondo,37.77246,-122.41653,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/iSC3trw1jFj9cE6BgNn_nw/o.jpg,107,['restaurant_reservation'],region
+dimsum,Harborview Restaurant & Bar,37.7947539493135,-122.396224717197,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/FlvDykrzdyMb4hq7jO5U9w/o.jpg,291,['restaurant_reservation'],region
+cafes,Sunday Gather,37.740334,-122.3891112,False,5.0,https://s3-media3.fl.yelpcdn.com/bphoto/0oxafVtJHvhzumRzXAOr4g/o.jpg,18,"['delivery', 'pickup']",region
+popuprestaurants,Anomaly,37.7890183,-122.3915063,False,5.0,https://s3-media4.fl.yelpcdn.com/bphoto/6IOJDRtxYQXaxHZ_nYgntg/o.jpg,47,[],region
+chinese,China Live,37.7977636140901,-122.407851420238,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/xK241NDuWmhH31eEg270Hw/o.jpg,1144,"['restaurant_reservation', 'delivery', 'pickup']",region
+sushi,Kuma Sushi + Sake,37.7866996515778,-122.419766782189,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/NVyUwp-IFgDsQvGdWmZ63Q/o.jpg,347,[],region
+sushi,Hakashi Japanese Bar & Grill,37.781481382384,-122.396296,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/HcUwdemh3V_LxvpWeCDDcA/o.jpg,201,[],region
+scandinavian,Kantine,37.770655,-122.425312,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/u9jciTqKd64krP9_ihH8sg/o.jpg,159,[],region
+mini_golf,Urban Putt,37.7557019908942,-122.416826814485,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/TwiEXQx26-499bxhNEGyTg/o.jpg,1369,['pickup'],region
+breakfast_brunch,Chloe's Cafe,37.7486351154446,-122.42695521362,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/ajPpR4O2uX1YsCSRCZsxQQ/o.jpg,990,[],region
+bakeries,Vive La Tarte,37.75163,-122.43261,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/YlTEJbWy76AHI5nv3bqyRQ/o.jpg,48,[],region
+latin,Franco's Latin Table,37.7406245,-122.4663397,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/HtIHH4C7wLJELOHcVuyWlg/o.jpg,54,"['restaurant_reservation', 'delivery', 'pickup']",region
+newamerican,Parker Potrero,37.7624675556919,-122.396356112699,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/qYn7N8ZzGSuXmtClp9dhqQ/o.jpg,175,"['delivery', 'pickup']",region
+sushi,Omakase,37.7706719094861,-122.402888577285,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/aabeBLf97F_5wkjntKchww/o.jpg,454,[],region
+newamerican,Park Tavern,37.80113,-122.409,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/AuT6PBxWzRzeLcj07oB-xw/o.jpg,1558,[],region
+thai,Bussaba,37.76441,-122.46369,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/EYWt18_vOnlCB2DIwjdG9A/o.jpg,75,"['restaurant_reservation', 'delivery', 'pickup']",region
+bars,PianoFight,37.7838704221414,-122.410740837442,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/EjMr6troMd9pvq8UnG9Qvw/o.jpg,196,[],region
+newamerican,The Vista Room,37.722949,-122.479177,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/NbXChV8W_TD_TrT13qiYmA/o.jpg,51,['restaurant_reservation'],region
+italian,Spiazzo Ristorante,37.74035,-122.46588,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/JhJK1MHMGRuppRU8hCTSsg/o.jpg,650,"['restaurant_reservation', 'pickup']",region
+indpak,Tilak,37.74085,-122.42273,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/ELvhlzU8rmv2gNlUe4l07g/o.jpg,235,"['delivery', 'pickup']",region
+vegetarian,Greens Restaurant,37.8053224,-122.432264,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/3ZZTHtmY6Sx2lE28CwZmSw/o.jpg,2018,"['delivery', 'pickup']",region
+ramen,Hinodeya,37.78555,-122.396384,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/DjdWo1aHVem5Kzm5C5wy5Q/o.jpg,34,[],region
+sandwiches,The GrilledCheezGuy,37.7811359,-122.410358,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/iqsSd5bok8_CKtlgwDhJSQ/o.jpg,169,[],region
+newamerican,Chambers,37.7831646,-122.4179174,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/oye12LTR8BHm_U1BVok3Qg/o.jpg,966,[],region
+sushi,Sushi Shio,37.769617,-122.422573,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/K2ug4MR2EH2Sw07k42fMyA/o.jpg,4,['restaurant_reservation'],region
+halal,The Halal Guys,37.786352,-122.4104376,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/7FoB44yKUFcrrbX0e4VEbw/o.jpg,788,['delivery'],region
+chinese,Z & Y Bistro,37.79639,-122.4055142,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/Yj-LH120YcNhe_isV7oSGQ/o.jpg,126,['restaurant_reservation'],region
+korean,KKOCHI Grilled Korean BBQ,37.78781,-122.41366,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/zIBtTUROwf2M1KIfY7E8Bw/o.jpg,94,"['delivery', 'pickup']",region
+burgers,Wipeout Bar & Grill,37.8089998891953,-122.410252690316,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/Wn5PS4dCfGZfnSV1sVZIeg/o.jpg,1369,['restaurant_reservation'],region
+breakfast_brunch,Beachside Coffee Bar & Kitchen,37.76056,-122.50825,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/jej0yvIf9808U7W8KKQvEQ/o.jpg,826,[],region
+themedcafes,KitTea Cat Cafe,37.7739346,-122.4222081,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/_HgzPaHPXRJlCPQB0o3e-A/o.jpg,739,['pickup'],region
+mideastern,Maykadeh,37.80002,-122.40714,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/HEuTyVMxN-5qj86LO2iVlQ/o.jpg,841,"['delivery', 'pickup']",region
+salvadoran,Manitas Cafe,37.77351,-122.45071,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/Mo38hLxTF1nFEu8smoKnpQ/o.jpg,88,[],region
+mexican,Colibri Mexican Bistro,37.7871606463558,-122.410636659841,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/njCGxZ8vEjR57-lRKVCWOg/o.jpg,2361,"['restaurant_reservation', 'delivery', 'pickup']",region
+newamerican,The Saratoga,37.787329020702,-122.418082801733,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/TOuOdAuiYNQU92EkJEutug/o.jpg,311,[],region
+newamerican,Presidio Social Club,37.7971000224352,-122.447941750288,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/qreErHOvYWtqheWxsZtrvg/o.jpg,1170,[],region
+karaoke,Underground Grill King,37.7534250865583,-122.490818600292,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/iVbzuN1WTL2Nd03wYCPOcQ/o.jpg,74,['delivery'],region
+sandwiches,Cafe Reverie,37.766169,-122.449763,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/mNkgwcRGSCWCvziudpZNZw/o.jpg,561,[],region
+pizza,Pizza Squared,37.771485,-122.405001,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/pd23QFmh0yGQ6-tjx_mU8g/o.jpg,111,[],region
+sportsbars,Hardwood Bar & Smokery,37.77045,-122.40499,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/C1fkdzMnkNpEI6iw3UzOBw/o.jpg,102,"['delivery', 'pickup']",region
+sportsbars,After Hours,37.74227,-122.49901,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/pNgS799R6U-Ydb8H6_r2bg/o.jpg,104,"['delivery', 'pickup']",region
+chickenshop,Rooster & Rice,37.76085,-122.43365,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/nV3sIhTnPFfq-ZiSFWE9Ew/o.jpg,25,[],region
+izakaya,Noren Izakaya,37.800326,-122.411083,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/2P8TOEx-wrM7dzVUn3gzkg/o.jpg,44,['restaurant_reservation'],region
+foodtrucks,808 Poke Shack,37.7701701098892,-122.411985062063,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/ZxDv2mCoZsxo0R8T86_kSQ/o.jpg,72,[],region
+thai,One Waan,37.73316,-122.434448,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/7LbkuB2QFDxkB3fUWubVQg/o.jpg,225,"['restaurant_reservation', 'delivery', 'pickup']",region
+italian,Magic Flute Ristorante,37.7874104,-122.4530909,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/qPrJrqlK4UmKOBHW4TFkBw/o.jpg,543,[],region
+ethiopian,Massawa Restaurant,37.799714357237,-122.408007364852,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/f_-srGHdq-U9OofpoyC17g/o.jpg,265,"['delivery', 'pickup']",region
+mediterranean,Dunya Bistro,37.79165,-122.42111,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/S93dbto58xRQcoWmEE1i6w/o.jpg,559,[],region
+bars,Coin-Op Game Room,37.779267,-122.398018,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/geJRaxJHsU-h-4LcedWvAg/o.jpg,503,[],region
+peruvian,Mochica,37.76242,-122.39718,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/8beUqtvi8E1tqki3aDWvjg/o.jpg,489,"['delivery', 'pickup']",region
+sushi,Tsubasa Sushi,37.77722,-122.4233,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/qoSrZaA8xC0UPVSYpM0E0w/o.jpg,397,['restaurant_reservation'],region
+pizza,Gusto Pinsa Romana,37.7896740586658,-122.413919270039,False,5.0,https://s3-media1.fl.yelpcdn.com/bphoto/Mz8_apcnqBm01hzlF4URag/o.jpg,251,"['delivery', 'pickup']",region
+sandwiches,Wooly Pig,37.760662161462,-122.388421141818,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/MubiKnOtDnXDTwuulb_3Pw/o.jpg,656,[],region
+sportsbars,Rumors,37.7754681,-122.4066365,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/Rk2eOVlOrbmrFZhOLdiHvQ/o.jpg,260,['pickup'],region
+dimsum,Golden Saba Seafood,37.79552,-122.40434,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/o6dIVHJX1jshysNmeXoiww/o.jpg,131,[],region
+newamerican,Heritage Restaurant & Bar,37.78305,-122.46684,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/2K3FLSIdJOC9RMOPa47vfQ/o.jpg,190,[],region
+japanese,Family Cafe,37.79852,-122.40739,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/CjWloiGHMPKM60uL5EMPNw/o.jpg,27,[],region
+wine_bars,Union Larder,37.79882,-122.41926,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/H_Ce4nfy_xBGMYGaUvIIsw/o.jpg,137,[],region
+italian,The Stinking Rose,37.7982486,-122.4073904,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/8STC7tfsf_vEM_MIB0qlog/o.jpg,3929,[],region
+vietnamese,Turtle Tower,37.7839535,-122.4178971,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/PbCgvsR11uj7_1DGEtngfg/o.jpg,741,['delivery'],region
+bars,Bon Voyage,37.76361,-122.42205,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/mA4nNtdsnzKuwIbxYBJozQ/o.jpg,114,[],region
+burgers,Burger Shack,37.80548,-122.41212,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/B4n-WqplJSnw0DhPoCwEtA/o.jpg,243,"['pickup', 'delivery']",region
+wine_bars,La Marsa,37.7871734,-122.4107772,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/AfunwwLGXmYbN2JMwWG2LA/o.jpg,220,"['pickup', 'delivery']",region
+icecream,Belly Good Cafe & Crepes,37.785091,-122.430635,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/IYFhyO8h9YyMTz5p9_RAGg/o.jpg,1286,[],region
+french,Petit Crenn,37.7762604,-122.4264908,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/lN6gmJmUA9m9UhHEFYI4Qg/o.jpg,425,[],region
+restaurants,PLATFORM 248,37.77417,-122.41258,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/nNG2UuGQAfcqXDB99Fpbog/o.jpg,168,"['pickup', 'delivery']",region
+newamerican,Stem Kitchen & Garden,37.7659063,-122.3874446,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/LMGgWYys6o9IfwZp0ZHr1A/o.jpg,386,[],region
+breakfast_brunch,Lapisara Eatery,37.7878344,-122.4131853,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/S4tlnUPQJMsjK_-aNGgP9w/o.jpg,673,[],region
+mideastern,Sababa,37.78934,-122.399651,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/b3hLAQyi2uW9F9DK7HVXmA/o.jpg,9,[],region
+seafood,Pacific Catch,37.76567,-122.46619,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/GCgGSWe-osFZBahQNkjRSw/o.jpg,1765,['pickup'],region
+sushi,NAKAMA Sushi,37.774872,-122.421051,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/ZjOpb8o7tZDb3z7rzS5vFw/o.jpg,70,[],region
+burgers,Next Level Burger,37.7644788,-122.4032778,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/69J5hbstB26YVTW1qu2LDg/o.jpg,177,"['pickup', 'delivery']",region
+thai,New Thai Elephant,37.80539,-122.41333,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/b4M1V4PvhSeM5ES5EANsXw/o.jpg,55,"['pickup', 'delivery']",region
+sushi,Izakaya Muji,37.76237,-122.46657,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/7MIo_U5rps7rBAGDSueYcA/o.jpg,14,[],region
+asianfusion,U :Dessert Story Vintage Brunch+Dessert,37.79922,-122.43548,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/Q6LEGDFExQa0OOnOQSE3GA/o.jpg,171,"['pickup', 'restaurant_reservation', 'delivery']",region
+spanish,The Commissary,37.7997587209683,-122.459699660711,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/srMW70uO2XCUsDIrFYg7yA/o.jpg,351,[],region
+vietnamese,Miss SaiGon,37.7807121276855,-122.408767700195,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/N2sateAFf32mx6Zj5xsMXw/o.jpg,1087,"['pickup', 'delivery']",region
+cafes,Cool Cravings,37.78479,-122.4403534,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/J8WNdZ-lqq9_vZqLMgjeGw/o.jpg,129,"['pickup', 'delivery']",region
+newamerican,South Park Cafe,37.78167,-122.39445,False,5.0,https://s3-media3.fl.yelpcdn.com/bphoto/CxCvLPWWIPPhfNLLCDrR5w/o.jpg,32,[],region
+turkish,Park Gyros - Castro,37.76173,-122.43479,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/k1eHyP_cfg6qHeqc1mJ_IQ/o.jpg,196,"['pickup', 'delivery']",region
+japanese,Sake Bomb,37.75288,-122.40984,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/MvRKwCx67_RrBZLBxUFhSA/o.jpg,91,"['pickup', 'restaurant_reservation', 'delivery']",region
+italian,Dispensa Italian Charcoal Kitchen,37.78278,-122.411046,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/ZqbCpBB1ewbp_kFLf6ZB4A/o.jpg,83,[],region
+italian,Flour + Water,37.75892,-122.41231,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/B4OeMgtYwBqxnbkLT7bOmg/o.jpg,2276,[],region
+italian,Fiore Caffè,37.7518694874495,-122.422624123279,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/8RkTydo9pXrjYWSBv3ATUQ/o.jpg,331,"['pickup', 'restaurant_reservation', 'delivery']",region
+japanese,IZUMIYA,37.784977,-122.431763,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/jScy1xVjz82pWlwT4bs3mA/o.jpg,25,[],region
+newamerican,Fog City,37.803563,-122.401923,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/91k9C8CNF3qHaDB87lRW7g/o.jpg,729,['restaurant_reservation'],region
+sushi,Hikari Bullet Train Sushi & Bar,37.7855731526273,-122.430400329302,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/r4CVR_wxRZoRoTEOfyLIyA/o.jpg,179,['restaurant_reservation'],region
+sportsbars,San Francisco Athletic Club,37.785973,-122.439697,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/xFqwNTPCq9Lmz-kYwaKTww/o.jpg,233,"['pickup', 'restaurant_reservation', 'delivery']",region
+hotdog,Grem’s Good Dog,37.77045,-122.41829,True,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/WrUS1_vRpUl4qgDizaZQqg/o.jpg,66,"['pickup', 'delivery']",region
+breakfast_brunch,Early To Rise,37.7953932,-122.4131214,False,5.0,https://s3-media1.fl.yelpcdn.com/bphoto/D3BUDvUWLmHel2LSuD5aMg/o.jpg,166,[],region
+vegan,Gracias Madre,37.761606,-122.419241,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/3jcSueo047Fwx7EySA964w/o.jpg,3187,"['pickup', 'delivery']",region
+mediterranean,Sumac,37.799617,-122.417342,False,5.0,https://s3-media4.fl.yelpcdn.com/bphoto/jYhXS6W5PZ9XVQrDG-F-Sg/o.jpg,13,"['pickup', 'delivery']",region
+coffee,Cafe de Casa,37.8061099,-122.41892,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/Y2Nf-w5BfjvsI5xJfi8XIA/o.jpg,396,['pickup'],region
+pubs,Richmond Republic Draught House,37.78313,-122.46623,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/8y2lovK7qHo4HZXOqnY7GQ/o.jpg,368,"['pickup', 'delivery']",region
+newamerican,Whitechapel SF,37.7824077817325,-122.418771721423,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/3JoO3F2JXpq7thJLnIOyYg/o.jpg,456,['restaurant_reservation'],region
+bakeries,Craftsman and Wolves,37.7609695,-122.4218206,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/uXIQq9jt4QZzUvFtts9S-Q/o.jpg,1509,[],region
+cocktailbars,Violet's,37.78181,-122.48396,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/k3xKEWC73DtkGN8xgPGHIw/o.jpg,153,[],region
+ramen,Iza Ramen SOMA,37.77563,-122.40882,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/q6U6nCidcYjbvjqdxKjZbg/o.jpg,463,"['pickup', 'delivery']",region
+italian,Il Casaro Pizzeria & Mozzarella Bar - North Beach Location,37.79852,-122.40739,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/ef3tF8ogJIycWxOd9cKCsw/o.jpg,1115,"['pickup', 'delivery']",region
+brazilian,Fogo de Chão Brazilian Steakhouse,37.785025,-122.399917,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/hDO41owFaZZv8yGAiMsGOQ/o.jpg,896,[],region
+indpak,Bon AppeTikka,37.751438,-122.435573,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/iD7bQ10GTJya0qrlfU7pzw/o.jpg,46,"['pickup', 'delivery']",region
+tradamerican,Eat Americana,37.7758785,-122.4966642,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/gvxYucomdRwFDleglWYTCA/o.jpg,253,['pickup'],region
+italian,PRAIRIE,37.76003,-122.41984,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/1iW52whx-6AcK3jEUSeeXg/o.jpg,133,[],region
+sushi,Moshi Moshi,37.76318,-122.38908,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/Lx6YiY-pqiRCfc2rMuIfyg/o.jpg,679,['restaurant_reservation'],region
+french,O' by Claude Le Tohic,37.78638,-122.40736,False,5.0,https://s3-media3.fl.yelpcdn.com/bphoto/NNjo45JqfzC7iyqH9Ogx1g/o.jpg,44,[],region
+greek,Goood Frikin Chicken,37.74427,-122.42134,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/qouGtc0EzXaQbBEjP0xnhA/o.jpg,895,"['pickup', 'delivery']",region
+japanese,Kazan,37.7526397705078,-122.408447265625,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/YFjJ96YGoB-U2j0GFpZ7UQ/o.jpg,396,[],region
+wine_bars,Bodega,37.80135,-122.41129,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/gBR1hPilYRDzWHnsnH6TYA/o.jpg,212,[],region
+newamerican,Nightbird,37.7765624073566,-122.422850296141,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/5WCS40BAXVDyqc1EZET2xg/o.jpg,151,[],region
+pizza,Slice House Haight by Tony Gemignani,37.76963,-122.44754,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/sTuPboYlWTmVfphoCU5pFw/o.jpg,244,"['pickup', 'delivery']",region
+german,Radhaus,37.8068092801257,-122.431423098043,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/3RdGFsXcLrxpFVxPzWYR7Q/o.jpg,158,[],region
+moroccan,Marrakech Moroccan Restaurant,37.785945,-122.411796,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/erp5TNtRSUMm1O8fL-vcLQ/o.jpg,540,"['pickup', 'restaurant_reservation', 'delivery']",region
+gastropubs,Mikkeller Bar,37.783976,-122.408981,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/Y28fOlP0sS9ZBPFE2qUzkg/o.jpg,1215,[],region
+beer_and_wine,Common Sage,37.7913965249709,-122.420708946884,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/oC09o82tsxVAaHwGWv9G0g/o.jpg,215,['delivery'],region
+newamerican,Little Gem,37.778,-122.42353,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/tyFFQ9EYLZLSjNsWzweJZw/o.jpg,425,[],region
+japanese,Kinjo,37.7971041431593,-122.421909570694,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/rI19HpfTlxieGw-2dF_Xkg/o.jpg,126,['restaurant_reservation'],region
+tradamerican,Counter Offer,37.7603002510241,-122.417151282963,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/ujNvVNN-bPF5K5d8CE9XrA/o.jpg,34,['delivery'],region
+beergardens,Ocean Ale House,37.72426,-122.45672,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/D_ljKcPpDfqUAr1xqNwFIA/o.jpg,235,[],region
+venues,Palette SF,37.781794,-122.401819,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/Hbp009XuBSG1TQ-4f04fig/o.jpg,44,[],region
+seafood,ATwater Tavern,37.7742624060048,-122.387184295116,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/28u8fOilv7enAxgpKwtwdA/o.jpg,320,['restaurant_reservation'],region
+mexican,Taqueria Los Mayas,37.7828267189761,-122.462883666158,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/HUilRp1UDYHxD5GqUMWHgA/o.jpg,299,"['pickup', 'delivery']",region
+breakfast_brunch,Cafe Réveille,37.7710554824632,-122.432099291995,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/MTmSFYXeqVG_exqJwiWHDA/o.jpg,103,['pickup'],region
+ramen,Teruya Ramen & Drink,37.78143,-122.46186,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/pIGyngqoiasp9ci9jv6row/o.jpg,58,"['pickup', 'delivery']",region
+asianfusion,Slurp Noodle Bar,37.76149,-122.43469,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/CCrPINJ2DVw1xB1utRhGJg/o.jpg,437,"['pickup', 'delivery']",region
+hotpot,Simmer,37.74276,-122.47759,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/D2UUKUx-LtSSOObDuHdS0w/o.jpg,220,[],region
+vietnamese,Dinosaurs Vietnamese Sandwiches,37.774824,-122.4034177,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/W_jxkY4y3FFB2WsBhapYnA/o.jpg,151,['pickup'],region
+sports_clubs,SPIN - San Francisco,37.7841835021973,-122.398963928223,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/T8ABuI4X7Uqvwqt3CUAr_w/o.jpg,283,[],region
+pizza,Long Bridge Pizza,37.7595199,-122.3881765,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/1LOkGBoG8jdAPtHPE9zzIw/o.jpg,469,[],region
+tradamerican,Boogaloos,37.75548,-122.42068,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/V0M0y46UIsT0zL8KZWTvNw/o.jpg,1086,[],region
+sandwiches,Fiery Cafe,37.7543516032916,-122.477947957814,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/ciEmQiR7Mf1yT2kIRcmjJQ/o.jpg,8,"['pickup', 'delivery']",region
+cantonese,Ken Kee Cafe,37.78201,-122.48191,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/PrydbbW0HGMnpK5XLlg7zQ/o.jpg,20,[],region
+sandwiches,Mission Picnic,37.75722,-122.42085,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/HMI1IT2r0WgBuPED_sMebg/o.jpg,316,"['pickup', 'delivery']",region
+burgers,Halal Wings Plus,37.7862701416016,-122.413299560547,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/iHSM7pg64t6cAmW4fDRbig/o.jpg,440,[],region
+latin,Fresca,37.7639084,-122.465889,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/ctY8KeWI7w_-GwfY4sbKLg/o.jpg,278,"['pickup', 'restaurant_reservation', 'delivery']",region
+pancakes,Gram Cafe & Pancakes,37.72856,-122.47688,False,3.0,https://s3-media3.fl.yelpcdn.com/bphoto/D4vlkhxkWCk13t6nixtUbw/o.jpg,372,['restaurant_reservation'],region
+cocktailbars,Miller's Rest,37.78772,-122.41816,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/B90X_f4odFbJk94XbGKpQA/o.jpg,176,[],region
+italian,Luna Blu,37.87305,-122.45672,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/i-XFl3XAezeAvn2dbaMoqQ/o.jpg,578,['pickup'],region
+chinese,Eight Tables by George Chen,37.7984516089432,-122.407781330184,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/4ZymlTS6U6qdmNva10-Mkg/o.jpg,116,[],region
+irish,Johnny Foley's,37.78608,-122.40865,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/DEU1OGS_F_gvQMkvMmS_zA/o.jpg,1290,[],region
+mediterranean,Pharaohs Mediterranean Sandwiches,37.7867601449054,-122.413430582716,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/Xs0IPBkbd46JaAnq_ay1pw/o.jpg,426,"['pickup', 'delivery']",region
+ramen,Ramenwell,37.7619720328061,-122.418856810102,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/wMc-xJYPzvuKkDvLbk8XVg/o.jpg,123,"['pickup', 'delivery']",region
+breweries,Black Sands,37.771454,-122.433853,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/U2LdIFJL4U1ULlQF1NLGrg/o.jpg,314,"['pickup', 'delivery']",region
+newamerican,Aliment,37.79012,-122.41019,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/2kPZ-Kj5xLWwIJYflsexJw/o.jpg,584,['pickup'],region
+halal,Pakwan Restaurant,37.723777,-122.45397,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/sMlry4VXZJgAqStmp2VfAg/o.jpg,304,[],region
+wine_bars,Barrio,37.7995429440611,-122.410825960609,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/yvjvo0kwUf_ShlWhh4oX5w/o.jpg,82,[],region
+newamerican,International Smoke San Francisco,37.7909012077997,-122.395915071095,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/iuw4PZg3wJeM_39hOkhb-g/o.jpg,1160,[],region
+argentine,El Sur,37.76573,-122.40202,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/kf0aBmefap0nPBdiKbBjpQ/o.jpg,123,"['pickup', 'delivery']",region
+hotpot,Fiery Hot Pot Buffet,37.7429507985095,-122.483775056899,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/aBAS0PK6mf66GWrOeb1Fyw/o.jpg,324,[],region
+steak,Alexander's Steakhouse,37.7793,-122.39568,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/LccMcK4oOLmAD7A6NVsf7w/o.jpg,1697,[],region
+sushi,Wasabi Bistro,37.7604103,-122.4351501,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/RtwSVxVChNUj4UOOX5OoZQ/o.jpg,453,"['pickup', 'delivery']",region
+cocktailbars,Rambler,37.78771,-122.41071,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/vYKeJjk9VXtuJI5ksyjEww/o.jpg,453,['restaurant_reservation'],region
+pizza,Carmel Pizza Company,37.8075970299193,-122.417328357697,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/8LLtWgfeR68B42vLAu55AA/o.jpg,802,"['pickup', 'delivery']",region
+newamerican,Eagle Cafe,37.8087806352976,-122.410323630059,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/imfW_exJaV2_yQRe9iZ70g/o.jpg,83,['restaurant_reservation'],region
+japanese,Pabu,37.7931261046321,-122.398542836308,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/O14ADiG0PZcm45807RLQfg/o.jpg,916,[],region
+newamerican,Nico,37.795885,-122.403146,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/2NRt-blkT5xxedWofB9Gug/o.jpg,289,[],region
+newamerican,20 Spot,37.75834,-122.42036,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/jBhnv2K5YjZXwRdtWCYpzw/o.jpg,241,[],region
+cafes,Tartine Inner Sunset,37.7654012467317,-122.466277216018,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/cfy9LGxKnIJVPz4-RuM5KQ/o.jpg,107,[],region
+indpak,August 1 Five,37.7805414,-122.4201278,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/vjIa2l4E95yKV3e6NLKCWA/o.jpg,705,['pickup'],region
+hotdog,Dapper Dog,37.76227,-122.43494,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/qHPMqim34OsbYpeqEU_60Q/o.jpg,190,['pickup'],region
+tradamerican,Louie's Bar,37.7895584106445,-122.399574279785,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/M5E3HCEXa-q4BziueWoggA/o.jpg,442,[],region
+seafood,Alioto's Restaurant,37.808679,-122.416105,False,3.0,https://s3-media4.fl.yelpcdn.com/bphoto/NtX9L-PtIS_nQMVJnUSynw/o.jpg,1828,[],region
+caribbean,Peaches Patties Jamaican Kitchen,37.7393606,-122.4180022,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/Zo0IIh0dZ_KwpPl0YcaQ2g/o.jpg,42,"['pickup', 'delivery']",region
+indpak,Urban Curry Restaurant,37.7978994,-122.4059649,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/mHnJT-NpyN3t-3YpYjvaMg/o.jpg,659,"['pickup', 'restaurant_reservation', 'delivery']",region
+hotpot,The Pot's,37.76129,-122.49071,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/NMDhpiuXkXyzhLDo4Srvfg/o.jpg,679,"['delivery', 'pickup']",region
+indpak,Deccan Spice,37.75468,-122.42119,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/TqBAWrvwuQJE8d9sW6tz3g/o.jpg,659,"['delivery', 'pickup']",region
+bbq,Native Sons BBQ,37.73053,-122.38523,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/c4DWXTceVx4VhZ_IZkglvA/o.jpg,32,[],region
+japanese,Hot Zushi,37.7718463870564,-122.430961020291,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/Y0oNQ0JUA5uPnsjS9XLVMg/o.jpg,142,[],region
+mexican,Uno Dos Tacos,37.789132,-122.400815612269,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/e7GbDjpwY2-MS4FaR6VaRw/o.jpg,760,[],region
+french,Cafe Claude,37.7903209516376,-122.404523903705,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/slUFrrpw_EVqnTQbSeEnMQ/o.jpg,1987,[],region
+foodtrucks,Torraku Ramen,37.765725,-122.402024,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/EH5KYUdkOV2Ic0NOIfky2A/o.jpg,142,"['pickup', 'delivery']",region
+italian,Francisca's,37.7485021,-122.4179751,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/X3rvRnLxgYI2_AayVhOlYw/o.jpg,137,['delivery'],region
+asianfusion,Asian Box,37.8006618091435,-122.436686865985,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/52J9G8xd9NegYOT1rnQ7lA/o.jpg,171,"['pickup', 'delivery']",region
+italian,Perbacco,37.7934543812786,-122.399336635582,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/lapn3pRVT-73jKQeiYcy7w/o.jpg,2003,[],region
+creperies,Crepevine Restaurant,37.76435,-122.46467,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/aHbzo2vP4W7bnsQJJDy5aQ/o.jpg,1569,"['pickup', 'delivery']",region
+turkish,A La Turca Restaurant,37.78606,-122.417613,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/dCwDzeuK9KbueB_hu9Q_zQ/o.jpg,805,"['pickup', 'delivery']",region
+korean,K-Elements BBQ,37.78227,-122.48244,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/K1sjwBUBgA9s9yYcCpydcw/o.jpg,517,"['delivery', 'pickup']",region
+newamerican,Avery Restaurant,37.78408,-122.432642,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/2KaME-JFI4uZ4pPdXMyK2w/o.jpg,103,[],region
+coffee,Karma Cafe,37.77359,-122.44781,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/w7wIkSaUpG3-QYttYAHRkw/o.jpg,60,[],region
+breakfast_brunch,Home Plate,37.800044,-122.437191,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/nJwasMq9L0cbh18dGhTw5A/o.jpg,1115,['pickup'],region
+korean,Zzan,37.7875,-122.41233,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/6_7tsiymRQ5BBd1nr4ficA/o.jpg,223,"['delivery', 'pickup', 'restaurant_reservation']",region
+bars,Noe's Cantina,37.7518300837199,-122.427139878273,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/FB6Jwj4_kAZM7yaa7PAJfA/o.jpg,50,[],region
+tradamerican,Spinnerie,37.7897018791605,-122.420643232763,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/U8IcBxHcsVUKo3AYQNWjmA/o.jpg,473,['delivery'],region
+filipino,Manila Bowl,37.77674,-122.41636,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/bOLHQkZfMmy-KqS2x-vQ-w/o.jpg,110,"['pickup', 'delivery']",region
+indpak,Besharam,37.75425,-122.38938,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/FF5V8Rixq2oa539UdZPJmA/o.jpg,165,[],region
+szechuan,General Tso Kitchen,37.7809198861184,-122.459610030055,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/88RWUnojCQQ1_LCGqGs5uA/o.jpg,149,"['pickup', 'delivery']",region
+cocktailbars,Aura Mixology and Chow,37.75958,-122.38878,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/I9KnMBVz3vxWxrkNsn-toQ/o.jpg,66,['restaurant_reservation'],region
+cocktailbars,The Keystone,37.78486,-122.40513,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/jMTbm_R7rzi-RN-9yXJZGA/o.jpg,288,"['pickup', 'delivery']",region
+bars,Tap415,37.784475,-122.406813,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/Iz1JdksvJlpMw5-0FCAozA/o.jpg,444,"['restaurant_reservation', 'pickup', 'delivery']",region
+korean,Wang Dae Bak,37.7321815,-122.4737625,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/I_rszCVKztYi1L6tJ1NaMA/o.jpg,277,[],region
+sushi,Kabuto Restaurant,37.78031,-122.47441,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/kkJNyNJeg4328L1veEtIUw/o.jpg,1025,['restaurant_reservation'],region
+salad,Flybird,37.7883651587911,-122.403728887439,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/WT6_L9SJWuonQruKlQ12WA/o.jpg,54,"['pickup', 'delivery']",region
+cafes,Darwin Cafe,37.7806091,-122.3961443,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/-YXSG36jSJSWyhZWFAonSA/o.jpg,592,[],region
+pizza,Del Popolo,37.789627,-122.411374,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/VDbLG5ki93ba2Gwktnm_8g/o.jpg,425,[],region
+vietnamese,Noodle Time,37.79689,-122.40106,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/t7TJqLxehgo0c6jHAnh8HA/o.jpg,84,[],region
+himalayan,Little Nepal,37.7391,-122.41361,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/fDLnSnx0FRDlhZgAeWkDXg/o.jpg,445,"['pickup', 'delivery']",region
+burgers,Super Duper Burgers,37.7928058550794,-122.394083711639,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/2qTVHjkf5-1_riMROEEjvA/o.jpg,507,[],region
+pubs,Schroeder's,37.793955127899,-122.398792438246,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/YjQc9YlvLudAaykpWIwXSQ/o.jpg,473,['restaurant_reservation'],region
+newamerican,Maybeck's,37.79946,-122.44123,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/OVT7E-m7jOo6GsvMZ-FLQA/o.jpg,302,[],region
+bars,Leo's Oyster Bar,37.79406,-122.40259,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/VTKdGE7TmHGvko6cp9bz1w/o.jpg,377,[],region
+bakeries,Tartine Manufactory,37.7618402321822,-122.41198167347,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/3g1GrMCclkT_heNfB2pt9g/o.jpg,1163,[],region
+newamerican,Street Restaurant and Bar,37.7964394,-122.4220352,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/6VS253YxIIDdlH6xGB_nLg/o.jpg,633,[],region
+bars,Parkside Tavern,37.7427940368652,-122.487129211426,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/BJpSMzP4Bh3ghyGC61JDbQ/o.jpg,544,[],region
+chinese,Tēo Restaurant & Bar,37.7789396944923,-122.411170243043,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/exGaVrR850OiJ0WhnHTGWQ/o.jpg,291,"['restaurant_reservation', 'pickup', 'delivery']",region
+dimsum,Yank Sing,37.7896964530971,-122.399411320272,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/oonmspkUQcdSLUiKCqvogA/o.jpg,1566,[],region
+italian,SPQR,37.78725,-122.43376,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/q_lFnK6H2YfQ5FrO2zTT0w/o.jpg,1945,[],region
+burgers,Bandit,37.7864,-122.41451,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/rbTHWJTpYw9oNmUK6envww/o.jpg,374,"['pickup', 'delivery']",region
+newamerican,Villon,37.78087,-122.41239,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/2ZyhptT0UYvAD3kkxyWnow/o.jpg,229,[],region
+indpak,Roti Indian Bistro,37.7401922,-122.4662449,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/kah20r5t1mofuVH7yoxnog/o.jpg,739,['delivery'],region
+icecream,Gott's Roadside,37.7961786095916,-122.39410980362,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/S4KKPyg8LPqCqzUYPOCZIw/o.jpg,2669,"['pickup', 'delivery']",region
+thai,Sun and Moon,37.7796,-122.39452,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/VS92Oc26c_tPEJAe72eYrQ/o.jpg,100,"['pickup', 'delivery']",region
+newamerican,Ungrafted,37.7587436582161,-122.38823565181,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/zXe5ty27YbB0QN_ZBuqMXg/o.jpg,86,[],region
+mediterranean,Sababa,37.79443,-122.4024,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/_t0aUqiOoz-GpaTbr798xA/o.jpg,94,['delivery'],region
+latin,Elda,37.7649080708052,-122.423831267459,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/oH9blC008W-GnJOiAI9Z6A/o.jpg,31,[],region
+mexican,Taqueria Los Coyotes,37.7651299184884,-122.420415580273,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/CKAh44fCWIB5fRFBKV3iUA/o.jpg,887,"['pickup', 'delivery']",region
+thai,Aroy Thai,37.773011,-122.437562,False,5.0,https://s3-media1.fl.yelpcdn.com/bphoto/0YieUxyXP3KjMSGu9R5kKg/o.jpg,3,[],region
+vietnamese,Mr Banh Mi,37.7755706,-122.4975768,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/WiplyoR0TppiZSWpgA6Y4g/o.jpg,184,[],region
+gastropubs,Woodbury,37.7790943635989,-122.392903892416,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/K3XFxTBJkc7JMyBZC4IhVQ/o.jpg,207,[],region
+vegan,Golden Era Vegan Restaurant,37.7814734450825,-122.416835837066,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/c9RUaXyjHxdpKbILjudzhA/o.jpg,630,"['pickup', 'delivery']",region
+sandwiches,Newkirk's,37.756,-122.406912,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/0yeq5AbqBsJZ8t7z4A6LPg/o.jpg,63,"['pickup', 'delivery']",region
+mediterranean,opa cafe,37.783969,-122.441505,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/Xtog30vvFrhwILeBlskMGA/o.jpg,263,"['pickup', 'delivery']",region
+thai,Amphawa,37.7807999,-122.4732285,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/cJLMUqim18VTWk4YSbJVnQ/o.jpg,459,"['pickup', 'delivery']",region
+newamerican,Hard Water,37.797585,-122.395568,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/inTiiA7DgjsGj87RgBVKhw/o.jpg,640,[],region
+sandwiches,The Sandwich Shop,37.7634,-122.38822,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/G52WLCP3FH9tCpbgmcsBNQ/o.jpg,84,[],region
+mediterranean,North Beach Gyros,37.800142,-122.411015,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/C12Yb9_Tb-1TVZ1em6LGqQ/o.jpg,349,"['pickup', 'delivery']",region
+japanese,Doma,37.747497,-122.410663,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/sdgUO-GNv_AM5_i5buZTpQ/o.jpg,100,[],region
+mexican,Cala,37.77599,-122.42036,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/r2HwuWL3KrK2ipmyPZaa_w/o.jpg,457,[],region
+bakeries,"La Boulangerie de San Francisco, Pine",37.78762,-122.43403,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/anwKDUJpTB8SemSWc57Mlw/o.jpg,755,['pickup'],region
+cafes,Z Zoul Cafe,37.78373,-122.41226,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/0Moqg5cMufqO0u0HVQseVg/o.jpg,107,"['pickup', 'delivery']",region
+filipino,Nick's on Mission,37.78128,-122.4087,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/_OnZzcyVqS_EwgbdCmYpyg/o.jpg,14,[],region
+tradamerican,The Salad Place,37.72278,-122.43554,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/oJ2yHqKZgHX7rPck635XyA/o.jpg,214,"['pickup', 'delivery']",region
+vietnamese,Co Nam,37.7921731,-122.42106,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/H4YF_8UG86D15WiuIXzPbA/o.jpg,425,"['pickup', 'restaurant_reservation', 'delivery']",region
+vegan,VeganBurg,37.77017,-122.44646,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/3ov4dpUsoYfFrrnVbyipfg/o.jpg,778,"['pickup', 'delivery']",region
+italian,Olive Garden Italian Restaurant,37.7273592696199,-122.47638172212,False,3.0,https://s3-media3.fl.yelpcdn.com/bphoto/Gw7fBFb_UzJd4kzFKu_OuQ/o.jpg,1138,[],region
+sandwiches,The Sandwich Place,37.76443,-122.4191,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/CqSsVp2IGUuG5xqma5E5ig/o.jpg,278,"['pickup', 'delivery']",region
+mediterranean,Piece of Heaven,37.78764,-122.42306,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/LVMsn3lKDSBFNEgi2CXmaQ/o.jpg,42,"['pickup', 'delivery']",region
+seafood,Angler,37.79307,-122.39212,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/tvZ5r5ojEc-bR-gaaAN0WQ/o.jpg,286,[],region
+vietnamese,Anh Hong Bo 7 Mon,37.7864114,-122.416734,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/YpvtgUFoHDeTqgOFuzOvgA/o.jpg,564,"['pickup', 'delivery']",region
+newamerican,Coi,37.7981428,-122.4034996,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/Sk1pERHlYxeOtgRebdOyOQ/o.jpg,782,[],region
+pizza,Doppio Zero,37.7767734,-122.4226963,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/e0boO5qkyM8619L5wphgeQ/o.jpg,199,[],region
+cafes,Milkbean,37.7871613,-122.4162122,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/Q27QyKmora6CeX4wG4hGrA/o.jpg,250,"['pickup', 'delivery']",region
+italian,Che Fico,37.7774319,-122.4381079,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/JsZHAMuMhwPnPpgNVWx6ZQ/o.jpg,464,[],region
+cafes,Fueling Station,37.79933,-122.42215,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/8hMc4_KWochQIjbFcjsV1A/o.jpg,157,[],region
+newamerican,Picnic on Third,37.7815361,-122.3959045,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/RZVNHIXE6tcoS1ZuLnTCRg/o.jpg,285,[],region
+divebars,Hi Dive,37.7876182772597,-122.387460079162,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/S9tS1V00WKE4dJbYIQNYkA/o.jpg,526,['pickup'],region
+french,Lovessy Asian Fusion & Souffles Bistro,37.78292,-122.46833,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/zmq0NL2MqR6Nout2hF6Dlw/o.jpg,120,"['pickup', 'restaurant_reservation', 'delivery']",region
+sushi,Robin,37.779191,-122.423323604965,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/mds3ZjmCv_-0zhqNxFToag/o.jpg,346,[],region
+newamerican,Town Hall,37.7895383,-122.3949794,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/yLcW1MB0vYd4PcKLC7U0Hg/o.jpg,1945,[],region
+vietnamese,Pho Hour,37.771292,-122.409245,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/dTAOPhMsBkHl55bVnJqFPw/o.jpg,235,[],region
+breakfast_brunch,Lucho's,37.73193,-122.47434,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/s4cg8WaLpYr5qQAgBR06Pw/o.jpg,173,"['pickup', 'delivery']",region
+hkcafe,Goldelicious,37.76305,-122.48308,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/ciEPJ7cWVJScX7piEtBD9Q/o.jpg,69,"['pickup', 'delivery']",region
+salad,Waystone,37.7824109615308,-122.410308346152,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/T8PfStNRsE2_SXAxSef_5w/o.jpg,132,[],region
+gastropubs,Patriot House,37.794957302451,-122.39885905011,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/_z1tjVYX56nDg1UutluNMw/o.jpg,181,[],region
+pizza,Bizza,37.76994,-122.44645,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/advoUyRkKM8yj14i_9RnmQ/o.jpg,175,"['pickup', 'delivery']",region
+newamerican,Aracely Cafe,37.827738,-122.3737642,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/Fw4qZ2UFAO7m2CQUnNOoog/o.jpg,245,[],region
+sandwiches,The Grove Yerba Buena,37.786555,-122.401971,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/K0WShBisQmY-tz2KogXxow/o.jpg,1930,[],region
+newamerican,As Quoted,37.78728,-122.45218,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/lRLqJ11qLYZX_cm8P8T_nw/o.jpg,220,[],region
+sushi,Yoji Sushi House,37.74738,-122.45952,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/7i5uLjTReGBLnYZfYirEvw/o.jpg,243,"['pickup', 'restaurant_reservation', 'delivery']",region
+tradamerican,The Vault Restaurant,37.79226,-122.40348,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/qzfVjXOH-VxSZ1nWNmf9Qg/o.jpg,63,[],region
+vietnamese,Bobo's Bistro,37.7617314719669,-122.409318216927,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/kcegZZiES-NVdZpudJxH8g/o.jpg,26,"['pickup', 'delivery']",region
+comfortfood,Belle Cora,37.7994887440823,-122.408376149833,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/fx2qp47WfI_zbOTGbOky3A/o.jpg,71,[],region
+mediterranean,SAJJ Mediterranean,37.7813836912082,-122.391699883583,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/oN9WOdcRsxg9QzG8vAgd9A/o.jpg,112,"['pickup', 'delivery']",region
+comfortfood,The Willows,37.77111,-122.41504,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/7mXs-nFwpLlvltrbDarMmA/o.jpg,254,"['pickup', 'delivery']",region
+catering,Crêpe Hearts,37.7805137,-122.4145168,False,5.0,https://s3-media3.fl.yelpcdn.com/bphoto/14CxPqI5mp9rUzTivA4GKA/o.jpg,18,[],region
+latin,El Paisa Restaurante-Jenny & Jesse,37.7436278695822,-122.421432494205,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/luQSjI7MRLdOBJ_gOxiYsw/o.jpg,68,[],region
+seafood,Fish,37.8681399,-122.49766,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/HiSRp0IRKMIMbb9XN1YmDQ/o.jpg,2341,['delivery'],region
+tacos,Death by Taco,37.7757568769427,-122.393562863754,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/dIBCo3wS2yaPFSNFFjUzGw/o.jpg,187,[],region
+bars,Last Drop Tavern,37.7899941802025,-122.408699691296,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/x4vgBDfPUPAGgOSTVaZBjg/o.jpg,411,"['pickup', 'restaurant_reservation', 'delivery']",region
+szechuan,Yiyi's Mandarin Kitchen,37.78174,-122.48547,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/1OUZfGoGkXf0Jba1skeFgA/o.jpg,40,"['restaurant_reservation', 'pickup', 'delivery']",region
+delis,Kawika's Ocean Beach Deli,37.7745463733934,-122.509932195955,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/YcFIKVWRcEa9nPLt4-leEQ/o.jpg,453,"['pickup', 'delivery']",region
+bakeries,Frena Bakery and Cafe,37.780321,-122.408274,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/0ER1kL8w4wmS5UTshDZHNg/o.jpg,401,"['pickup', 'delivery']",region
+burgers,The Chieftain Irish Pub & Restaurant,37.7814788,-122.4051366,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/zIvLr0z2RVniJ7RxdEmT3g/o.jpg,866,[],region
+grocery,Seakor Polish Delicatessen,37.7799501,-122.483546,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/3KgpPoAPLSBKGDnlqIrFCA/o.jpg,206,[],region
+breakfast_brunch,Friends With Benedicts @ Chief Sullivans,37.7995265969096,-122.409706481378,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/G6SlWI1HUkn5iwwe1jUbpQ/o.jpg,168,"['restaurant_reservation', 'pickup', 'delivery']",region
+indpak,A Desi Cafe,37.75387,-122.47985,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/Trl_HzJJiDIJylPy4FS7xA/o.jpg,268,"['pickup', 'delivery']",region
+vietnamese,Mission Asia Noodle,37.71467,-122.4423,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/_mnR3zYaiXKMjgrEezrT9w/o.jpg,97,"['pickup', 'delivery']",region
+thai,Zen Yai Thai Restaurant,37.784028,-122.418941,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/o9S3fxcMts2UHhqCJsWtNw/o.jpg,690,['pickup'],region
+turkish,SINI,37.791196,-122.403911,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/SXHZeEurQixhdRXPmILKAA/o.jpg,152,"['pickup', 'delivery']",region
+tacos,Taqueria Vallarta,37.7524796182579,-122.412584026201,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/9GaiQt0c6cQsBibxme2OjQ/o.jpg,790,"['pickup', 'delivery']",region
+korean,Namu Stonepot,37.7746927827622,-122.438025000257,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/8DqivM2DMUN45WUNWxQvPg/o.jpg,230,[],region
+peruvian,El Ají,37.74883,-122.41771,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/UcboRElTrVCppzBQbCXqDw/o.jpg,58,['pickup'],region
+indpak,Chanvi Eatery,37.78083,-122.41137,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/RcG-AetrupW96Otl3WRh4w/o.jpg,233,"['pickup', 'delivery']",region
+bbq,Carbon Grill,37.7827961292364,-122.468656725813,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/Ea9UGmYp6VW6Agxu8zc-0A/o.jpg,459,[],region
+indpak,Om Indian Cuisine,37.76986,-122.44972,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/VmqeiT1489stnIWan7gCkw/o.jpg,286,"['pickup', 'delivery']",region
+delis,Amal's Deli,37.7702041715384,-122.445749714971,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/Mw9l6FMYEJCaUAHSj9tK4w/o.jpg,24,"['pickup', 'delivery']",region
+bakeries,Vive La Tarte,37.7769811042271,-122.410907296645,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/K4ckJStgGOruXye9xtsfiA/o.jpg,555,[],region
+newamerican,Trou Normand,37.7866757541084,-122.399691734953,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/iMS-gW5OWuvqE-oNc6TkDg/o.jpg,557,['delivery'],region
+pizza,Little Star Pizza,37.7662598870271,-122.422120973633,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/T7AGG4yUrbN4KFj097VOdA/o.jpg,2051,"['pickup', 'restaurant_reservation', 'delivery']",region
+italian,Trattoria da Vittorio - San Francisco,37.73933,-122.46775,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/EaCcOTo1caRMZ4WL_TabGw/o.jpg,705,"['delivery', 'pickup']",region
+cocktailbars,Southside Spirit House,37.7871674985456,-122.397512795665,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/TiPdUmBVogdyxlhYU8Q-yg/o.jpg,318,['restaurant_reservation'],region
+newamerican,Red Dog Restaurant & Bar,37.7847102462437,-122.395219936428,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/fbrmfgq_OjFqZ5rZkvBQbA/o.jpg,490,"['pickup', 'delivery']",region
+indpak,Royal Indian Cuisine on Fillmore,37.78582,-122.43301,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/0a7_sR6jJksMomKIsGQPTg/o.jpg,273,"['pickup', 'delivery']",region
+steak,Ruth's Chris Steak House,37.7905481,-122.4226117,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/tQNAjQp2HBKImKq_ce-c2g/o.jpg,2091,"['pickup', 'delivery']",region
+icecream,Miyako Old Fashioned Ice Cream,37.7830991389702,-122.432461963236,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/yY7LzS6M5lE9YHyxmIN7UA/o.jpg,329,[],region
+mexican,Cadillac Bar & Grill,37.776846,-122.415784,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/q8Mui-OSqz6SKCt53-rB4A/o.jpg,346,"['pickup', 'restaurant_reservation', 'delivery']",region
+breakfast_brunch,Toasty,37.79761,-122.42862,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/ieGnZXPf0jT00TaU425Tng/o.jpg,158,"['pickup', 'delivery']",region
+wine_bars,Howells,37.79979,-122.44231,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/Sdoby2kq1VbEEjILlNzVaA/o.jpg,40,[],region
+coffee,Java Beach Cafe,37.760452,-122.508934,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/tZbJF5eILjLKZFRtcmz4vQ/o.jpg,1044,[],region
+breweries,Oda Restaurant and Brewery,37.76884,-122.39577,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/n3mhIkOSSbRf1qidlmaB_Q/o.jpg,126,"['pickup', 'delivery']",region
+grocery,Cindy's Market,37.7733892947435,-122.450827807188,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/ZNij1qd-yqbSVGn4F4BQRA/o.jpg,63,[],region
+delis,Handy Deli,37.7635545,-122.4774885,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/m3aZr4sBYEL4U1e11EIvpQ/o.jpg,230,"['pickup', 'delivery']",region
+sandwiches,The Grove - Hayes,37.776956859246,-122.42146721515,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/q-1UgVAoNKQYXEtG0tfvWQ/o.jpg,1033,[],region
+japanese,Sakesan Sushi & Robata,37.7243585192671,-122.457495672167,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/C_wHgECuULE4CUcMgMiLCw/o.jpg,282,"['delivery', 'restaurant_reservation', 'pickup']",region
+pizza,Hayes Pizza,37.773201,-122.450532,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/hZ3PUg6S0rLcKdMe1tthmw/o.jpg,169,"['pickup', 'delivery']",region
+sushi,Kui Shin Bo,37.8014,-122.42516,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/bSE1FVW075S9uLzx3m7QPg/o.jpg,143,"['pickup', 'restaurant_reservation', 'delivery']",region
+sushi,Kui Shin Bo,37.8014,-122.42516,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/bSE1FVW075S9uLzx3m7QPg/o.jpg,143,"['pickup', 'restaurant_reservation', 'delivery']",region
+cocktailbars,The Treasury,37.7912937,-122.4010389,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/wJFfCMTGnoW5pVb-7xtf9w/o.jpg,159,[],region
+pizza,Za Pizza,37.7985905231944,-122.419042804893,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/olCiohzqhS0V9V6sISp-2A/o.jpg,1108,"['pickup', 'delivery']",region
+asianfusion,Crustacean,37.7903,-122.420918,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/PMIDN1XjTQ4EGM8XDVnNXw/o.jpg,1552,['restaurant_reservation'],region
+mexican,Los Yaquis,37.7469018579803,-122.413782,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/B24fPDHYkuxUF4NdhZkz0Q/o.jpg,21,"['pickup', 'delivery']",region
+japacurry,Tender,37.78405,-122.41795,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/UM-BrTZpwbvZ-YgIK74-JA/o.jpg,64,[],region
+chickenshop,MF Chicken,37.8001247,-122.4089244,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/Gp2D1eY0-fpFfC29AwsuDw/o.jpg,20,[],region
+cafes,Il Canto Cafe,37.7939884,-122.4006876,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/SbPzt1R2EOq9PacymQglZw/o.jpg,284,[],region
+cafes,BiteUnite,37.7633584,-122.4176856,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/Vm3x5NRgnazoyPHkpXwaFg/o.jpg,37,[],region
+breakfast_brunch,The Velo Rouge Cafe,37.775456,-122.458237,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/fHzMHhA150cZQT37lXSMqg/o.jpg,717,"['pickup', 'delivery']",region
+bars,Alamo Drafthouse Cinema New Mission,37.75619,-122.41934,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/ff1mR_0lV7mBDrMhd4c35A/o.jpg,850,[],region
+mexican,Papalote Mexican Grill,37.75194,-122.42094,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/IwiJN_fNaqFWfYr3qpx79A/o.jpg,2188,[],region
+asianfusion,The Citrus Club,37.76964,-122.45162,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/pLtF2RAt4ed10f-E3rahuw/o.jpg,1275,"['pickup', 'delivery']",region
+chicken_wings,Krispy Krunchy Chicken,37.7367491,-122.3896779,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/NptcKMlFxvMZyg8J5PNWRg/o.jpg,67,"['pickup', 'delivery']",region
+vietnamese,Perilla,37.7719136538241,-122.430876999617,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/k1M4hGzGn2hn2O3MTfjCgw/o.jpg,125,"['pickup', 'delivery']",region
+sandwiches,Jake's Steaks,37.80054,-122.43298,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/S8TwRSiNObAfD-bK890WYw/o.jpg,679,"['pickup', 'delivery']",region
+vietnamese,Golden Lotus,37.7838416865229,-122.417792251626,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/_ewzU3wmSw3M3oT7mPVKeQ/o.jpg,240,[],region
+cafes,Sunday at the Museum,37.7796308,-122.4165973,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/rxUfpdK6ep-Zhx4HkSbOag/o.jpg,57,[],region
+bars,Commons Club,37.78235,-122.40209,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/mzNwS6Rle3pLMw9T_3pAnA/o.jpg,79,[],region
+newamerican,Homage,37.7905005,-122.4034818,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/7_UT0vkNUHua3rGqJcaFig/o.jpg,285,"['pickup', 'delivery']",region
+japanese,Onigilly,37.7906871982707,-122.39860187264,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/LS-pI-lgF15dT4QFYaTakA/o.jpg,153,['delivery'],region
+sandwiches,Irving Subs,37.76405,-122.46933,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/1yXDZJmr62xhhOEk7MMakw/o.jpg,286,"['pickup', 'delivery']",region
+foodtrucks,The Sarap Shop,37.76985,-122.41175,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/1wSptFztSnilx-mRmjjQeg/o.jpg,72,"['pickup', 'delivery']",region
+grocery,Haight Street Market,37.77021,-122.44758,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/MmURdAprc6FElOkHaFhoLw/o.jpg,465,[],region
+mexican,Tacos Cala,37.7760002,-122.4203666,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/TtbqVlOVwjHxwf82YYzorg/o.jpg,47,[],region
+salad,Tender Greens,37.7772819013067,-122.393357740115,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/41dkwm-Xsi8IyeKSqKVjFw/o.jpg,315,[],region
+coffee,6th and B,37.77745,-122.46374,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/otPhd0ZM9XCqxsIMK6pPCw/o.jpg,210,['pickup'],region
+mexican,CHICA,37.8005166340801,-122.401859387755,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/PsbvsQaWfZi0BjYOQmHDGw/o.jpg,65,['delivery'],region
+thai,Khan Toke Thai House,37.779911,-122.483321,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/p2Pw7GlW_u5h8xxMDNqvUg/o.jpg,617,"['pickup', 'delivery']",region
+tradamerican,Brickhouse Cafe,37.77965,-122.39523,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/0KiNBoYqTLkfT5HNIFaSEw/o.jpg,1159,"['pickup', 'delivery']",region
+ramen,The Ramen Bar,37.7928767316552,-122.397905081563,False,3.0,https://s3-media1.fl.yelpcdn.com/bphoto/J73NiWfGvXslEK2EMIPSbA/o.jpg,622,['pickup'],region
+sushi,New Oyaji Restaurant,37.781469,-122.492873,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/Pmm9C5FlIP6m0vmnYGXcBw/o.jpg,163,"['pickup', 'delivery']",region
+newamerican,Gibson,37.78447,-122.4096,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/nU5QkGpxn77rL0TY_6jWtg/o.jpg,159,[],region
+breakfast_brunch,Friends with Benedicts Pop Up,37.7883068064828,-122.420318606051,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/885HBTOYzgWLmC1MYVgSQg/o.jpg,200,"['pickup', 'restaurant_reservation', 'delivery']",region
+spanish,B44 Catalan Bistro,37.79131,-122.40363,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/R24sJlilcJAN9tihb2JSoA/o.jpg,1030,"['pickup', 'restaurant_reservation', 'delivery']",region
+vietnamese,Pho Phu Quoc PPQ Beef Noodle House Restaurant,37.76376,-122.47748,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/T1kVn2j8t6tEN4tROS7RAg/o.jpg,1350,"['pickup', 'delivery']",region
+burgers,Hamburger Mary's,37.76031,-122.43458,False,3.0,https://s3-media1.fl.yelpcdn.com/bphoto/b2s4P7AFAiTa6eyvHLTigg/o.jpg,276,"['pickup', 'restaurant_reservation', 'delivery']",region
+sportsbars,House Rules,37.7972751224801,-122.422142350927,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/5Zxa9uwyz6GnIGDBFuKHUA/o.jpg,68,['restaurant_reservation'],region
+coffee,Crossroads Cafe,37.7831325,-122.3890356,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/SGEtp3pB5duaCJYs3P3LTQ/o.jpg,979,[],region
+cafes,Slingshot,37.781710067093,-122.417064321143,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/s8RKIv6Fu0rv1cY5LVMbVg/o.jpg,35,[],region
+japanese,Glaze Teriyaki,37.80051,-122.43757,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/CA3ct9FxhdNxTcy75tVCpw/o.jpg,186,"['pickup', 'delivery']",region
+breakfast_brunch,Eddie's Cafe,37.77707,-122.43792,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/3hUt_eo_6Few2TlYGuMq1g/o.jpg,624,[],region
+desserts,Sweet Mango Dessert Cafe,37.78024,-122.47542,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/8g2HUGJ1HQnWyDWhYOUDQw/o.jpg,77,[],region
+mideastern,Blue Front Cafe,37.77025,-122.44607,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/kUUVJyP53XEeeiACuB2A2Q/o.jpg,690,"['pickup', 'delivery']",region
+mexican,Chicano Nuevo,37.7468705617692,-122.419589459896,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/VX4jf9eBQxYsn8EcBf7lBA/o.jpg,29,[],region
+chinese,Elaine's Kitchen,37.7982972,-122.4045086,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/qSGxUqJNRh9TV9r43WeRVg/o.jpg,368,"['pickup', 'delivery']",region
+mexican,Underdogs Too,37.74202,-122.5048,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/nizUaCWmQYyscniMP4xfmQ/o.jpg,186,['delivery'],region
+japanese,Blowfish Sushi to Die For,37.76196,-122.419169,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/Rrqj-V93NIHow4dQhTz4gQ/o.jpg,8,['restaurant_reservation'],region
+burgers,Hall Of Flame Burgers,37.7174879011283,-122.473734660797,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/zETJ45yn7fhkAxv0wFp9JQ/o.jpg,531,"['pickup', 'delivery']",region
+hotpot,Fondue Chinoise,37.7982979103372,-122.404444031417,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/TemfrljusZciedj1WbB3hw/o.jpg,83,['restaurant_reservation'],region
+italian,Pasquale's Pizza,37.76422,-122.46552,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/3LZehLXPouP7ZAj23jNgzQ/o.jpg,961,"['delivery', 'pickup']",region
+mexican,San Jalisco,37.75865,-122.41668,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/8ZZaUHLRhA6o2SIx9LqEeg/o.jpg,772,[],region
+chinese,Xiao Loong Restaurant,37.7385499,-122.46884,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/_AoMgTcMuGp25UnRhvFNFg/o.jpg,275,"['delivery', 'pickup']",region
+newamerican,Boho Cafe,37.800039,-122.438105,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/dXOIe7bWMUoDzfnM3LKThw/o.jpg,138,[],region
+breakfast_brunch,Heavenly Cafe,37.74366,-122.43993,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/LhDecSYJD-IISmE_oMI9nw/o.jpg,45,"['delivery', 'pickup']",region
+japanese,Hashiri,37.7831021,-122.4076549,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/MQRZy95Omn6nScKFft7hig/o.jpg,99,[],region
+tradamerican,Mel's Kitchen,37.785627,-122.421095,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/9B5P4Haac3MZd-78puJMug/o.jpg,122,[],region
+desserts,Sophie's Crepes,37.785048,-122.432093,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/5uxSq7MT79Fikl1-qR4Kug/o.jpg,1680,[],region
+vegan,Vegan Picnic,37.79734,-122.43163,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/-UREzw1--rI8MoNMveqBMQ/o.jpg,310,"['delivery', 'pickup']",region
+german,Gestalt,37.76469,-122.4233,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/9GIGfPX2Jw8J90CcJUFc3A/o.jpg,530,[],region
+sushi,Mizutani Sushi Bar,37.7851982116699,-122.464859008789,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/x6AMoGYqmlA8UdT2A3BaFw/o.jpg,176,"['delivery', 'pickup']",region
+bakeries,Kahnfections,37.75873,-122.41502,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/gACYOmpKSco1DMAObekLpw/o.jpg,93,[],region
+japanese,Ike's Japanese Kitchen,37.78307,-122.42044,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/Nb6QzFhslh_4gcjt4nQESg/o.jpg,88,"['delivery', 'pickup']",region
+chinese,New Dumpling King,37.77559,-122.49449,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/G1rH_7lKNKszwR6xYiyrbg/o.jpg,31,"['delivery', 'pickup']",region
+salad,La Fromagerie,37.7905110535375,-122.402407899499,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/6h9cas439u3s3Cndj-feKw/o.jpg,232,"['delivery', 'pickup']",region
+french,Mathilde French Bistro,37.7800134026795,-122.402965373019,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/P4n-7ici79n7FUh4DpB3qQ/o.jpg,231,['pickup'],region
+tradamerican,Harvey's,37.7607805322717,-122.435256826083,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/Cwo0nZWFHiVidjTIJIHacQ/o.jpg,795,"['delivery', 'pickup']",region
+cakeshop,ONE65 Patisserie & Boutique,37.786249,-122.407372,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/j_MOi6qIm_aYAC2YpcSWzQ/o.jpg,122,[],region
+streetvendors,The Dosa Brothers,37.7890223310083,-122.402008838536,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/meQfWx0o3dKS8XwDdJnCkg/o.jpg,313,['pickup'],region
+sportsbars,Public House,37.7779192442251,-122.391033616811,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/-yIIe0jb6LC5t2YB4SwlrA/o.jpg,525,['pickup'],region
+soulfood,Soul Food City,37.783737,-122.4143007,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/wbPfhLUCeZzjQQPDTdbM2A/o.jpg,79,"['delivery', 'pickup']",region
+indpak,Ritu Indian Soul Food,37.7523801491968,-122.414512708783,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/hjHVxBGEOX-Yd_aMu-zMCQ/o.jpg,250,"['delivery', 'pickup']",region
+japanese,Sushirrito,37.7881060764542,-122.401113824175,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/g4oIV9sIvV0M_bNKgti8Rg/o.jpg,1573,[],region
+raw_food,Peña Pachamama,37.79976,-122.41049,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/rwjxqQkgXnTKH8AhF7Etvw/o.jpg,450,"['restaurant_reservation', 'delivery', 'pickup']",region
+breakfast_brunch,Lou's Cafe,37.743,-122.48241,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/IaaYCecPCCAyo3FzhaWHQQ/o.jpg,316,"['delivery', 'pickup']",region
+cafes,Cafe 5,37.7859072,-122.4008003,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/rTtp3RjsGG81gl9i3YCHLw/o.jpg,71,[],region
+newamerican,The Brixton,37.79749,-122.43456,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/TzFrUee-FC6ADueD12pBpw/o.jpg,850,"['restaurant_reservation', 'delivery', 'pickup']",region
+japanese,Daigo Sushi,37.782156,-122.485709,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/d5FIiJRl_XzmtqanePBndA/o.jpg,499,"['delivery', 'pickup']",region
+salad,SOMA Eats,37.7868576,-122.3985748,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/31a96UlK4cKW8n17kvpupQ/o.jpg,483,"['delivery', 'pickup']",region
+thai,Hawker Fare,37.7619934082031,-122.421920776367,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/Qxk8qU7c5rZc51ROEq4Skg/o.jpg,484,"['delivery', 'pickup']",region
+breakfast_brunch,Rigolo Café,37.7865423,-122.4511323,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/LTi6Dq2GCZpbwRw9CH2AfQ/o.jpg,603,"['delivery', 'pickup']",region
+wine_bars,Bar Crenn,37.79837,-122.43604,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/cL87yLyuCayCXnrraKKo7w/o.jpg,85,[],region
+delis,Chile Lindo Empanadas,37.7652456,-122.4184663,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/_bfny73brPhhuZAbdkcOZg/o.jpg,214,"['delivery', 'pickup']",region
+filipino,Turo Cafe and Grill,37.72071,-122.4461,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/d0g1-EQ02--ORtp4j4a_xA/o.jpg,90,"['delivery', 'pickup']",region
+foodtrucks,San Pancho's Tacos,37.7402754,-122.4061328,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/xn8N8NF3lTD0oanWhHNuug/o.jpg,64,[],region
+sportsbars,Connecticut Yankee,37.7648964,-122.3978982,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/mH9ziHuLfrW3EhPvEWcq6Q/o.jpg,499,[],region
+mideastern,Saha,37.78775,-122.41793,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/cvnijWp4ye4dQmYTJhlzOg/o.jpg,57,"['delivery', 'pickup']",region
+pizza,Acquolina,37.8006138590172,-122.409087941051,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/jtakl4ObMhb5pLmtJavKCw/o.jpg,512,"['delivery', 'pickup']",region
+bars,Deck The Halls Bar,37.7874672,-122.4204681,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/m-wE3qjojZPL099fWNc_IA/o.jpg,38,[],region
+bars,Westwood,37.8002,-122.43556,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/yxV3GLyJvn3P7kStcbpPaw/o.jpg,62,"['delivery', 'pickup']",region
+japanese,The Bar at Kabuki,37.78544,-122.42902,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/-mUBro4yA6yUN8mpHA_O9A/o.jpg,27,[],region
+pizza,Nobhill Pizza & Shawarma,37.79085,-122.41979,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/OmkiFvceEJ3nMSHi1XymSA/o.jpg,240,"['delivery', 'pickup']",region
+chinese,Zhong Shan Hakka Cuisine,37.74216,-122.49031,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/CrVA0q97sB5xoj5F5_9t-w/o.jpg,14,[],region
+latin,Sabor,37.7446726,-122.4203066,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/wsQsO3TtyKvWVnaW8lR0VQ/o.jpg,127,"['delivery', 'pickup']",region
+mexican,Tres Tequila Lounge & Mexican Kitchen,37.78015,-122.39132,False,3.0,https://s3-media1.fl.yelpcdn.com/bphoto/ktinbF3VHlelm_lMKXzuVg/o.jpg,1648,[],region
+breakfast_brunch,D’Maize,37.7531,-122.4078,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/USEHl2W1wdeOPIY83D3eNA/o.jpg,56,"['delivery', 'pickup']",region
+sushi,Sushi Nagai,37.785297,-122.408359,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/gMI4_CwgSo6-HxX8nXvXNg/o.jpg,35,[],region
+pizza,Himalayan Pizza and Momo,37.7818311760517,-122.415368333459,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/L5-uYhMn6DtFHZePWbqr2A/o.jpg,133,"['delivery', 'pickup']",region
+mexican,Casa Barajas,37.76514,-122.47812,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/Dgw-q308NuaJKUny0FT6_g/o.jpg,48,"['delivery', 'pickup']",region
+sushi,GINTO Izakaya Japonaise,37.78846,-122.40294,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/njKrCMyv3S0VLOkOHfMsPA/o.jpg,576,['restaurant_reservation'],region
+sushi,GINTO Izakaya Japonaise,37.78846,-122.40294,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/njKrCMyv3S0VLOkOHfMsPA/o.jpg,576,['restaurant_reservation'],region
+sushi,Sushi Taka,37.7937107,-122.4045221,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/XyCXoEkKOhZk7e-k-6ZHEg/o.jpg,439,"['delivery', 'pickup']",region
+coffee,Cafe St. Jorge,37.741612083577,-122.422536600206,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/swLUXSMTly5gnPurHaOdUw/o.jpg,442,[],region
+vegetarian,Lucky Creation Vegetarian Restaurant,37.7951059659376,-122.407378596858,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/UZY3QdYltj9mhM7o3byfTQ/o.jpg,531,[],region
+seafood,Sam's Grill & Seafood Restaurant,37.79101,-122.40357,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/fVKJp79_JZ-lxmKjB-YSYA/o.jpg,388,[],region
+salvadoran,Express Liquor and Pupuseria,37.780574627831,-122.469850676482,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/ga5yyPkZGXTcEgCwXw4Ywg/o.jpg,104,['pickup'],region
+italian,Pazzia Ristorante Italiano,37.7834151615544,-122.398016998777,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/rtDVuyIuxprAjsvqnWFNBA/o.jpg,974,[],region
+korean,Brothers Restaurant,37.78135,-122.46377,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/BssiFC8Oazb7lzIrZRTz2Q/o.jpg,1158,[],region
+ramen,Kirimachi Ramen,37.7952126223332,-122.397671765717,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/155d507qFU3fdCxZbeOJbQ/o.jpg,405,"['delivery', 'pickup']",region
+grocery,Gus's Community Market,37.7640466711282,-122.412807159126,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/rnsfdzcHJtqgdiQdyfEW0Q/o.jpg,217,[],region
+vietnamese,Mr East Kitchen,37.7804338,-122.4038163,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/J574d5urWCcxA3df_eZavg/o.jpg,164,"['delivery', 'pickup']",region
+foodtrucks,Kokio Republic,37.7697686,-122.4120492,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/k7WEXPRAq9Nobyr8OFRuKw/o.jpg,178,"['delivery', 'pickup']",region
+popuprestaurants,Boogaloos - Pop Up,37.7692962437868,-122.452075704932,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/zsOWmP8fxdjAIVphubGOxw/o.jpg,22,[],region
+japanese,Sunset Shabu,37.76291,-122.4659,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/VWpzcDhOLtjbzV1D5uA3Ag/o.jpg,78,[],region
+noodles,NoodleMe,37.7919839189273,-122.397174574435,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/9T8CXyQbt3rpyyFEulWidg/o.jpg,141,"['delivery', 'pickup']",region
+cafes,Cafe Réveille,37.7734805146623,-122.391614224992,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/hil8Z4gmeK2Dez_Z4mJFaA/o.jpg,364,[],region
+korean,Hahn's Hibachi Korean BBQ,37.79261,-122.42089,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/aXhPpnmvOM6Xanr5YucZaA/o.jpg,345,[],region
+foodtrucks,Chomp Station,37.769813,-122.412017,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/FXQ6oX-tUPmla1TFxe2Zsw/o.jpg,35,[],region
+tradamerican,Stacks,37.77651706748,-122.424790594424,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/3FZHuHnXfgVd71nbWBE0iQ/o.jpg,1633,[],region
+sushi,Moki's Sushi & Pacific Grill,37.7391002,-122.4155353,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/xhwbgWldQM9249FmXxqJIw/o.jpg,463,[],region
+salad,MIXT,37.758405,-122.421097,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/XDqr9UlyKmoEBEVrgpo7rw/o.jpg,134,[],region
+italian,Americano,37.79383,-122.3934,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/5pxWRtlGxhXs982wl3EwGw/o.jpg,1019,[],region
+coffee,The Point,37.7777857720232,-122.397009568866,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/nwwc2rUaLgetTfdumX1iXg/o.jpg,44,[],region
+pizza,Pizzahacker,37.74403,-122.42047,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/fx2PMf2rNoXwT_BAN5HU2A/o.jpg,329,"['delivery', 'pickup']",region
+cafes,El Cafe,37.742945,-122.481242,False,5.0,https://s3-media4.fl.yelpcdn.com/bphoto/fx1LmQ9UHMcTLKAJ8_oe2Q/o.jpg,54,[],region
+steak,Osso Steakhouse,37.791026,-122.413648,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/W3cZQ9eFBGpCK4VPHm27Nw/o.jpg,751,[],region
+diners,Louis',37.779241785519,-122.51281325403,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/BBfKuwAe5ktY5j1IKAyxYA/o.jpg,604,[],region
+bars,Bar VIA,37.7792251,-122.3906072,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/EEVEsqFhocK_WFyVU8XBuA/o.jpg,39,[],region
+tradamerican,Links Bar & Grill,37.7814527761291,-122.492958605289,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/JZBjyKETMIeAxXV-7EHc9Q/o.jpg,31,"['delivery', 'pickup']",region
+delis,Teds Market & Deli,37.77287,-122.41623,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/9AW2PvAfl9noeYa1KkgXrg/o.jpg,471,['pickup'],region
+burmese,Rangoon Ruby,37.78085,-122.42014,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/LlM_qb9KnzqGX_6w7-aBLw/o.jpg,184,"['delivery', 'restaurant_reservation', 'pickup']",region
+sushi,Hamano Sushi,37.75077,-122.43431,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/1339USbjYfIIfB4HLuiVJQ/o.jpg,396,[],region
+japanese,Jin Pot Shabu House,37.78084,-122.47492,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/XfQaTaLGTkXgIjjVq1u2hg/o.jpg,135,[],region
+sandwiches,Atlas Cafe,37.75886,-122.4114,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/jsQMgMXw48s-yCZwe6uasw/o.jpg,791,"['delivery', 'pickup']",region
+cafes,Word A Cafe,37.73213,-122.39198,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/aqBlnCiJaAc4lqpBKf9kTg/o.jpg,43,[],region
+thai,Thai Cafe,37.781205,-122.455499,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/rTpW-H1udjU3Bo0iwAhxRg/o.jpg,232,"['delivery', 'pickup']",region
+newamerican,Popsons,37.78266,-122.41029,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/Jt4yin58SDdG4LBrGj5pHQ/o.jpg,321,"['delivery', 'pickup']",region
+burgers,Super Duper Burgers,37.7914468,-122.403981885008,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/nlQUVXgCsShH2PPjtpdKRw/o.jpg,299,[],region
+japanese,YamaSho,37.7864379882812,-122.420883178711,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/y5nkIot9uukcWTNblGZGZg/o.jpg,574,['restaurant_reservation'],region
+mexican,Puerto Alegre,37.76413,-122.4221,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/VRYs_mpQv30x1YpcfIe2nQ/o.jpg,1077,[],region
+mexican,Taqueria Castillo Mason,37.7836306,-122.408976,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/1QOkkQUQD1E7erlUNTsiSg/o.jpg,253,[],region
+poke,Urban Bowls,37.77811,-122.42247,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/QESPvZ1SHW9BinkRrLYz0w/o.jpg,49,"['delivery', 'pickup']",region
+chinese,Wok This Way,37.77741,-122.46481,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/1rnkf8HXwPSM-z6Q5lG0Dg/o.jpg,125,"['delivery', 'pickup']",region
+brasseries,Gaspar Brasserie,37.7896186379079,-122.40344702209,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/sEhwF9GOcJjhkO-hPChtRA/o.jpg,378,['delivery'],region
+sandwiches,Bite Me Sandwiches,37.76845,-122.45067,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/F8Z09pyVuwAFIaS0vQ17xA/o.jpg,119,"['delivery', 'pickup']",region
+delis,Queens,37.76526,-122.46672,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/W-P61ZYABIGDN4kDXdQqbQ/o.jpg,17,[],region
+tea,Chai Bar By David Rio,37.781819251714,-122.410724759102,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/rIxVg1NaFSXX4znYwYrR3g/o.jpg,444,[],region
+burgers,Bobo's Burger Bar,37.8015318,-122.4255939,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/3wM8fs-acUR6EI4hb2mXzg/o.jpg,112,['pickup'],region
+venues,The Midway,37.74945,-122.386,False,3.0,https://s3-media3.fl.yelpcdn.com/bphoto/9k26SOOM7Bty6IWTf5PM6w/o.jpg,95,[],region
+pizza,Goat Hill Pizza,37.762471,-122.397658,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/8BhYHvMpJZvhl34au3471A/o.jpg,1242,"['delivery', 'pickup']",region
+coffee,Jane on Larkin,37.7864643147421,-122.418316288196,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/sWJWYDPQNed5yqfhUUawCg/o.jpg,453,[],region
+burgers,The Melt,37.783325,-122.408453,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/aDakBRBtc7SsT_OsOv3Gaw/o.jpg,204,[],region
+coffee,Kissako Tea,37.7852337,-122.4315788,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/ql1ll4aSQBIDG595IR8rBw/o.jpg,289,['pickup'],region
+grocery,Parkside Market,37.7744611,-122.4429527,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/23KKxYaKuRIqB3xRxGXxaA/o.jpg,92,"['pickup', 'delivery']",region
+wine_bars,Zita Wine Bar,37.7528999,-122.40958,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/IijNb9MzBXZD43rYq9cBAQ/o.jpg,74,[],region
+coffee,Crostini & Java,37.78892,-122.41714,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/z3QpxExt9w6kuzcys4PesQ/o.jpg,147,[],region
+indpak,Viva Goa,37.799287,-122.441485,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/bHrpVfx11QPlbnLTWjLj7A/o.jpg,476,"['pickup', 'delivery']",region
+mediterranean,Chez Beesen,37.792262583327,-122.40055496438,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/0xd8WFsVzoFiU5Ypda9Lww/o.jpg,452,"['pickup', 'delivery']",region
+indpak,Newa,37.7847215,-122.4130263,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/xkdSkGRvgcWoGPQp7lnHig/o.jpg,196,"['pickup', 'delivery']",region
+japanese,Onsen Restaurant,37.78387,-122.41539,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/-NHH0XZA-v1naohV2IQdRg/o.jpg,63,[],region
+divebars,Bender's Bar and Grill,37.7601948,-122.4171804,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/22Uppap4FO40s4WzuKUPww/o.jpg,438,[],region
+seafood,Capurro's,37.807817,-122.420253,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/7ifgM446wa0wTxGFzzK3Ug/o.jpg,821,['restaurant_reservation'],region
+ramen,Kan Ramen,37.7973229754264,-122.4061646685,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/RopzdQpteXChbLWaWY0znA/o.jpg,138,[],region
+burgers,Bernal Star,37.7391053365691,-122.417461604127,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/2xhjwngbU0aQ1tLwOJ9VPg/o.jpg,294,['restaurant_reservation'],region
+tradamerican,Town's End Restaurant & Bakery,37.7825030042563,-122.3887404238,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/aY1dujQTUJzkdxAHU4GXaQ/o.jpg,768,"['pickup', 'restaurant_reservation', 'delivery']",region
+breakfast_brunch,Egg White Cafe,37.7420708387,-122.422039138,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/S1W_xsF-aW_kaOdEjYi59A/o.jpg,26,[],region
+breakfast_brunch,Top of the Mark,37.791995,-122.410223,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/B9pwbboohIuIaCH2O60hiQ/o.jpg,1325,[],region
+cafes,Mayah's Restaurant Cafe,37.76742,-122.40622,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/03WvqoYYmRFgguuJhwmEEw/o.jpg,26,"['pickup', 'delivery']",region
+grocery,McBaker Market & Deli,37.7774614,-122.4418716,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/kwqqDNW7QJd0YxZZ8WMUFA/o.jpg,11,[],region
+burgers,Tower Burger,37.74395,-122.45344,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/f4GrSBtYVB3wSjfuCtMqRg/o.jpg,333,[],region
+lounges,Bar 587,37.78771,-122.41139,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/_jZ11yj3vJgpxvARCpec-w/o.jpg,236,[],region
+indpak,Noori Pakistani & Indian Cuisine,37.76374,-122.47875,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/ofS-QGQem4-A-oBELbRj5Q/o.jpg,447,"['pickup', 'delivery']",region
+pubs,Beer 39,37.8102162440931,-122.410622835159,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/O-VowWV8kCXXGFQT_g1Tcw/o.jpg,136,[],region
+bars,Brick & Beam,37.805885,-122.415992,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/K2qnsVdtWyPL3m5xECFhKQ/o.jpg,215,[],region
+coffee,Blue House Café,37.71449,-122.46557,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/V85jZgFEYy-08P7rVJG8cQ/o.jpg,42,[],region
+korean,Sunday Bird,37.783667501105,-122.432573027909,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/YcOfm8TRSm_bXZRk7WCCzQ/o.jpg,65,[],region
+french,Boulettes Larder + Boulibar,37.7951,-122.392684,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/7gwi94gViTDufwyMzaSHmA/o.jpg,703,[],region
+gluten_free,Halal Shop,37.7223946,-122.4786143,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/tLQ-vLYKxqH2PnvcxfBB7Q/o.jpg,65,"['pickup', 'delivery']",region
+mexican,Tacolicious,37.8001162,-122.4090159,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/Xs6v2sjD5rGda1LvGWgJJA/o.jpg,488,"['delivery', 'pickup']",region
+cakeshop,Noe Valley Bakery - West Portal,37.74067,-122.46641,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/_p1RDfN5XC0AgIH7EBKoAA/o.jpg,144,[],region
+lounges,Le Petit Paris 75,37.79782,-122.40586,False,5.0,https://s3-media3.fl.yelpcdn.com/bphoto/I7Y3-j05j1fDrX81tDia2Q/o.jpg,4,[],region
+beer_and_wine,The Spanish Table,37.7833633422852,-122.460777282715,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/HNysp3N5hi9X3LB4EUTz0w/o.jpg,39,[],region
+newamerican,K-OZ Restaurant and Brewery,37.778882,-122.4098711,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/ZIUAYzSw28QQuDPT4MyJ5Q/o.jpg,116,"['pickup', 'delivery']",region
+vietnamese,L&G Vietnamese Sandwich,37.7834,-122.41781,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/0ValcwCE-QUQskJZo3w7Ww/o.jpg,164,['pickup'],region
+greek,Park Gyros,37.765735,-122.466647,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/OTCn2EtWENtfg64az3367A/o.jpg,555,"['pickup', 'delivery']",region
+coffee,UpForDayz Coffee,37.75393,-122.42118,False,5.0,https://s3-media1.fl.yelpcdn.com/bphoto/6LVRRoQaavHVaiTbY-o2Ww/o.jpg,86,[],region
+breakfast_brunch,Split,37.79798,-122.42195,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/vwgXtq0JHjOXPYV-hln88w/o.jpg,213,[],region
+indpak,The Dosa Brothers,37.7942590415913,-122.399431298777,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/F58iIXxUMgjKpFDkxYemUA/o.jpg,15,[],region
+asianfusion,Chubby Noodle,37.7994561586758,-122.437992095947,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/RTe4Pxx3Opk8NGBdjIErzQ/o.jpg,665,['delivery'],region
+seafood,Pier Market Stand,37.809989620553,-122.410494757147,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/bunzjJQoVltA1w8JhVBvIA/o.jpg,67,[],region
+foodtrucks,Curry Up Now Food Truck,37.79093,-122.40164,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/nA_WIND1nBAGCWCFkyKLhw/o.jpg,935,['pickup'],region
+tacos,Taco Guapo,37.79015,-122.40277,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/ChN5tj0dvAPlV7Po_gLCIg/o.jpg,6,[],region
+dimsum,Hang Ah Tea Room,37.7933499,-122.40749,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/stsMyhnwlKsZ10D3HvCKLQ/o.jpg,752,"['pickup', 'delivery']",region
+italian,Calzone's Restaurant,37.799032,-122.4081743,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/geKB9IAW0XWAJSE0bQuecw/o.jpg,1502,['restaurant_reservation'],region
+cafes,Noon All Day,37.7617234541221,-122.391720792728,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/CHCL48ZUe8G1xI5ZSoo2Iw/o.jpg,86,[],region
+tapas,Barcino,37.7776,-122.42276,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/HV3H16BSf30BH07HjpbScA/o.jpg,185,[],region
+cheese,San Francisco Wine & Cheese,37.7747,-122.42271,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/iJsI_3VeWjDhkNM4IG5SxQ/o.jpg,96,[],region
+mexican,Panzon,37.7896,-122.39952,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/dUY85UIXWlU9xYORAcdqZA/o.jpg,101,[],region
+burgers,Applebee's Grill + Bar,37.808025,-122.415805,False,2.0,https://s3-media1.fl.yelpcdn.com/bphoto/g_HKV3StSpXuIi8w2xrV7Q/o.jpg,501,"['delivery', 'restaurant_reservation']",region
+cafes,Moonlight Cafe,37.73876,-122.4153,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/RzhRcxlKZQuLYSWPGY1GXw/o.jpg,239,[],region
+vietnamese,Loi's Vietnamese Restaurant,37.7634859,-122.4820102,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/QyvL_J3KLwpGxryF7Hzzug/o.jpg,627,[],region
+sushi,Okoze Sushi,37.79899,-122.41929,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/epYqe4-8YK8tYaL5ZQK2Nw/o.jpg,642,[],region
+hotpot,Chef Li's Cafe,37.72718,-122.40375,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/XmG6KqePQzkVVhZbC2tYGg/o.jpg,141,"['delivery', 'pickup']",region
+pizza,Pizzeria Delfina - Downtown,37.78672,-122.40181,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/SnuDeQKD5v0VD8t89Lei6g/o.jpg,109,[],region
+thai,House of Thai 2,37.772247,-122.4302516,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/LdfgS65rTFxY8-cYBQYzVQ/o.jpg,290,"['delivery', 'pickup']",region
+japanese,Kaisen Sushi,37.7831294,-122.4067349,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/B67cBbCz_hxZgDJbA15AfA/o.jpg,194,['pickup'],region
+italian,Scala's Bistro,37.78898,-122.40822,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/naCz8VbaEeNkXsLsmTZFIw/o.jpg,1353,[],region
+japanese,Taraval Okazu Ya Restaurant,37.74239,-122.48486,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/fh0HLqrzbr5X0FvVwfRYVw/o.jpg,876,[],region
+sandwiches,Cafe La Flore,37.7827709595657,-122.470544639881,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/HPZzspbUa1H43Yde1wm12g/o.jpg,364,"['delivery', 'pickup']",region
+salad,Cafe Franco,37.807185,-122.428764,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/K5bFvtRbEdKeC5W8ZuZ06g/o.jpg,63,['pickup'],region
+ramen,RakiRaki Ramen & Tsukemen,37.7444460860904,-122.421003654599,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/b2j4lyCW5RFENoAX0FZNdQ/o.jpg,217,"['delivery', 'pickup']",region
+bakeries,Vive La Tarte,37.7957848137993,-122.393996579795,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/jwTBHFy92XaWW15Kz7kt5w/o.jpg,83,[],region
+tradamerican,The American Grilled Cheese Kitchen,37.798555,-122.4012042,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/FPycNhTgnfLKojdWr2GygA/o.jpg,162,"['delivery', 'pickup']",region
+coffee,Philz Coffee,37.7235427,-122.4537285,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/5p_d_AbEWHRYdjOGaYNRgg/o.jpg,160,[],region
+breakfast_brunch,The Grove - Design District,37.769579,-122.403516,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/psZULUfXKXSDf5YcLXRsxw/o.jpg,223,[],region
+sandwiches,Java Beach at the Zoo,37.7356872558594,-122.502906799316,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/4CktVcr_8Q3LBPS-Gevt6A/o.jpg,493,['pickup'],region
+thai,Zabb Thai Cuisine,37.7265692,-122.4335853,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/o_566_btnM4RZVCQQCa0zw/o.jpg,315,"['delivery', 'pickup']",region
+mediterranean,Mediterranean Fusion,37.7724143,-122.4297923,False,5.0,https://s3-media1.fl.yelpcdn.com/bphoto/PkZFTyyaNksghGUWc1o6KQ/o.jpg,1,"['delivery', 'pickup']",region
+taiwanese,Shihlin Taiwan Street Snacks,37.7280816486308,-122.47708093375,False,3.0,https://s3-media4.fl.yelpcdn.com/bphoto/RJYoUagypED5JlEfS-gVjg/o.jpg,162,[],region
+vietnamese,World Of Noodle,37.75552,-122.41955,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/Z324_I_iwIFFNfnAna2PlQ/o.jpg,20,"['delivery', 'pickup']",region
+mexican,El Pípila,37.7715833,-122.4048175,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/QnJxdUBm1_Ot_Y1EvppNdg/o.jpg,60,"['delivery', 'pickup']",region
+breakfast_brunch,Ella's American Kitchen,37.787131,-122.446581,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/Bx-oWkdIQApan1QfkxJqng/o.jpg,1052,['pickup'],region
+coffee,Craftsman and Wolves - The Den,37.7269073837324,-122.391263064064,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/t5Lc1NyVOexk20TVfgCo9Q/o.jpg,102,[],region
+indpak,Curry Up Now,37.7622586289092,-122.421541772783,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/H6cQvlVOcGt-fH5TFvTsAg/o.jpg,637,"['delivery', 'pickup']",region
+japanese,Happy Shabu Shabu,37.7824809,-122.4327923,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/ylQSuvbSdQN72xnFXBIu1A/o.jpg,393,[],region
+chinese,Wok Station,37.7635202819256,-122.481261156499,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/45rRZkKrDnX6jhqYZphXHg/o.jpg,270,"['delivery', 'pickup']",region
+newamerican,Luce,37.7820272648854,-122.404410839081,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/_IBmjkymo2KvoenfOMoyMA/o.jpg,751,[],region
+newamerican,Atlas Tap Room,37.787968,-122.400236,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/dsxcyWWxQk7AHxlYdJSF5A/o.jpg,182,['delivery'],region
+coffee,Weaver's Coffee & Tea,37.7636299133301,-122.433311462402,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/p0mcPfPdNrI0CPMPowQJQA/o.jpg,108,[],region
+sandwiches,Jimmy John's,37.7891669508605,-122.402981455298,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/S66hQni8x81TLWrTxwCKcg/o.jpg,221,['delivery'],region
+breakfast_brunch,Sea Breeze Restaurant,37.760589,-122.5045493,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/_IhqINlZGrmtDXfkXZdI6w/o.jpg,473,[],region
+pianobars,Noir Lounge,37.7763536861331,-122.425882516409,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/qRRxKc0LAM6pJGEUp5dx4A/o.jpg,373,"['delivery', 'pickup']",region
+coffee,Mazarine Coffee,37.787579982406,-122.404056472387,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/Noj3tkhC8bdfEMqG1LvdTQ/o.jpg,784,[],region
+pizza,Tony's Coal-Fired Pizza And Slice House,37.800247,-122.408928,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/BwgE56n7diA8bF6j9ojZgg/o.jpg,445,[],region
+cocktailbars,Barbara Pinseria & Cocktail Bar,37.7990091,-122.4085804,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/NVYb6McJT2ZCSEwATKG5YQ/o.jpg,144,"['delivery', 'restaurant_reservation', 'pickup']",region
+vietnamese,Evergreen Garden Restaurant,37.76239,-122.41311,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/ec0DkQhYGLMOPn5DcluHMg/o.jpg,378,"['delivery', 'pickup']",region
+wine_bars,Gratta Wines,37.729625031352,-122.392356991768,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/FeZ68m06SW0ZSWcb7XIZ9g/o.jpg,23,[],region
+pizza,Kinara Fusion Kitchen,37.786613,-122.413423,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/4p1e_neiKYyTVojNFEKWog/o.jpg,167,"['delivery', 'pickup']",region
+chinese,Henry's Hunan Restaurant,37.72211,-122.4364,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/_g_XL3yeIDkpMhjAGx0Jmw/o.jpg,239,"['delivery', 'pickup']",region
+hotdogs,Top Round Roast Beef,37.75289,-122.41139,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/uCRxjU_H8pkh3gRVXXdeGg/o.jpg,151,"['delivery', 'pickup']",region
+coffee,Scullery,37.7864,-122.41451,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/Dwv6saQnlNV9SnltAD1xGg/o.jpg,214,"['delivery', 'pickup']",region
+tradamerican,The Greenwich,37.7991469077,-122.435932483,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/fQ6eZtRjw_aToKePE9JYiw/o.jpg,3,[],region
+thai,The Thonglor,37.78726,-122.41038,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/UxCn-H-HY6ASFknAnBjVRQ/o.jpg,39,"['delivery', 'pickup']",region
+dimsum,TC Pastry,37.7635999,-122.4819,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/1lP6jSN4sJ3Vb31Tz9LcXA/o.jpg,316,[],region
+coffee,Philz Coffee,37.76475,-122.40129,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/97HO92ov0HwFHTv_1DFnBw/o.jpg,114,[],region
+sushi,Grandehos Kamekyo,37.8058887,-122.4203474,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/w2Ii19NEDV2-CDaF1i_PNA/o.jpg,453,"['delivery', 'pickup']",region
+cocktailbars,Mezcalito,37.7981693918836,-122.422388639632,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/HYBu5BMqNmpn5tWIeDObmQ/o.jpg,290,[],region
+tea,Samovar - Valencia St.,37.7663154558352,-122.421848215163,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/Qso3C-h69bmCGKMu9kGwuQ/o.jpg,372,"['delivery', 'pickup']",region
+burgers,Dijon Burger,37.79006,-122.42032,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/u8bl2fiE90v_N9PIas24gA/o.jpg,202,"['delivery', 'pickup']",region
+mediterranean,SAJJ Mediterranean,37.79157,-122.40375,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/61EMI4IGouQBJ1l1bFlQWA/o.jpg,42,"['delivery', 'pickup']",region
+coffee,Philz Coffee,37.79749,-122.4218,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/KK7pTIYSp_-Hv1Y0Ce4SPA/o.jpg,10,[],region
+acaibowls,Honey Bar,37.72856,-122.47688,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/aIeC_Aq9Lq9P3PzlRudlzg/o.jpg,67,"['pickup', 'delivery']",region
+bbq,Guerra's To Go,37.7431790704291,-122.469854727387,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/NfNVBx7q_AvmS3s2extWfg/o.jpg,45,"['pickup', 'delivery']",region
+himalayan,DBC Restaurant,37.77983,-122.432233,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/SN3sUEeKPDPGNUoI1v2MuA/o.jpg,11,['restaurant_reservation'],region
+thai,Hippie Thai Street Food,37.77039,-122.44569,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/V6j4pZrGwtZBG_P3o3za9g/o.jpg,175,"['pickup', 'delivery']",region
+chinese,Wok-In Cafeteria,37.743709564209,-122.38404083252,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/by2xrkDFPTtktalc1p-pZA/o.jpg,53,"['pickup', 'delivery']",region
+pizza,CyBelle's Front Room,37.76238,-122.46641,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/u8pVXbOUynY3MRX5iaKcig/o.jpg,667,"['pickup', 'delivery']",region
+vegan,Indochine Vegan,37.7646623774103,-122.421955168247,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/OyguGXvFSBJjRTHuyFI1LQ/o.jpg,346,"['pickup', 'delivery']",region
+cafes,Provender,37.7624810100683,-122.396886236966,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/7gRcapry1EWwNlinDE5HqQ/o.jpg,156,[],region
+southern,Keith's Chicken N Waffles,37.6868567,-122.4695859,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/3df1ro4jFVpDJTNbEQE6Ng/o.jpg,579,['pickup'],region
+italian,Puccini & Pinetti,37.7853254267245,-122.408575865042,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/ubhWdsBC9SpEg2QK9cgncg/o.jpg,1078,"['pickup', 'delivery']",region
+newamerican,Jones,37.78716,-122.41289,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/ZUgYlZUanvltK4Hhiy4JdA/o.jpg,1068,[],region
+filipino,Kababayan,37.7535801,-122.4187513,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/pxUSCz0dWr6MQoWdoN7JHQ/o.jpg,71,['delivery'],region
+chinese,Mandarin House SF,37.74153,-122.4228,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/asbahh4wvYVnQkjajeVz5g/o.jpg,169,"['pickup', 'delivery']",region
+mediterranean,Truly Mediterranean Mission Bay,37.7666542,-122.3952516,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/dNuF6bspwmKtETIXQnavaw/o.jpg,105,[],region
+cafes,Robin's Cafe,37.76338,-122.41644,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/yS86qWhD3AOcIKRs3UP29A/o.jpg,49,[],region
+popuprestaurants,Latitude 15 Pop-Up,37.7593477,-122.4106402,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/aiCZ_MRd-vhtp3dm7_VyAw/o.jpg,5,[],region
+mexican,El Rancho Grande,37.76996,-122.44952,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/Q1kQm8tLOaPArV3L7DWbhw/o.jpg,115,"['pickup', 'delivery']",region
+korean,Matko,37.793588,-122.394295,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/vRUQqP7PUVu4gTFibbfCUw/o.jpg,78,[],region
+italian,CENTO Osteria,37.784994,-122.388372,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/ottAOmybdqEb4ltLO_LGbg/o.jpg,157,[],region
+tradamerican,Joinery,37.8599260568947,-122.485686002719,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/-3Q2TiSjdQgEDB-TuHkJ9A/o.jpg,365,[],region
+sushi,I Luv Teriyaki & Sushi,37.7662519802004,-122.407908890593,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/3zKzxV52KZvcBNe02IxQrQ/o.jpg,220,[],region
+newamerican,Hotel San Francisco,37.7939831959712,-122.40387506783,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/NaeCXiWu3MguuWfHgWL_KA/o.jpg,102,['restaurant_reservation'],region
+cafes,Flor De Cafe,37.756624,-122.421279,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/SX-zhUDwKLCAebpURh9Mpg/o.jpg,88,"['pickup', 'delivery']",region
+juicebars,Elixiria,37.7920625403238,-122.396727216602,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/ZuGpwBqB1W20TMUhyuhNEg/o.jpg,281,"['pickup', 'delivery']",region
+hotdogs,Popeyes Louisiana Kitchen,37.77483,-122.438049,False,3.0,https://s3-media3.fl.yelpcdn.com/bphoto/do2Eph08a1xGgxQ9WnubXg/o.jpg,197,"['pickup', 'delivery']",region
+korean,Stone Korean Kitchen,37.7954345974864,-122.395933834324,False,3.0,https://s3-media2.fl.yelpcdn.com/bphoto/EfVys9m5ajgHxLDdWJ6vjA/o.jpg,799,"['pickup', 'delivery']",region
+bakeries,Chantal Guillon,37.774694,-122.413225,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/dHMxCQiLpxT7I1te5zR1ng/o.jpg,193,['pickup'],region
+wine_bars,Parigo,37.79976,-122.44082,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/ZHOchOekXUm4RKHN6NNW7g/o.jpg,59,[],region
+vietnamese,The Soapbox Cafe,37.79748,-122.41847,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/ft4QM2dVdD8M_EN_qLsKEw/o.jpg,161,"['pickup', 'delivery']",region
+mexican,Gordo Taqueria,37.7652,-122.46672,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/ZNsK4SXjfMDnSpZM72NuWg/o.jpg,695,[],region
+mediterranean,Gyro Xpress,37.7611402,-122.4345649,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/ZLH6846-N2nrGBTFh29hUA/o.jpg,410,"['pickup', 'delivery']",region
+dimsum,Chase Luck Bakery,37.7236976623535,-122.456657409668,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/ghG_S_fIdnnA5mD3acsHng/o.jpg,107,[],region
+coffee,Saint Frank Coffee,37.798473,-122.422026,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/f8bdHadms0A3bgyjaqDHhQ/o.jpg,666,[],region
+greek,The Argentum Project,37.78169,-122.40922,False,5.0,https://s3-media2.fl.yelpcdn.com/bphoto/XKH8tvBpfSm7ZzkhtBUX7Q/o.jpg,75,"['pickup', 'delivery']",region
+vietnamese,Sunflower Authentic Vietnamese Restaurant,37.76466,-122.42215,False,3.5,https://s3-media4.fl.yelpcdn.com/bphoto/IRFq8Ft4Snc-hzP1xQ2RQA/o.jpg,1138,[],region
+mexican,Mestiza Taqueria,37.77959,-122.39777,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/tJjKWMH5YTXUTavidRkSvA/o.jpg,166,"['pickup', 'delivery']",region
+chinese,New Sun Hong Kong Restaurant,37.7979555,-122.4072331,False,3.0,https://s3-media2.fl.yelpcdn.com/bphoto/vtOn_Nkeq_bpp2I55Y5Tog/o.jpg,423,"['pickup', 'delivery']",region
+greek,Ayola,37.79114,-122.40431,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/U5hSG25RCQOHeQoIOJdpXg/o.jpg,299,['pickup'],region
+korean,Beque BBQ Grill,37.7852337,-122.4315788,False,3.0,https://s3-media3.fl.yelpcdn.com/bphoto/u6aA1GWQFf0Waw0bzf4KnQ/o.jpg,291,[],region
+italian,Original Joe's Westlake,37.70171,-122.48584,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/VDljaC5jSNZ-gA13Bpsz1A/o.jpg,1045,[],region
+pizza,Presidio Pizza Company,37.7870314,-122.4399855,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/35HjIx06WxignFzjxXdWBg/o.jpg,358,"['pickup', 'delivery']",region
+newamerican,The Educated Palate,37.78454,-122.40472,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/j_ib77vDrnQv1zjSfDBm1w/o.jpg,64,[],region
+popuprestaurants,Eko Kitchen,37.77369,-122.41596,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/HpR0neNz1liUHDmenjGR1Q/o.jpg,25,"['pickup', 'delivery']",region
+delis,Front Door Cafe,37.79175,-122.39889,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/JMKIfllFj-RXMW2q94uNmg/o.jpg,281,"['pickup', 'delivery']",region
+breakfast_brunch,The Presidio Cafe,37.7907639741898,-122.45887376368,False,3.0,https://s3-media2.fl.yelpcdn.com/bphoto/Cu490_kqbEI3kkAYYKzWPg/o.jpg,93,['restaurant_reservation'],region
+italian,Ideale,37.799001,-122.407311,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/DCF9XUhNKzO3eecItsPeWg/o.jpg,734,[],region
+sushi,Little Sushi Bar,37.783851,-122.482575,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/CaLZ6etZAZr7XsYXEUCQag/o.jpg,36,"['pickup', 'delivery']",region
+cafes,Beanstalk Café - Inner Richmond,37.78451,-122.4665,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/HS71WarbAJCOWeoRu09eKA/o.jpg,61,[],region
+italian,Palio,37.79392,-122.40368,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/bw7C0Nj4QWqQ5WNw3OKGcg/o.jpg,539,"['pickup', 'delivery']",region
+hotpot,One Boiling Pot Mixian Noodles,37.7428389158481,-122.478839121759,False,3.0,https://s3-media2.fl.yelpcdn.com/bphoto/5PpYa3oaVtTrSV_UiTtMrA/o.jpg,111,"['delivery', 'pickup']",region
+pizza,Barrel Proof,37.75969,-122.41879,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/VehSVU1g1CATxy7J2cqQmA/o.jpg,74,"['delivery', 'pickup']",region
+tradamerican,Ma’velous Coffee & Little Griddle,37.77628,-122.41816,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/LPh-2yX9CXA1HbgpLPAesA/o.jpg,67,[],region
+chinese,Tak Kee Lee,37.75339,-122.48993,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/c_tiD09Ennuy3GEuoB_vXg/o.jpg,180,[],region
+pizza,Casey's Pizza,37.77345,-122.39161,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/WBB9SSnAYGk854NeX6EQ1w/o.jpg,85,['delivery'],region
+seafood,The Grotto,37.8089758067267,-122.416099201818,False,3.0,https://s3-media1.fl.yelpcdn.com/bphoto/knm0Hp9FfC8YD0w2LZ6sLg/o.jpg,215,[],region
+sushi,Sushi On North Beach - Katsu,37.80152,-122.41227,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/ReiN0f5mgiGTEsGZviIr-w/o.jpg,531,"['delivery', 'pickup']",region
+japanese,Sushirrito,37.79456,-122.40192,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/y0g-_sNgUxEaWbGTvMSBuQ/o.jpg,354,"['delivery', 'pickup']",region
+pizza,Baiano Pizzeria,37.7741681941565,-122.422267710877,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/oTZZPT59e4CdxdlJqetubA/o.jpg,203,"['delivery', 'pickup']",region
+mediterranean,SF Wraps,37.7905810937305,-122.404173019757,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/HR7naMhYYP_UJSYah6jHzw/o.jpg,258,"['delivery', 'pickup']",region
+vietnamese,Out the Door,37.7959725463508,-122.393640566101,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/S19eiIc2ozvSAVYpHu634A/o.jpg,720,[],region
+seafood,Sam's Anchor Cafe,37.8728207589478,-122.456399479355,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/odMnLhwujBSrk9TnqufvIw/o.jpg,1253,['delivery'],region
+szechuan,Spice Kitchen,37.789563735928,-122.407671759525,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/gnm-IkzJ0kjaYjNcvG0NCA/o.jpg,110,[],region
+indpak,Amirah,37.8051,-122.42334,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/Kvic38JdM5w0_F9tp9KrNg/o.jpg,59,"['delivery', 'pickup']",region
+bakeries,Brioche Bakery & Cafe,37.7973133,-122.4055275,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/X5F4PFI7dxSNkQmvtRK-Jw/o.jpg,499,[],region
+coffee,Philz Coffee,37.7918127617658,-122.398988083005,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/35KOVbI2gtsqZ93bmQKKFg/o.jpg,385,[],region
+vietnamese,Thanh Thanh Cafe,37.7819608,-122.4829725,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/Xj0j5AxjNOCoz_GICrOWFQ/o.jpg,164,[],region
+japanese,Pesce e Riso,37.79835,-122.40693,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/-3xpcW0fWhSa8JA98jSUhg/o.jpg,135,[],region
+grocery,Clancey's Market & Deli,37.76267,-122.50042,False,4.5,https://s3-media1.fl.yelpcdn.com/bphoto/O-JuPcmCwd5f4iYzQzht7A/o.jpg,168,['pickup'],region
+thai,King's Thai Cuisine #2,37.78325,-122.46315,False,3.0,https://s3-media1.fl.yelpcdn.com/bphoto/KbK60MGdjyl0SrBRhfLePA/o.jpg,211,"['delivery', 'pickup']",region
+pizza,Victor's Pizzeria & Italian Restaurant,37.78991,-122.42073,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/lAdI5WGgAyyw3oCapR6NDA/o.jpg,953,"['delivery', 'pickup']",region
+indpak,Chaat Corner,37.7855072251715,-122.408595755696,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/T9oYTVWTm9nH42rntbTD9Q/o.jpg,347,"['delivery', 'pickup']",region
+bars,Balboa Cafe,37.7988179773092,-122.435910701752,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/uf-hGDQQmLIe1kGYEtzSnA/o.jpg,599,[],region
+chinese,Joyful Kitchen,37.725246,-122.462876,False,3.0,https://s3-media4.fl.yelpcdn.com/bphoto/S1zjm0GKWB6plfeQtSxL0Q/o.jpg,128,"['delivery', 'pickup']",region
+coffee,La Boulangerie de San Francisco - Cole,37.7647738,-122.449517,False,3.5,https://s3-media1.fl.yelpcdn.com/bphoto/KGbyKGjIzqg0EU3s7cmlmw/o.jpg,122,"['delivery', 'pickup']",region
+mexican,Bayshore Taqueria,37.7430959,-122.4053719,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/FxAi-S9DCE2xNP48_4UfRw/o.jpg,233,"['delivery', 'pickup']",region
+coffee,Philz Coffee,37.7886764013327,-122.393061536082,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/gmcq8UgghwV3PBOnjpDzYA/o.jpg,183,[],region
+cafes,Bravado - Italian Coffee Bar Lounge,37.7787871621352,-122.391337761795,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/4jLl7rNF37qSnBi8JwBM1g/o.jpg,309,[],region
+salad,SOMA Eats,37.791746,-122.392844,False,4.5,https://s3-media2.fl.yelpcdn.com/bphoto/1vMOSt0IKOW9QDBI-_fUiQ/o.jpg,44,"['delivery', 'pickup']",region
+gastropubs,Jasper's Corner Tap and Kitchen,37.786115,-122.4115048,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/X6N6vgdMAJtC6AeeOn45oA/o.jpg,1157,"['delivery', 'pickup']",region
+sushi,Sushi Uma,37.76353,-122.48113,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/LbNYFSSWVF3P6OvTTeaLsQ/o.jpg,230,"['delivery', 'pickup']",region
+burgers,TJ Cafe,37.7746827,-122.5099767,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/kGc4Bf4HNLhRe27af7EpYQ/o.jpg,181,"['delivery', 'pickup']",region
+creperies,Savor Open Kitchen,37.7514162727294,-122.430055439472,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/xjfANDxHbAmhluNPyMDKLA/o.jpg,873,"['delivery', 'pickup']",region
+newamerican,The Bear & Monarch,37.79235,-122.40079,False,4.0,https://s3-media3.fl.yelpcdn.com/bphoto/SfC09c8nFNVOK9R2hz6TwA/o.jpg,83,[],region
+breakfast_brunch,Daniel's Test Kitchen,37.74843,-122.41594,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/3wXRGCGt6li8cBclIs3PKQ/o.jpg,25,[],region
+bakeries,Ambrosia Bakery,37.73151,-122.47348,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/0Km0GLetE8VqSkuCK4rk1Q/o.jpg,531,['pickup'],region
+poke,Poke Life,37.76702,-122.39361,False,3.5,https://s3-media2.fl.yelpcdn.com/bphoto/yNgZ-mabtMTFAj4ZnWHA9Q/o.jpg,50,"['delivery', 'pickup']",region
+sandwiches,Ike's Sandwiches,37.7851098623318,-122.419760923614,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/JDk0o7PDADCD5x9lNBBwww/o.jpg,209,"['delivery', 'pickup']",region
+mexican,Casa De La Condesa Restaurant,37.7528835549339,-122.418238297105,False,4.5,https://s3-media3.fl.yelpcdn.com/bphoto/TsKp4U5wdHO_VNNbk_CHVw/o.jpg,41,"['delivery', 'pickup']",region
+salad,MIXT,37.7857602830938,-122.404370398586,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/_tzidF2NHPw8vSvvxzPkfg/o.jpg,209,[],region
+grocery,Roxie's Market & Deli,37.760441,-122.466229,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/lFxIA_XmdMi8duePGNR8Gg/o.jpg,280,[],region
+wine_bars,West Coast Wine Cheese,37.7970139,-122.4349293,False,4.0,https://s3-media2.fl.yelpcdn.com/bphoto/BqdslzzOfOrYnWzMlhwEhA/o.jpg,107,[],region
+buffets,Poached,37.7857486427649,-122.410553718801,False,4.0,https://s3-media1.fl.yelpcdn.com/bphoto/mP2aAmmRylM9ERxNZighNw/o.jpg,20,[],region
+beer_and_wine,That's It Market,37.7539701014757,-122.418554797769,False,4.0,https://s3-media4.fl.yelpcdn.com/bphoto/RDfuKVaIjFCPds7TJuAZVQ/o.jpg,324,"['delivery', 'pickup']",region
+tradamerican,Tabletop Tap House,37.783583090384,-122.403018850515,False,3.0,https://s3-media4.fl.yelpcdn.com/bphoto/jMTilA6tQw00H2bBzcLiGQ/o.jpg,132,[],region
+sandwiches,Wise Sons Jewish Delicatessen,37.7861320529474,-122.40342621841,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/rhlg_gjZwRujEV3V9-_wHQ/o.jpg,291,[],region
+sushi,Fishmandu Sushi,37.786373,-122.417226,False,5.0,https://s3-media3.fl.yelpcdn.com/bphoto/sDK6CszmO0lrkRmbSAizmA/o.jpg,14,"['delivery', 'pickup']",region
+mexican,Casa Mexicana II,37.75141,-122.43017,False,3.0,https://s3-media2.fl.yelpcdn.com/bphoto/UWRPMYeLU5-ckadF7El6Zw/o.jpg,286,[],region
+tradamerican,Pied Piper San Francisco,37.788008,-122.402304,False,3.5,https://s3-media3.fl.yelpcdn.com/bphoto/j69HV1d_oSgZHlNa_tpAWA/o.jpg,345,[],region
+russian,Borsch Mobile,37.7713890075684,-122.393447875977,False,4.5,https://s3-media4.fl.yelpcdn.com/bphoto/xzNCVt8nwmvwdWuUEEbvaA/o.jpg,30,[],region
