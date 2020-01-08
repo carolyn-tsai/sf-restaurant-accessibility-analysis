@@ -51,7 +51,7 @@ function createMap(dogRests,wheelRests,bothRests){
 function createMarkers(response) {
 
     // Pull the "name" property off of response.data
-    var dogrest_name = response.data.name;
+    var dogrest_name = response.data.rest_name;
 
     // Initialize array to hold markers for each restaurant for comfort dog accessability
     var dogMarkers = [];
@@ -62,13 +62,13 @@ function createMarkers(response) {
 
       // For each restaurant, create a marker and bind a popup with the restaurant's name 
       var dogrestMarker = L.marker([station.lat, station.lon])
-        .bindPopup("<h3>" + restAccess_dog.name + "<h3><h3>Capacity: " + restAccess_dog.neighborhood + "<h3>");
+        .bindPopup("<h3>" + restAccess_dog.rest_name + "<h3><h3>Capacity: " + restAccess_dog.neighborhood + "<h3>");
 
       // Add the marker to the dogMarkers array
       dogMarkers.push(dogrestMarker);
     }
     // Pull the "name" property off of response.data
-    var wheelrest_name = response.data.name;
+    var wheelrest_name = response.data.rest_name;
 
     // Initialize array to hold markers for each restaurant for wheelchair accessability
     var wheelMarkers = [];
@@ -79,13 +79,13 @@ function createMarkers(response) {
 
       // For each restaurant, create a marker and bind a popup with the restaurant's name 
       var wheelrestMarker = L.marker([station.lat, station.lon])
-        .bindPopup("<h3>" + restAccess_wheel.name + "<h3><h3>Capacity: " + restAccess_wheel.neighborhood + "<h3>");
+        .bindPopup("<h3>" + restAccess_wheel.rest_name + "<h3><h3>Capacity: " + restAccess_wheel.neighborhood + "<h3>");
 
       // Add the marker to the dogMarkers array
       wheelMarkers.push(wheelrestMarker);
     }
     // Pull the "name" property off of response.data
-    var bothrest_name = response.data.name;
+    var bothrest_name = response.data.rest_name;
 
     // Initialize array to hold markers for each restaurant for both kinds of accessability
     var bothMarkers = [];
@@ -96,7 +96,7 @@ function createMarkers(response) {
 
       // For each restaurant, create a marker and bind a popup with the restaurant's name & neighborhood
       var bothrestMarker = L.marker([station.lat, station.lon])
-      .bindPopup("<h3>" + restAccess_both.name + "<h3><h3>Capacity: " + restAccess_both.neighborhood + "<h3>");
+      .bindPopup("<h3>" + restAccess_both.rest_name + "<h3><h3>Capacity: " + restAccess_both.neighborhood + "<h3>");
 
     // Add the marker to the dogMarkers array
     bothMarkers.push(bothrestMarker);
