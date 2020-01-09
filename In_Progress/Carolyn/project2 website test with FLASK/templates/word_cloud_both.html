@@ -1,0 +1,162 @@
+<!DOCTYPE HTML>
+<!--
+	Arcana by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Word Cloud Both</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{{ url_for('static', filename='assets/css/main.css') }}" />
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+		<script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+		<script src="https://cdn.anychart.com/releases/v8/js/anychart-tag-cloud.min.js"></script> 
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+			<div id="header">
+
+				<!-- Logo -->
+					<h1><a href="index.html" id="logo">A Look at San Francisco Restaurants</a></h1>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li class="current"><a href="index.html">Home</a></li>
+							<li>
+								<a href="#">Explore Data</a>
+								<ul>
+								<li><a href="map_viz.html">Map</a></li>
+								<li><a href="word_viz.html">Word Cloud</a></li>
+								<li><a href="charts_viz.html">Charts</a></li>
+								</ul>
+							</li>
+							<li><a href="about_us.html">About Us</a></li>
+							<li><a href="about_our_project.html">About our Project</a></li>
+						</ul>
+					</nav>
+
+			</div>
+			<!-- Main -->
+			<section class="wrapper style1">
+				<div class="container">
+					<div class="row gtr-200">
+						<div class="col-3 col-12-narrower">
+							<div id="sidebar">	
+								<!-- Sidebar -->
+
+								<section>
+									<h3>Analysis of Our Data</h3>
+									<p>We created three word cloud visualizations based on our data. Each word cloud shows the frequency of restaurants by neighborhood in the San Francisco area.</p>
+									<ul class="links">
+										<li><a href="word_cloud_dog.html"><b>1. Dog Friendly Restaurants</b></a></li>
+										<li><a href="word_cloud_wc.html"><b>2. Wheelchair Accessible Restaurants</b></a></li>
+										<li><a href="word_cloud_both.html"><b>3. Restaurants with Both</b></a></li>
+									</ul>
+								</section>
+							</div>
+						</div>
+						<div class="col-9  col-12-narrower imp-narrower">
+							<div id="content">
+
+								<!-- Content -->
+
+									<article>
+										<!-- <header>
+											<h2>Dog Friendly Restaurants</h2>
+											<p>Frequency of restaurants that are dog friendly by neighborhood</p>
+										</header> -->
+
+										<div id="anychart-embed-word_cloud" class="dog dog-word_cloud">
+											<script src="https://cdn.anychart.com/releases/8.7.1/js/anychart-base.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+											<script src="https://cdn.anychart.com/releases/8.7.1/js/anychart-tag-cloud.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+											<script src="https://cdn.anychart.com/releases/8.7.1/js/anychart-exports.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+											<script src="https://cdn.anychart.com/releases/8.7.1/js/anychart-ui.min.js?hcode=a0c21fc77e1449cc86299c5faa067dc4"></script>
+											<div id="ac_style_word_cloud" style="display:none;">
+											html, body, #container {
+												width: 100%;
+												height: 100%;
+												margin: 0;
+												padding: 0;
+											}
+											</div>
+											<script>(function(){
+											function ac_add_to_head(el){
+												var head = document.getElementsByTagName('head')[0];
+												head.insertBefore(el,head.firstChild);
+											}
+											function ac_add_link(url){
+												var el = document.createElement('link');
+												el.rel='stylesheet';el.type='text/css';el.media='all';el.href=url;
+												ac_add_to_head(el);
+											}
+											function ac_add_style(css){
+												var ac_style = document.createElement('style');
+												if (ac_style.styleSheet) ac_style.styleSheet.cssText = css;
+												else ac_style.appendChild(document.createTextNode(css));
+												ac_add_to_head(ac_style);
+											}
+											ac_add_link('https://cdn.anychart.com/releases/8.7.1/css/anychart-ui.min.css?hcode=a0c21fc77e1449cc86299c5faa067dc4');
+											ac_add_style(document.getElementById("ac_style_word_cloud").innerHTML);
+											ac_add_style(".dog-word_cloud{width:800px;height:650px;}");
+											})();</script>
+											<div id="container"></div>
+												<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+												<script>both_word_viz();</script>
+										</div>
+									</article>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Footer -->
+			<div id="footer">
+				<div class="container">
+					<div class="row">
+						<section class="col-3 col-6-narrower col-12-mobilep">
+							<h3>Explore Data</h3>
+							<ul class="links">
+								<li><a href="map_viz.html">Map</a></li>
+								<li><a href="word_viz.html">Word Cloud</a></li>
+								<li><a href="charts_viz.html">Charts</a></li>
+							</ul>
+						</section>
+						<section class="col-3 col-6-narrower col-12-mobilep">
+							<h3>Github</h3>
+							<ul class="links">
+								<li><a href="#">Michael Hissey</a></li>
+								<li><a href="#">Derrick Humphrey</a></li>
+								<li><a href="#">Carolyn Tsai</a></li>
+							</ul>
+						</section>
+					</div>
+				</div>
+
+				<!-- Copyright -->
+					<div class="copyright">
+						<ul class="menu">
+							<li>&copy; UCB Extension Data Analytics Bootcamp. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</div>
+
+			</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="static/assets/js/jquery.min.js"></script>
+			<script src="static/assets/js/jquery.dropotron.min.js"></script>
+			<script src="static/assets/js/browser.min.js"></script>
+			<script src="static/assets/js/breakpoints.min.js"></script>
+			<script src="static/assets/js/util.js"></script>
+			<script src="static/assets/js/main.js"></script>
+
+	</body>
+</html>

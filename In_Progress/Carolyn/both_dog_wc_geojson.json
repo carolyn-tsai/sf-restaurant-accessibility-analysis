@@ -1,0 +1,705 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4382846,37.7761896 ]
+    },
+    "properties": {
+    "name":"4505 Burgers & BBQ",
+    "address":"705 Divisadero St, San Francisco, CA 94117",
+    "zip_code":94117,
+    "website":"https://www.yelp.com/biz/4505-burgers-and-bbq-san-francisco?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Haight-Ashbury"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.49901,37.74227 ]
+    },
+    "properties": {
+    "name":"After Hours",
+    "address":"3044 Taraval St, San Francisco, CA 94116",
+    "zip_code":94116,
+    "website":"https://www.yelp.com/biz/after-hours-san-francisco-2?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Parkside/Forest Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.432183,37.751351 ]
+    },
+    "properties": {
+    "name":"Aha Fresh",
+    "address":"4007 24th St, San Francisco, CA 94114",
+    "zip_code":94114,
+    "website":"https://www.yelp.com/biz/aha-fresh-san-francisco?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Castro/Noe Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.392733,37.7936245 ]
+    },
+    "properties": {
+    "name":"Americano",
+    "address":"8 Mission St, San Francisco, CA 94105",
+    "zip_code":94105,
+    "website":"http://www.americanorestaurant.com/info.html",
+    "neighborhood":"Embarcadero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40564,37.74313 ]
+    },
+    "properties": {
+    "name":"Bayshore Taqueria",
+    "address":"300 Bayshore Blvd Suite A, San Francisco, CA 94124",
+    "zip_code":94124,
+    "website":"https://www.yelp.com/biz/bayshore-taqueria-san-francisco",
+    "neighborhood":"Bayview/Hunters Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.508246,37.760462 ]
+    },
+    "properties": {
+    "name":"Beachside Coffee Bar & Kitchen",
+    "address":"4300 Judah St, San Francisco, CA 94122",
+    "zip_code":94122,
+    "website":"https://www.yelp.com/biz/beachside-coffee-bar-and-kitchen-san-francisco",
+    "neighborhood":"Sunset"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.42205,37.76361 ]
+    },
+    "properties": {
+    "name":"Bon Voyage",
+    "address":"584 Valencia St, San Francisco, CA 94110",
+    "zip_code":94110,
+    "website":"https://www.yelp.com/biz/bon-voyage-san-francisco?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Inner Mission/Bernal Heights"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.449763,37.766169 ]
+    },
+    "properties": {
+    "name":"Cafe Reverie",
+    "address":"848 Cole St, San Francisco, CA 94117",
+    "zip_code":94117,
+    "website":"https://www.yelp.com/biz/cafe-reverie-san-francisco?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Haight-Ashbury"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4173284,37.80759703 ]
+    },
+    "properties": {
+    "name":"Carmel Pizza Company",
+    "address":"2826 Jones St, San Francisco, CA 94133",
+    "zip_code":94133,
+    "website":"https://www.yelp.com/biz/carmel-pizza-company-san-francisco?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"North Beach/Chinatown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419467,37.746817 ]
+    },
+    "properties": {
+    "name":"Chicano Nuevo",
+    "address":"3158 Mission St, San Francisco, CA 94110",
+    "zip_code":94110,
+    "website":"https://www.yelp.com/biz/chicano-nuevo-san-francisco",
+    "neighborhood":"Inner Mission/Bernal Heights"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41723,37.760254 ]
+    },
+    "properties": {
+    "name":"Counter Offer",
+    "address":"800 S Van Ness Ave, San Francisco, CA 94110",
+    "zip_code":94110,
+    "website":"https://www.yelp.com/biz/counter-offer-san-francisco",
+    "neighborhood":"Inner Mission/Bernal Heights"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.39719,37.76266 ]
+    },
+    "properties": {
+    "name":"Cracked & Battered",
+    "address":"1434 18th St, San Francisco, CA 94107",
+    "zip_code":94107,
+    "website":"https://www.yelp.com/biz/cracked-and-battered-san-francisco?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Potrero Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.497677,37.868485 ]
+    },
+    "properties": {
+    "name":"Fish",
+    "address":"350 Harbor Dr, Sausalito, CA 94965",
+    "zip_code":94965,
+    "website":"http://www.331fish.com/",
+    "neighborhood":"Sausalito/Marin County"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.393782,37.7958338 ]
+    },
+    "properties": {
+    "name":"Gott's Roadside",
+    "address":"1 Ferry Building Ste 6, San Francisco, CA 94111",
+    "zip_code":94111,
+    "website":"https://www.gotts.com/",
+    "neighborhood":"Embarcadero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41891,37.76151 ]
+    },
+    "properties": {
+    "name":"Gracias Madre",
+    "address":"2211 Mission St, San Francisco, CA 94110",
+    "zip_code":94110,
+    "website":"https://www.gracias-madre.com/",
+    "neighborhood":"Inner Mission/Bernal Heights"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.477398,37.721016 ]
+    },
+    "properties": {
+    "name":"Halal Shop",
+    "address":"1650 Holloway Ave, San Francisco, CA 94132",
+    "zip_code":94132,
+    "website":"https://www.yelp.com/biz/halal-shop-san-francisco-2",
+    "neighborhood":"Lake Merced"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4774885,37.7635545 ]
+    },
+    "properties": {
+    "name":"Handy Deli",
+    "address":"1815 Irving St, San Francisco, CA 94122",
+    "zip_code":94122,
+    "website":"https://www.yelp.com/biz/handy-deli-san-francisco?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Sunset"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.450546,37.773241 ]
+    },
+    "properties": {
+    "name":"Hayes Pizza",
+    "address":"2077 Hayes St, San Francisco, CA 94117",
+    "zip_code":94117,
+    "website":"https://www.katanipizza.com/",
+    "neighborhood":"Haight-Ashbury"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4300571,37.78615746 ]
+    },
+    "properties": {
+    "name":"Hinodeya Ramen Bar",
+    "address":"1737 Buchanan St, San Francisco, CA 94115",
+    "zip_code":94115,
+    "website":"https://www.yelp.com/biz/hinodeya-ramen-bar-san-francisco?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Western Addition/Japantown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437355,37.774501 ]
+    },
+    "properties": {
+    "name":"Horsefeather",
+    "address":"528 Divisidero St, San Francisco, CA 94117",
+    "zip_code":94117,
+    "website":"https://www.yelp.com/biz/horsefeather-san-francisco-2?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Haight-Ashbury"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.508931,37.760451 ]
+    },
+    "properties": {
+    "name":"Java Beach Cafe",
+    "address":"1396 La Playa St, San Francisco, CA 94122",
+    "zip_code":94122,
+    "website":"http://www.javabeachsf.com/contact/",
+    "neighborhood":"Sunset"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.42967,37.79801 ]
+    },
+    "properties": {
+    "name":"KAIYŌ",
+    "address":"1838 Union St, San Francisco, CA 94123",
+    "zip_code":94123,
+    "website":"https://www.yelp.com/biz/kaiy%C5%8D-san-francisco-2?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Marina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.44781,37.77355 ]
+    },
+    "properties": {
+    "name":"Karma Cafe",
+    "address":"1901 Hayes St, San Francisco, CA 94117",
+    "zip_code":94117,
+    "website":"https://www.karmacafesf.net/",
+    "neighborhood":"Haight-Ashbury"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43335,37.80347 ]
+    },
+    "properties": {
+    "name":"MaMo",
+    "address":"3659 Buchanan St, San Francisco, CA 94123",
+    "zip_code":94123,
+    "website":"https://www.mamosf.com/",
+    "neighborhood":"Marina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3881385,37.75778235 ]
+    },
+    "properties": {
+    "name":"Magnolia Dogpatch",
+    "address":"2505 3rd St, San Francisco, CA 94107",
+    "zip_code":94107,
+    "website":"https://www.yelp.com/biz/magnolia-dogpatch-san-francisco-2?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Potrero Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.45071000000002,37.77351 ]
+    },
+    "properties": {
+    "name":"Manitas Cafe",
+    "address":"2078 Hayes St, San Francisco, CA 94117",
+    "zip_code":94117,
+    "website":"https://www.yelp.com/biz/manitas-cafe-san-francisco-2?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Haight-Ashbury"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.42085,37.75722 ]
+    },
+    "properties": {
+    "name":"Mission Picnic",
+    "address":"983 Valencia St, San Francisco, CA 94110",
+    "zip_code":94110,
+    "website":"https://www.yelp.com/biz/mission-picnic-san-francisco-3?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Inner Mission/Bernal Heights"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418733,37.757248 ]
+    },
+    "properties": {
+    "name":"Myriad Gastropub",
+    "address":"2491 Mission St, San Francisco, CA 94110",
+    "zip_code":94110,
+    "website":"https://www.yelp.com/biz/myriad-gastropub-san-francisco?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Inner Mission/Bernal Heights"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43212,37.75153 ]
+    },
+    "properties": {
+    "name":"NOVY Restaurant",
+    "address":"4000 24th St, San Francisco, CA 94114",
+    "zip_code":94114,
+    "website":"https://www.yelp.com/biz/novy-restaurant-san-francisco-6?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Castro/Noe Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4329043,37.7975533 ]
+    },
+    "properties": {
+    "name":"Palm House",
+    "address":"2032 Union St, San Francisco, CA 94123",
+    "zip_code":94123,
+    "website":"https://www.palmhousesf.com/",
+    "neighborhood":"Marina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4030857,37.80337120000001 ]
+    },
+    "properties": {
+    "name":"Pier 23 Cafe Restaurant & Bar",
+    "address":"The Embarcadero, Pier 23, San Francisco, CA 94102",
+    "zip_code":94102,
+    "website":"http://pier23cafe.com/",
+    "neighborhood":"Hayes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40181,37.78672 ]
+    },
+    "properties": {
+    "name":"Pizzeria Delfina - Downtown",
+    "address":"688 Mission St, San Francisco, CA 94105",
+    "zip_code":94105,
+    "website":"https://www.yelp.com/biz/pizzeria-delfina-downtown-san-francisco?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Embarcadero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4408,37.79989000000001 ]
+    },
+    "properties": {
+    "name":"Roma Antica",
+    "address":"3242 Scott St, San Francisco, CA 94123",
+    "zip_code":94123,
+    "website":"https://www.yelp.com/biz/roma-antica-san-francisco-3?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Marina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43365,37.76085 ]
+    },
+    "properties": {
+    "name":"Rooster & Rice - Castro",
+    "address":"4039 18th St, San Francisco, CA 94114",
+    "zip_code":94114,
+    "website":"https://www.yelp.com/biz/rooster-and-rice-san-francisco-18?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Castro/Noe Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.436997,37.79708 ]
+    },
+    "properties": {
+    "name":"Rose's Cafe",
+    "address":"2298 Union St, San Francisco, CA 94123",
+    "zip_code":94123,
+    "website":"http://www.rosescafesf.com/",
+    "neighborhood":"Marina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43088799999998,37.762646 ]
+    },
+    "properties": {
+    "name":"Saucy Asian",
+    "address":"3801 17th St, San Francisco, CA 94114",
+    "zip_code":94114,
+    "website":"https://www.saucyasian.com/",
+    "neighborhood":"Castro/Noe Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.50458,37.76063 ]
+    },
+    "properties": {
+    "name":"Sea Breeze Restaurant",
+    "address":"3940 Judah St, San Francisco, CA 94122",
+    "zip_code":94122,
+    "website":"https://www.yelp.com/biz/sea-breeze-restaurant-san-francisco-2",
+    "neighborhood":"Sunset"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4479981,37.79915161 ]
+    },
+    "properties": {
+    "name":"Sessions at the Presidio",
+    "address":"1 Letterman Dr, Bldg D, Ste 150, San Francisco, CA 94129",
+    "zip_code":94129,
+    "website":"https://www.yelp.com/biz/sessions-at-the-presidio-san-francisco?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Presidio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4021363,37.7685097 ]
+    },
+    "properties": {
+    "name":"Skool",
+    "address":"1725 Alameda St, San Francisco, CA 94103",
+    "zip_code":94103,
+    "website":"https://www.yelp.com/biz/skool-san-francisco?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"South of Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43469,37.76149 ]
+    },
+    "properties": {
+    "name":"Slurp Noodle Bar",
+    "address":"469 Castro St, San Francisco, CA 94114",
+    "zip_code":94114,
+    "website":"https://www.yelp.com/biz/slurp-noodle-bar-san-francisco?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Castro/Noe Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43191000000002,37.79776 ]
+    },
+    "properties": {
+    "name":"Solstice",
+    "address":"1980 Union St, San Francisco, CA 94123",
+    "zip_code":94123,
+    "website":"https://www.yelp.com/biz/solstice-san-francisco-2?adjust_creative=yzp0gecDlqYyzBkJGmyuPg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=yzp0gecDlqYyzBkJGmyuPg",
+    "neighborhood":"Marina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.424756,37.776393 ]
+    },
+    "properties": {
+    "name":"Stacks",
+    "address":"501 Hayes St, San Francisco, CA 94102",
+    "zip_code":94102,
+    "website":"http://www.stacksrestaurant.com/",
+    "neighborhood":"Hayes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.39012,37.781586 ]
+    },
+    "properties": {
+    "name":"Town's End Restaurant & Bakery",
+    "address":"2 Townsend St, San Francisco, CA 94107",
+    "zip_code":94107,
+    "website":"http://www.townsendrb.com/",
+    "neighborhood":"Potrero Hill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408488,37.798842 ]
+    },
+    "properties": {
+    "name":"Trattoria Pinocchio",
+    "address":"401 Columbus Ave, San Francisco, CA 94133",
+    "zip_code":94133,
+    "website":"http://www.trattoriapinocchio.com/",
+    "neighborhood":"North Beach/Chinatown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3998832,37.7866839 ]
+    },
+    "properties": {
+    "name":"Trou Normand",
+    "address":"140 New Montgomery St, San Francisco, CA 94105",
+    "zip_code":94105,
+    "website":"http://www.trounormandsf.com/",
+    "neighborhood":"Embarcadero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41065,37.76063 ]
+    },
+    "properties": {
+    "name":"Universal Cafe",
+    "address":"2814 19th St, San Francisco, CA 94110",
+    "zip_code":94110,
+    "website":"https://universalcafe.net/",
+    "neighborhood":"Inner Mission/Bernal Heights"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3886065,37.7900429 ]
+    },
+    "properties": {
+    "name":"Waterbar",
+    "address":"399 The Embarcadero, San Francisco, CA 94105",
+    "zip_code":94105,
+    "website":"https://www.waterbarsf.com/",
+    "neighborhood":"Embarcadero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.45157749999998,37.7695304 ]
+    },
+    "properties": {
+    "name":"What The Cluck - Haight/Ashbury",
+    "address":"1782 Haight St, San Francisco, CA 94117",
+    "zip_code":94117,
+    "website":"https://www.whatthecluckus.com/menu",
+    "neighborhood":"Haight-Ashbury"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4124387,37.8089902 ]
+    },
+    "properties": {
+    "name":"Wipeout Bar & Grill",
+    "address":"PIER 39 A-O2, San Francisco, CA 94133",
+    "zip_code":94133,
+    "website":"https://wipeoutbarandgrill.com/",
+    "neighborhood":"North Beach/Chinatown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4240297,37.7768993 ]
+    },
+    "properties": {
+    "name":"a Mano",
+    "address":"450 Hayes St, San Francisco, CA 94102",
+    "zip_code":94102,
+    "website":"https://amanosf.com/",
+    "neighborhood":"Hayes"
+    }
+  }
+]
+}
