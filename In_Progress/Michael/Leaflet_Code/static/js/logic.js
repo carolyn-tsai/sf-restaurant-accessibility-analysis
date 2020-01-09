@@ -1,4 +1,4 @@
-function createMap(dogRests,wheelRests,bothRests){
+function createMap(bothRests) {
 
   // Create the tile layer that will be the background of our map
   var lightmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
@@ -20,95 +20,48 @@ function createMap(dogRests,wheelRests,bothRests){
     "streetmap":streetmap
   };
 
-  // Create an overlayMaps object to hold the Dog Restaurants layer
-  var overlayMaps_dog = {
-    "Dog Restaurants": dogRests
-  };
-
-  // Create an overlayMaps object to hold the Wheelchair Restaurants layer
-  var overlayMaps_wheel = {
-    "Wheelchair Restaurants": wheelRests
-  };
-
   // Create an overlayMaps object to hold the Both Restaurants layer
   var overlayMaps_both = {
-    "Both Dog & Wheelchair Restaurants": bothRests
+    "Both Dog Friendly & Wheelchair Acessible Restaurants": bothRests
   };
 
   // Create the map object with options
   var map = L.map("map-id", {
     center: [37.7749, -122.4194],
     zoom: 12,
-    layers: [lightmap, streetmap, dogRests, wheelRests, bothRests]
+    layers: [lightmap, streetmap, bothRests]
   });
 
   // Create a layer control, pass in the baseMaps and overlayMaps. Add the layer control to the map
-  L.control.layers(baseMaps, overlayMaps_dog, overlayMaps_wheel, overlayMaps_both, {
+  L.control.layers(baseMaps, overlayMaps_both, {
     collapsed: false
   }).addTo(map);
+}
 
-// EVERYTHING BELOW STILL NEEDS EDITING TO CORRECTLY REFERENCE THE JSON //
 function createMarkers(response) {
 
-    // Pull the "name" property off of response.data
-    var dogrest_name = response.data.rest_name;
+  // Pull the "name" property off of response.features
+  var both_rests = response.features;
 
-    // Initialize array to hold markers for each restaurant for comfort dog accessability
-    var dogMarkers = [];
-  
-    // Loop through the each array
-    for (var index = 0; index < dogrest_name.length; index++) {
-      var restAccess_dog = dogrest_name[index];
+  // Initialize an array to hold "both"restaurant markers
+  var restMarkers = [];
 
-      // For each restaurant, create a marker and bind a popup with the restaurant's name 
-      var dogrestMarker = L.marker([station.lat, station.lon])
-        .bindPopup("<h3>" + restAccess_dog.rest_name + "<h3><h3>Capacity: " + restAccess_dog.neighborhood + "<h3>");
+  // Loop through the both_rests array
+  for (var index = 0; index < both_rests.length; index++) {
+    var both = both_rests[index];
+    
 
-      // Add the marker to the dogMarkers array
-      dogMarkers.push(dogrestMarker);
-    }
-    // Pull the "name" property off of response.data
-    var wheelrest_name = response.data.rest_name;
+    // For each restaurant, create a marker and bind a popup with the station's name
+    var restMarker = L.marker([both.geometry.coordinates[1], both.geometry.coordinates[0]])
+      .bindPopup("<h3>" + both.properties.name + "<h3><h3>Neighborhood: " + both.properties.neighborhood + "<h3>");
 
-    // Initialize array to hold markers for each restaurant for wheelchair accessability
-    var wheelMarkers = [];
-
-    // Loop through the each array
-    for (var index = 0; index < wheelrest_name.length; index++) {
-      var restAccess_wheel = wheelrest_name[index];
-
-      // For each restaurant, create a marker and bind a popup with the restaurant's name 
-      var wheelrestMarker = L.marker([station.lat, station.lon])
-        .bindPopup("<h3>" + restAccess_wheel.rest_name + "<h3><h3>Capacity: " + restAccess_wheel.neighborhood + "<h3>");
-
-      // Add the marker to the dogMarkers array
-      wheelMarkers.push(wheelrestMarker);
-    }
-    // Pull the "name" property off of response.data
-    var bothrest_name = response.data.rest_name;
-
-    // Initialize array to hold markers for each restaurant for both kinds of accessability
-    var bothMarkers = [];
-
-    // Loop through the each array
-    for (var index = 0; index < bothrest_name.length; index++) {
-      var restAccess_both = bothrest_name[index];
-
-      // For each restaurant, create a marker and bind a popup with the restaurant's name & neighborhood
-      var bothrestMarker = L.marker([station.lat, station.lon])
-      .bindPopup("<h3>" + restAccess_both.rest_name + "<h3><h3>Capacity: " + restAccess_both.neighborhood + "<h3>");
-
-    // Add the marker to the dogMarkers array
-    bothMarkers.push(bothrestMarker);
+    // Add the marker to the restMarkers array
+    restMarkers.push(restMarker);
+  }
+    // Create a layer group made from the bike markers array, pass it into the createMap function
+  createMap(L.layerGroup(restMarkers));
 }
-  // Create a layer group made from the each restaurant markers array, pass it into the createMap function
-  createMap(L.layerGroup(dogrestMarkers));
-  createMap(L.layerGroup(wheelrestMarkers));
-  createMap(L.layerGroup(bothrestMarkers));
-}
+// Reference Both Restaurants JSON to get restaurant information. Call createMarkers when complete
 
-// Reference JSON files to get restaurant information. Call createMarkers when complete.
-d3.json("dog_rest_geojson.json", createMarkers);
-d3.json("both_dog_wc_geojson.json", createMarkers);
-d3.json("wheelchair_rest_geojson.json", createMarkers)
-}
+d3.json("static/js/both_dog_wc_geojson.json", createMarkers);
+
