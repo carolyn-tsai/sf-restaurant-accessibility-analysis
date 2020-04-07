@@ -31,7 +31,7 @@ var trace1 = {
   
   // Apply the group barmode to the layout
   var layout = {
-    title: "Restaurants in SF",
+    title: "Restaurants in San Francisco",
     barmode: "group"
   };
   
