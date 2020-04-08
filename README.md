@@ -9,7 +9,7 @@ We were inspired to pursue this topic because we realized that accessibility is 
 
 After collecting the necessary data and doing appropriate analysis, we created an app for users to easily access the information. 
 
-![Image of Landing Page](https://github.com/carolyn-tsai/Project_Two/Main/Images/Home_Page.jpg)
+![Image of Landing Page](Main/Images/Home_Page.JPG)
 
 In the web app, there will be three main visualizations for user exploration:
 
@@ -18,7 +18,7 @@ In the web app, there will be three main visualizations for user exploration:
    - Map displays San Francisco Restaurants that are both dog and wheelchair friendly
    - The pop-up also displays the restaurant's address and neighborhood
 
-     ![Image of SF Map](https://github.com/carolyn-tsai/Project_Two/Main/Images/sf_map.jpg)
+     ![Image of SF Map](Main/Images/sf_map.JPG)
 
 2. Word clouds (Anychart)
    - There are three word clouds showing the following:
@@ -29,12 +29,12 @@ In the web app, there will be three main visualizations for user exploration:
      - Tags are typically single words or short phrases whose importance or frequency is visualized by way of their size and color
      - The more frequent a tag occurs in the dataset, the bigger and bolder the word or phrase
 
-     ![Image of Word Cloud](https://github.com/carolyn-tsai/Project_Two/Main/Images/word_cloud.jpg)  
+     ![Image of Word Cloud](Main/Images/word_cloud.JPG)  
 
 3. An interactive bar graph (Plotly)
    - Breakdown of restaurants by neighborhood and whether they are dog friendly, wheelchair accessible, or both
 
-     ![Image of Bar Chart](https://github.com/carolyn-tsai/Project_Two/Main/Images/bar_chart.png) 
+     ![Image of Bar Chart](Main/Images/bar_chart.png) 
 
 ## Data 
 
